@@ -1,0 +1,1070 @@
+--- Page 1 ---
+Avocado Production Manual
+Kenya
+2019
+1
+www.businessinnovationsfacility.org
+
+--- Page 2 ---
+Table of Contents
+Intended Use of this Manual .................................................................................................... 3
+Introduction .............................................................................................................................. 4
+Uses of Avocado ........................................................................................................................ 4
+Ecological Requirement ............................................................................................................. 4
+Avocado Varieties Grown in Kenya ............................................................................................ 5
+Nursery Management ............................................................................................................... 7
+Nursery Propagation .................................................................................................................. 7
+Grafting ...................................................................................................................................... 8
+Hardening .................................................................................................................................. 9
+Top working ............................................................................................................................... 9
+Field Establishment ................................................................................................................11
+Site Selection ............................................................................................................................11
+Soil Sampling and Testing ........................................................................................................11
+Land Preparation ......................................................................................................................12
+Preparation and Transplanting ..................................................................................................13
+Field Management Practices ..................................................................................................15
+Field Fertilisation .......................................................................................................................15
+Weed Management ...................................................................................................................16
+Mulching ...................................................................................................................................16
+Gapping ....................................................................................................................................17
+Intercropping .............................................................................................................................18
+Pruning .....................................................................................................................................18
+Watering and Irrigation ..............................................................................................................20
+Pollination .................................................................................................................................20
+Pest and Disease Management ..............................................................................................22
+Scouting and Identification of Pests and Diseases ....................................................................22
+Safe and Responsible Use of Agrochemicals ............................................................................26
+Harvesting ...............................................................................................................................28
+Yield ..........................................................................................................................................28
+Grading .....................................................................................................................................29
+Appendix 1 ..............................................................................................................................31
+Illustrative Avocado Production Budget .....................................................................................31
+Export Avocado Grades ............................................................................................................34
+2
+
+--- Page 3 ---
+Intended Use of this
+Manual
+This manual is prepared for use by Agronomists in the avocado value chain, county
+governments, input suppliers, and farmers. Other users of this manual are agricultural
+extension service providers from both the public and the private sector. It is envisaged
+that the Agronomists will use the manual in training tier two trainers (Ward level
+extension officers and Farmer leaders) and growers (Avocado farmers). Agricultural
+training institutions will also find this manual useful. Trainers are advised to supplement
+the information in this manual with available and relevant region specific Avocado
+production technologies and innovations to achieve the best quality fruits.
+3
+
+--- Page 4 ---
+Introduction
+Avocado (Persea americana) is a very nutritious fruit popular that belongs to the
+Lauraceae family. The cultivated species are native to Mexico, Central America, and
+South America. The fruit spread to North America in the 18th century and the whole
+world in the 19th century. Its importance is increasing globally for its health benefits. It
+has 20-30 percent oil, on average, and very high levels of proteins and minerals. It has
+gained popularity recently, and particularly in Kenya, as an export crop and gradually
+becoming an important source of income to many smallholder farmers.
+Uses of Avocado
+Avocado fruit has a two main uses:
+1. Culinary (component food). It is referred to as super food because of its health
+benefits. The fruit contains 70% amino acids and a wide variety of nutrients,
+which include twenty different vitamins and minerals.1
+2. Beauty (cosmetic industry). It has natural oil that contains anti-oxidants and anti-
+inflammatory agents, which help the skin to stay smooth, strong and elastic. It is
+also a carrier oil used to dilute essential oils.
+Ecological Requirement
+Soils
+Avocados can grow successfully on many types of soils within a pH range of 5.5 to 6.5,
+if the soil is deep, permeable, and free draining. The soil should retain moisture.
+Waterlogged soils should be avoided because they aid the development of root-rot
+disease caused by the fungus Phytophthora cinnamomi. Furthermore, the tree has very
+low tolerance to salinity.
+Temperatures and Altitude
+Avocado is a tropical fruit, which flourishes in climate conditions marked by little
+seasonal variations. It prefers a temperatures 15-30 ̊ C, with high humidity; it can
+withstand as high as 33̊ C. A short dry period of two months triggers flowering of the
+trees. Avocado does well in all altitude ranges, from sea level to 2500 metres above sea
+level. Some cultivars such as Simmonds, Booth 7 and 8, prefer low altitude of between
+1 These are Vitamins K, C, B5, B6, E, A, B1 (thiamine), B2 (riboflavin), and B3 (Niacin) and potassium, folic acid, and
+small amounts of magnesium, manganese, copper, iron, zinc, and phosphorous.
+4
+
+--- Page 5 ---
+90-800 m.a.s.l; Hass and Nabal 800-2100 m.a.s.l and Fuerte (Puebla) 1500-2500
+m.a.s.l.
+Rainfall
+Avocado prefers well distributed an annual rainfall of between 900-2000 mm, sufficiently
+high moisture content and light showers at the time of flowering and fruit set ensure
+good yields. Avocado tree has a relatively shallow root system; consequently, where
+irrigation is necessary, water should be applied frequently but in light applications (not
+more than 50 mm at a time). Off-season flowering and fruiting can be induced by
+stressing the tree and then watering.
+Wind
+Avocado tree is sensitive to strong winds, which may lead to breakage of branches or
+fruits and flowers and fruit drop; strong winds can uproot the whole tree. Hot dry winds
+may cause desiccation of flower buds or abrasions.
+Avocado Varieties Grown in Kenya
+There are many cultivars grown in Kenya, but only a few are of commercial importance.
+These include Fuerte, Hass, Pinkerton, Nabal, Puebla, Tonnage, Simmonds, and Booth
+7 and 8, some of which are described below:
+Fuerte: This is a hybrid between Guatemalan and Mexican races. It is a popular cultivar
+for export in many parts of the world because of its excellent flavour. It is known as a
+green variety since its fruit is green in colour even when ripen. It has a spreading growth
+habit and, as such, requires wide spacing. It produces type B flowers. The fruit is slightly
+pebbled and pear-shaped, with a thin skin and a small seed that is conical shaped and
+lies tightly on its cavity. A mature fruit weighs an average 290-380 g. It matures from 6-
+8 months after blooming. Because of the long period to maturity, there may be more
+than one set of fruits on trees simultaneously. It has a tendency towards alternate
+bearing – higher yields every other year.
+Hass: This is a Guatemalan race. It is a vigorous moderately spreading tree, which
+propagates readily and bearers consistently. It require relatively closer spacing than the
+Fuertes. It comes to production at an early age and usually bears heavily. Its flower type
+is A. it bears a small-sized fruit with a thin rough skin that weighs about 340 g. This fruit
+is green in colour at its early stages of development, turning dark purple to black on
+maturity. It is also slightly pebbled and pear-shaped. It has an excellent flavour. The fruit
+matures 8-9 months after blooming. Hass is a hardy variety that is able to withstand a
+lot of ecological conditions, more so than the other varieties. The fruit is able to stay on
+the tree long after maturity.
+5
+
+--- Page 6 ---
+Pinkerton: This is another Guatemalan race that produces Type A flowers. It has a
+medium spreading growth habit and, as such, requires closer spacing. The fruits are
+green, elongated, slightly pebbled and pear-shaped, of medium to large size weighing
+250-410 grams. It has a medium thick and easy to peel skin. Its flesh is smooth,
+creamy, and high in oil content. It has a small seed and a nutty and rich flavour. It is an
+early producer and can be stored in the
+tree for several months before
+How to distinguish Hass from Fuerte
+harvesting.
+Nabal: This is Guatemalan race that The most common commercial varieties grown in
+produces type B flowers. Its tree grows Kenya are Hass, Fuerte, and Pinkerton. Hass has
+well and fruits are green, smooth, and characteristic golden yellow leaves when young. It
+almost spherical oval, and weigh 350-
+has whitish colour on the underside of the leaves.
+720 g. It has a good flavour and
+Fuerte has red spot colouration on the shoot. They
+matures in 8-9 months after blooming.
+both have pointed leaves. Pinkerton seedling has
+The tree has a tendency towards
+large green leaves, sometimes used as a rootstock.
+alternate bearing.
+Puebla: This is a pure Mexican race of
+flower type A. It is a medium-sized, spreading, and dark green tree. The fruits are
+glossy and round shaped with a smooth skin that has a deep maroon to purple colour. It
+has a medium to large-sized seeds, which is somewhat conical. It has a good flavour. It
+matures mid-season (5-7 months after blooming). In Kenya, Puebla was mainly grown
+as a pollinator of Fuerte and, therefore, its fruits are sold mostly in domestic markets
+and the seedlings used as rootstocks for most cultivars.
+6
+
+--- Page 7 ---
+Nursery Management
+The grafted avocado seedlings should be placed under a shade to protect them from
+adverse weather conditions. These seedlings should be free from pests and diseases.
+To ensure that the seedlings are free from pest and diseases, the farmer should use
+only the recommended pesticides by the Pest and Product Control Board (PCPB). (See
+www.pcpb.or.ke for the list of registered Avocado Chemicals.) The PCPB is the body
+mandated with the regulation of pest control products, with the aim of ensuring quality
+efficacious and safe use. The seedlings should be transplanted after attaining a height
+of at least 1 metre.
+Figure 1: Avocado Seedlings (Field photo)
+These seedlings should first be hardened in the nursery. The seedling can be in the
+nursery for between six months to two years when it attains the desired planting height.
+Seedlings that are transplanted too young takes a long time before coming into bearing.
+Nursery Propagation
+Avocado is propagated mostly from seedlings. The seedlings are first propagated in a
+nursery bed where they receive tender care. The nursery bed dimensions should have a
+width of one metre with any desirable length. The seedlings are grafted to improve
+productivity. Grafting is a technique in which tissues of plants are joined to grow
+together; the upper part of the combined plant is the scion, while the lower part is the
+rootstock. Local varieties of avocado are the most preferred rootstock because they are
+well-adapted to the local conditions. Healthy, egg-sized seeds should be selected and
+7
+
+--- Page 8 ---
+planted in either seed boxes or seedbeds. As the seeds germinate, the strongest most
+vigorous seeds are selected and transplanted into ploy sleeve bags, which should be
+biodegradable. The seedling requires regular watering until they attain a pencil-size
+thickness, at which stage they should be grafted.
+Grafting
+There are many grafting methods, namely: Cleat; Bark; Side veneer; Splice; Whip and
+Tongue; Saddle and Bridge; and, Wedge. Wedge-grafting method is the most common
+in avocado production; it involves cutting a wedge-shaped cut in the rootstock and a
+tapered cut on the scion and joining them together. Grafting is done at the point where
+the rootstock is soft and tender. The scion should be dominant and match the size of
+the stock; it should be selected from a high yielding mother plant that is true to type and
+with a history of producing high-quality fruits. The scion should be tapered and fixed into
+the union, and then wrapped with a grafting tape; wax may be applied to keep off water.
+Figure 2: Wedge grafting illustration
+Advantages of Grafting:
+1. Grafted trees come into bearing earlier than un-grafted ones.
+2. Grafted trees tend to spread out as compared to un-grafted ones that tend to
+grow upright.
+3. Grafted trees tend to be shorter and thus easy to harvest or spray.
+4. Grafted trees maintain the desirable characteristics of the mother plant; for
+example, fruit quality.
+8
+
+--- Page 9 ---
+Hardening
+Hardening refers to the process of making the grafted seedlings hardy before
+transplanting. The seedling should be hardened by gradually reducing the shade and
+watering frequency. Hardening helps the seedling to get accustomed to the adverse
+field conditions. Farmers can also acquire clean planting materials from nurseries,
+which are inspected and registered by the Horticultural Crops Directorate (HCD) and
+certified by the Kenya Plant Health Inspectorate Services (KEPHIS) (details at
+http://www.kephis.org).
+Top working
+Top working is a technique for changing varieties in fruit trees. The tree is first pruned
+back to short branch stumps then grafted with a scion from the desired varieties. These
+scions are either placed directly to the tree stumps or into the shoots which sprouts from
+the stumps see figure 3 below.
+Steps in top working
+Step 1: Choose the most suitable time. Top working of grafting in general should be
+timed so that the root stock and scion are in optimum conditions and will unite rapidly.
+The weather conditions expected after grafting should be suitable for the survival of the
+scion. This should be done at the onset of rains.
+Step 2: Preparation of root stock. Trees selected for top working should be exhibiting
+satisfactory growth habit and health. The major branches are pruned to stumps at a
+convenient harvesting height. Pruning cuts are made slanting to send any water and
+bleeding sap to reduce the risk of fungal infection. Healing is speeded up by making
+clean pruning cuts as near as possible and perpendicular to the limb’s axis.
+A few small branches near the base of the trees are left unpruned to provide food and
+maintain good health to the roots. Branches exposed to the sun must be protected from
+the sun burn by shading or by painting with a white water based paints.
+Step 3: Selection of the scion, Choose a suitable scion from a high quality mature
+mother plant. Prepare the mother plant well before hand by applying the appropriate
+fertilizers and manure as per the recommendations from soil analysis or general guide
+Prune the mother plan to allow shoots to sprout. Select suitable shoots which are thick
+well matured shoots of up to 2 cm diameter. The top shoot is discarded and the rest of
+the scion is de-leafed and cut into pieces of 5-10 cm long, each bearing several well
+developed buds. Cut the scion at the appropriate time, mostly in the evening, and
+conduct all other operations under a shade.
+Step 4: Grafting may be performed by either the bark, oblique cleft or saw kerf
+techniques with freshly cut scion wood grafted into recently pruned stock branches.
+Alternatively it may be done by splice, whip or tongue, wedge or oblique wedge
+9
+
+--- Page 10 ---
+techniques into shoots which arise from the stamps 2-3 months after they have been
+pruned.
+A proper grafting knife or budding knife is the most useful for this work. The knife should
+be kept razor sharp and cleaned in between grafting.
+Scion
+Top working graft, the cut is
+slanting
+Root stock
+Figure 3: Top worked avocado tree
+10
+
+--- Page 11 ---
+Field Establishment
+It is essential to start an avocado orchard with good quality seedlings obtained from a
+reliable source (own nursery) or a certified nursery. Such seedlings should be true to
+type. Free from diseases and pests and well hardened.
+Site Selection
+To be able to establish a good avocado orchard, the first step is to acquire and prepare
+land in readiness for planting. Avocado trees are heavy feeders but sensitive to
+waterlogging and therefore require deep well-drained fertile soils.
+Steps in site selection:
+1. Identify a suitable site for avocado orchard establishment which should have well
+drained fertile soils, with appropriate rainfall .
+2. Map out land that is flat or with a slight to slope to allow drainage. In a hilly area,
+terracing is necessary.
+3. Delineate the selected area for the orchard.
+Soil Sampling and Testing
+Soil sampling is the collection of soil from a field for analysis to determine soil fertility
+and quality.
+ Soil fertility is the capacity of a soil to provide nutrients required by plants for
+growth, and is one component of soil quality.
+ Soil quality is the capacity of the soil to:
+o Accept, hold, release and mineralize nutrients and other chemical
+constituents
+o Accept, hold and release water to plants, streams, and groundwater
+o Promote good root growth and maintain good biotic habitat for soil
+organisms
+o Resist degradation
+After carefully selecting the site to establish the orchard, it is important for the soil to be
+sampled and analysed to determine its quality, which includes the pH, nutrients status,
+11
+
+--- Page 12 ---
+and chemical, physical and biological properties to enable the farmer to take corrective
+measures.
+Steps for soil sampling and testing
+1. Map out in the field for soil sampling. The Methods used include either zigzag or
+traverse methods. In the zigzag method. The land should be divided into plots
+which the same performance of crop or has the same soil colour. Demarcate the
+field into uniform portions, which must be sampled differently. In the traverse
+method, four corners of the field marked and sampling locations arranged along a
+diagonal line. For fields that are less than 5 acres, there should be about 10
+sample collection point. Fields with more than 5 acres should be divided such
+that each filed should not be more than five acres.
+2. Extract soil samples at the recommended depth, mostly at 30 cm for top soils and
+30-45 cm for subsoil. Mix different samples to come up with a composite sample
+for each field. From each of the composite sample collect at least a kilogram;
+place it in a well-labelled paper bag for laboratory analysis.
+3. Send the sample to the lab for testing. The Kenya Agricultural and Livestock
+Research Organization – Waiyaki Way (formerly National Agricultural
+Laboratories) has the necessary equipment. There are other private laboratories
+available to the farmers like Soil Care Kenya limited.
+4. Interpret the soil analysis results with the help of a soil analyst to guide in
+fertiliser application at field planting. (NOTE: if the soil analysis indicates that the
+soils are more acidic or alkaline than recommended, apply lime at the
+recommended rates.)
+Land Preparation
+Once the soil sampling is completed, the next step is to prepare the land in readiness to
+plant the avocado seedlings: this entails clearing the land of weeds and bushes,
+ploughing, harrowing and making terraces in case the land is sloping. A well-prepared
+land is conducive to seedling establishment and survival.
+Steps in land preparation:
+1. It is recommended to prepare the land 2-3 months before planting to allow the
+soil to, aerate and withering of organic matter.
+2. Clear any bushes or weeds from the orchard site and dispose of them.
+3. Plough and harrow deep to open up the soil for aeration and good water
+infiltration and drainage.
+4. Make terraces if the available land has a slope.
+12
+
+--- Page 13 ---
+Laying out the field and preparation of planting holes:
+1. Mark and peg the planting holes at the recommended spacing. The planting
+distance varies and depends on water availability, variety, and management.
+Usually, the spacing of grafted trees is between 4 m x 7 m and 10 m x 8 m.
+2. Closer spacing has been adopted for single stem pruning system of 4 m by 7 m
+and capped at 15 feet. This gives a plant population of about 340 trees per
+hectare for Hass. A spacing of 7 m x 7 m for multiple stem pruning is common,
+giving a population of about 196 trees per hectare.
+3. Holes are dug at 90 cm x 90 cm x 60 cm (width, length, and depth) in drier areas,
+and 60 cm x 60 cm x 60 cm in wet conditions.
+4. Separate the topsoil and sub-soils.
+5. Fill each hole with a mixture of the topsoil, two debes (20 kg) of well-decomposed
+manure, and 125 g of either Double Superphosphate (46% P O ) (DSP) or
+2 5
+Diammonium Phosphate (DAP). This should be done at least three weeks before
+transplanting.
+6. Water the plant just after planting to ensure contact of roots with moist soil.
+Preparation and Transplanting
+It is important to note that healthy seedlings cannot grow well or survive if not planted
+correctly. Good quality seedlings should be obtained from credible sources. These
+sources could be from KEPHIS certified nurseries or farmers own nurseries. Ideally,
+avocado seedlings should be planted at the beginning of the rains; if there is sufficient
+irrigation, planting is possible at any time of the year.
+Steps to follow in transplanting:
+1. Carefully transport healthy strong seedlings with appropriate packages to the
+planting site at least one week before planting to recover from transport damage.
+2. Remove the polythene bag or tube by tearing it while holding the seedling up-
+right.
+13
+
+--- Page 14 ---
+Figure 4: Opening seedlings
+3. Place the seedlings in the hole without removing the soil ball or bending roots
+and press the soil lightly.
+Figure 5: Placing seedlings into the planting hole
+4. Plant the seedlings at a depth similar to that in the nursery and water to settle the
+soil around the roots. For grafted seedlings, the graft union should at least be 15
+cm above the ground level.
+5. Water the seedlings immediately after planting. The seedlings should not be left
+to dry out hence the need for frequent watering and/or mulching.
+14
+
+--- Page 15 ---
+Field Management
+Practices
+Field Fertilisation
+Soil sampling and analysis carried out should determine the amounts and types of
+nutrients to be used on the farm. Soil amendments, such as fertilizers and lime, should
+be applied at the rates recommended by a soil specialist. There are different types of
+fertilizers in the market that supply both macro- and micro-nutrients into the soil. The
+macronutrients are nitrogen, phosphorous and potassium, and are required in large
+quantities; others are calcium, sulphur, and magnesium. The micronutrients (trace
+elements) are iron, boron, chlorine, manganese, and zinc.
+Steps in fertilizers application
+1. Acquire the recommended types of fertilizer, which could be either straight or
+compound fertilizers and manure as per the soil analysis report.
+2. Gather the tools and equipment needed for measuring and applying the fertilizer and
+manure.
+3. Apply nitrogenous fertilizer, or as recommended by soil analysis report, once the
+trees are established, about 3-6 months after planting. In the absence of a soil
+analysis report, use a general guide, as follows:
+Fertilizer
+Age
+CAN DSP MOP Manure
+(Years)
+(g) (g) (g) (kg)
+1-3 125 225 - 15
+4-5 225 450 - 15
+6-7 450 650 225 30
+8-9 650 650 450 30
+10-14 900 1000 635 -
+15+ 13000 12000 650 -
+Note: Compound fertilizers like NPK with trace elements can also be applied based on the soil and
+tissues analysis; CAN - Calcium Ammonium Nitrate; DSP - Double Super Phosphate; MOP - Muriate of
+Potash.
+Source: Kenya Agriculture and Livestock Research Organization (KALRO)
+4. It is important to apply fertilizers at the right time. Timing of fertilizer application has a
+significant effect on crop yields proper application of fertilizer increases yields,
+15
+
+--- Page 16 ---
+reduces nutrient losses and increases nutrient use efficiency, and prevents plant
+damage. Plants needs different nutrient rates and ratios at different growth stages in
+order for the nutrients to be available when needed by the plant. Nitrogenous
+fertilizers are soluble is water and should be applied when the ground is moist.
+Nitrogen could be lost through leaching, denitrification, erosion and surface
+volatilization while phosphorus easily become fixed and unavailable. Applying
+fertilizer at the wrong time might result in nutrient losses, waste of fertilizers and
+even damage to crops.
+5. An annual application of well-decomposed manure at 15-30 kg is recommended.
+Organic matter helps in offsetting soil PH and reduces the level of hydrogen ions
+(H+) which causes soil acidity.
+Weed Management
+A weed is any plant growing where it is not required, and whose economic
+disadvantages outweigh benefits. Weeds compete with the crop for nutrients and water,
+and can also harbour important pests and diseases. Therefore, it is important to ensure
+the orchard is clear of weeds to reduce competition with the trees; this leads to healthy
+plants. Weed control can be accomplished through a combination of weeding, mulching,
+and application of herbicides. Mulching suppresses the growth of weeds by preventing
+the penetration of light to support growth. Weeding is the mechanical removal of weeds
+through uprooting, digging, or ploughing. Herbicides are chemicals used to control
+weeds; chemical weed control is becoming popular due to shortages of manual labour
+and cost implications.
+Steps in weed management
+1. The farmers should scout for weeds in the farm and determine the intensity of
+infestation; this involves visits to the orchard, observing and collecting the most
+common weeds.
+2. Identify the types of weeds; i.e., are they broad-leafed or narrow-leafed? This
+guides on choosing the method of control.
+3. Choose the control method.
+4. Acquire the necessary materials/equipment for weed control.
+5. Control the weeds appropriately. Use only recommended herbicides (See
+http://www.pcpb.or.ke in case of chemical control.
+Mulching
+Mulching is a practice carried out to conserve moisture and to add organic matter to the
+soil. Mulching improves the water retention capacity of the soil and subsequently
+promotes avocado growth. The most common mulch for avocado is well-dried grass
+16
+
+--- Page 17 ---
+that is pest free as well as dry leaves from the avocado trees. Avoid sawdust, as it
+decomposes and ties up nitrogen.
+Gapping
+Not all seedlings planted in the field take off and grow but some dry up. Causes of
+seedling death vary from injury at transplanting, disease/insect damage, or
+waterlogging. Gapping is the process of replacing the dead seedlings with new ones.
+Steps in carrying out gapping:
+1. Scout the farm for dead or dried seedlings
+2. Try to establish the cause of drying to conduct corrective measures.
+3. Remove and count the dead seedlings
+4. Procure or source seedlings for replanting
+5. Loosen the soil in the planting hole, water the holes and plant the seedlings
+6. It drying is as a result of fungi in the planting hole dig out the soil and apply
+fungicides
+7. Water the seedling after planting.
+Figure 6: A well-managed orchard (Field photo)
+17
+
+--- Page 18 ---
+Intercropping
+In the early stage of Avocado orchard establishment, there is space in between rows
+that can be utilized to grow other short-term crops to earn more money and provide
+income and food security. Intercropping also prevents soil erosion in the orchard as the
+intercrops act as cover crops. If the area between the avocado trees is to be used to
+plant other crops, appropriate spacing should be planned. During the young developing
+stages of the avocado trees, intercropping with annual crops such as legumes,
+vegetables, and low-lying fodder, such as desmodium, can be practiced. If climatic and
+soil conditions are suitable, other fruit crops, such as pawpaw (3-5 years cropping
+period) and pineapples (2-3 years), can be included in the intercropping system. Cover
+crops are the most recommended intercrop for avocado.
+Steps for Intercropping
+1. Identify suitable crops recommended for intercropping
+2. Intercrop with short-term annual crops during orchard establishment
+3. Determine fertilizer application rates for the intercrop to provide adequate
+nutrients to both crops. Leguminous crops help fix nitrogen into the soil. Cover
+crop helps conserve the soil moisture as well as suppress the growth of weeds.
+An intercropping cycle needs to be designed to reap maximum benefits from the
+farm.
+Pruning
+Avocado trees need continuous attention to ensure continued harvest and to improve
+the lifespan of the orchard trees. The form and height of the avocado tree need to be
+controlled to guide growth and facilitate harvesting at a later stage; this is called training.
+Pruning involves the removal of excessive and dead branches to improve light
+penetration as well as harvesting. When the tree is well trained and pruned, it gives
+better yields; the avocado tree undergoes different types of pruning that starts at an
+early stage of tree development and continues to be carried out every year throughout
+the lifetime of the orchard. There are two types of pruning carried out; these are
+formative and structural pruning.
+Formative Pruning
+Avocado formative growth occurs during the first two-three years of age; this is when
+formative pruning should be carried out. Pruning shapes the plant during this time to
+encourage lateral branching instead of vertical height. Choose a few branches each
+year and prune them back to the base of the trunk. In the first year, at about 1 m from
+the ground, pinch off growing tips to encourage side branches (3 to 5 well-developed
+branches). After that, the second flush of leaves should be removed.
+18
+
+--- Page 19 ---
+Steps in Formative Pruning
+1. Remove all the side shoots below the one-meter height using secateurs or a
+sharp knife.
+2. Do not allow any sprouts below the graft union.
+3. Pinch off central leader (break over the top branch) to induce the format of lateral
+shoots (side branches).
+4. Allow-3-5 side branches to develop.
+5. Maintain 3-5 branches equally spaced around the single stem, prune off weak
+ones.
+6. Force the shoots to grow in the desired direction by using sticks of timber or
+strings holding them away from the central: this form the scaffold branches (main
+branches) that are the supporting framework for the growing tree.
+7. Ensure an open scaffold system of growth (open crown).
+Structural Pruning
+With all branches at about 0.5 m pruned, structural pruning should be done for proper
+maintenance of the trees, mostly after fruit harvest. The canopy should be at least 1 m
+above ground. Main branches should branch off the trunk at 11/2 m above the ground.
+The trees should be capped to about 7-8 m in height. Any dead branches and sucker
+branches should be removed to allow more sunlight through the canopy to the ground
+under the tree; this should be done every year to maintain the tree at 7-8 m and develop
+a suitable canopy density.
+Steps in structural pruning:
+1. Remove all dead and sucker branches from the main structural branches
+2. Prune canopy to allow sunlight and reach the ground under the tree.
+3. Leave 4-5 well-spaced branches to be the future main ones.
+4. Remove dead branches every year to maintain the desired shape and canopy.
+5. Repeat the pruning every year to maintain the desired height and canopy.
+Benefits of Pruning
+1. Fruits are produced on the edge of the tree and hold to maturity.
+2. Open trees structure allows easy harvesting.
+3. The tree produces large fruits
+19
+
+--- Page 20 ---
+4. Allows-inter-cropping
+5. Benefit from natural conditions of sun and air movement to prevent disease build
+up.
+6. Control tree height and prevent excessive spreading of branches.
+Watering and Irrigation
+Irrigation is the provision of supplemental water to the plant. Irrigation in the first three
+years promotes flushing, suppresses flowering, and increases tree size. When the tree
+is big enough to produce a substantial crop, at the age of 3-4 years, irrigation should be
+halted or at least interrupted long enough (2 months) to induce dormancy that leads to
+flower initiation.
+Steps in watering trees
+1. Determine the level of soil moisture around the plant; this can be done using soil
+moisture meter or other appropriate methods. Since avocado plant does not
+withstand water logging, ensure each plant receives at least 50 mm of water at a
+time.
+2. Determine the appropriate irrigation method: the drip method is recommended.
+Water bottles can be used during the dry period. Overhead watering is not
+recommended due to wastage of water and promotion of fungal diseases. It is
+advisable to water the Avocado plant during the dry period January-March and
+August- September
+3. Apply the water based on the appropriate method.
+Pollination
+During the flowering period, an established avocado tree may produce in excess of a
+million of flowers but most of which fall without producing fruits. The reason behind this
+mass flowering is to encourage visits by pollinators. There are a range of flying and
+crawling insects that act as pollinating vectors; bees are believed to be the most
+important.
+Pollination of avocado flowers, however, is dependent on the flower type of the varieties
+grown. The avocado tree has ‘complete’ flowers but with an unusual behaviour, known
+as ‘Protogynous dichogamy.’ A single flower has both functional male and female
+organs and opens and closes twice over two-day intervals. The first day it opens as
+functionally female and the next as functionally male. Each opening stage only lasts
+about half a day. In general, on a single tree, all the open flowers will be synchronized;
+that is, they will be all functionally male or all functionally female.
+20
+
+--- Page 21 ---
+The pollen of one tree is compatible with itself and quite capable of self-pollination. The
+unusual flowering behaviour is to reduce the likelihood of this occurring by minimizing
+the amount of own pollen when female stages are receptive. To further maximize the
+likelihood of cross pollination some trees will:
+1. Open first in the morning as functionally female, close and then re-open the next
+afternoon as functionally male (Type A flowering sequence).
+2. Open first in the afternoon as functionally female, close and then open the next
+morning as functionally male (Type B flowering sequence).
+The timing of these stages determines the classification of varieties into either Type A
+or B flowering.
+Flower Day 1 Day 1 Day 2 Day 2
+Type (Morning) (Afternoon) (Morning) (Afternoon)
+A Female Closed Closed Male
+B Closed Female Male Closed
+It is against this background that avocado trees need to cross pollinate with another
+variety for optimum fruit set. To increases the chances of successful pollination:
+ Plant Type A and Type B varieties on the same orchard, in areas with enough
+pollinators.
+ Where pollinators are few, consider introducing a few beehives on the orchard
+and plant other plants that attract common pollinators.
+Selected varieties and their types are shown in the table below.
+Flower Type Variety
+A Hass, Peubla, Pinkerton, Simmonds, Reed, Choquette, TX 531
+B Fuerte, Nabal, Ettinger, Tonnage, Zutano, Hardy
+21
+
+--- Page 22 ---
+Pest and Disease
+Management
+Various diseases and pests infect avocado trees and, if are not controlled, they reduce
+the yields and profitability of the fruits. Fruits that are infected by pest or attacked by
+diseases are unsuitable for marketing in both the fresh and export markets; they are
+categorised as Grade 2, which are unsuitable for export. It is therefore essential to
+conduct appropriate control of pest and diseases.
+Scouting and Identification of Pests and Diseases
+Scouting is the process of carefully checking for pests and diseases in the orchard.
+Scouting for crop pests and diseases is a crucial component of Integrated Pest and
+Disease Management (IPDM).
+Steps in scouting for pests and diseases
+1. Prepare a programmer for pest and diseases scouting. The programmer of
+scouting should start as early as possible during the crops life and keep records.
+2. Determine the frequency of scouting depending on the time of the year, disease
+and pest potential.
+3. Identify pests, diseases, and their thresholds through sample collections and
+identification, and determine control methods and frequency of that control.
+4. Prepare a control programme for identified pests and diseases.
+5. Source materials for pest and disease control.
+6. Gather the tools and equipment for the control of pests and diseases.
+7. Actively implement control programmer for identified pests and diseases and
+monitor progress. Changing the plan if needed.
+22
+
+--- Page 23 ---
+Common Diseases
+Disease Distribution Symptoms Control
+ -Small and pale
+green The cultural method
+ -often wilted which includes
+with brow tips appropriate planting
+and fall readily to avoid water
+ -Small leaves logging in the
+with poor colour planting holes,
+ -Shoots die improving drainage
+This is the most back from the in the farm.
+Phytophthora
+important and tips, and the -Use of appropriate
+Root Rot (PRP)
+widely distributed tree eventual fungicides, which
+disease of avocado becomes a bare are approved by
+Phytophthora
+frame a dying PCPB like
+Cinnamomi
+branches Bendazim 500 SC
+ -There is also Suspension
+an absence of concentrate and
+small feeder, Compliant 569
+roots or Suspension,
+blackened, concentrate
+decay and Among others
+brittle.
+ The disease
+appears as
+depressed spots
+on the fruit, Remove dead
+which manifest branches And twigs
+A fungal disease, as a rot that can since they harbour
+which affects penetrate deep the fungus.
+mature fruits. The into the flesh Remove fallen,
+infection occurs  In wet rotten fruits from the
+Anthracnose when the fruit is conditions, the field.
+young, and the spots may be
+fungus remains covered with a
+dormant until the mass of slimy, Apply copper-based
+fruit ripens salmon pink fungicides pre-
+fungal spore flowering and after
+mass. harvest.2
+ If storage
+conditions are
+humid and wet,
+2 Safe and responsible use of agro-chemicals
+23
+
+--- Page 24 ---
+the disease may
+develop very
+rapidly in
+storage humid
+and wet.
+ The bark, fruits
+and leaves
+Prevent sunburn by
+exposed to
+providing trees with
+sunlight are
+good growing
+Sunburn injured by
+condition and
+heating and
+proper cultural care
+A common disease drying of tissues
+White wash young
+in the of Avocado  Damage is
+trees routinely at
+affecting, fruits, typically most
+planting
+leaves, twigs and severe on the
+White wash trunk
+trunks western side of
+and major limbs of
+the trees
+older trees
+ Sun burn initially
+Orchard should
+causes a pale
+uses the North-
+yellowish area
+South orientation
+on the exposed
+side of the fruit
+Common Pests
+Pest Impact on Avocado Control
+ Both natural and chemical
+methods can be used
+ For chemical control protein
+bait (trap) can be used as an
+The female lays its eggs under the fruit attractant mixed with a
+rind. Careful monitoring using chemical
+Fruit fly pheromone traps is critical to establish  For cultural control method,
+population levels, when to control, and the critical thing is sanitation.
+efficacy of control measures takes. Also, fallen fruits are
+collected and disposed of.
+Routine eradication of
+alternative hosts, such as
+guavas, is recommended.
+The adult mosquito bug:  To decide on control method,
+Mosquito
+ Feeds early in the morning, late monitoring of the two stages
+Bugs -
+afternoon, and at night. They fly of the pest and for fruit
+stainers
+quite fast and thus have the damage should be
+(Helopeltie
+potential to affect many fruits. undertaken by looking for
+Schoutedeni)
+The nymph mosquito bug: signs of the bug.
+24
+
+--- Page 25 ---
+ Does not fly and only affects the  All insecticides registered for
+few fruits that are within their use on avocado can control
+reach. the lace bugs. Sprays should
+be directed to the underside
+of leaves and repeated every
+two weeks.
+It is a significant threat to producing
+export-quality avocado.
+• When eggs laid on the fruit surface
+hatch, the caterpillars bore into the
+fruit, rendering it undesirable for
+False Codling
+consumption and vulnerable to  Can use Pheromone traps to
+moth
+diseases and rot. catch the moths.
+(FCM)
+• Fruits may also ripen and drop
+prematurely. The resulting fruit loss
+and damage could result in significant
+losses; remaining fruit is also prone to
+secondary infections.
+ Adult and systate weevil damage.
+Control can be difficult. Cultural
+Notched (uneven) feeding on the
+method, which includes picking and
+leaves is characteristic of feeding
+Systate destroying weevils, is practiced. If
+by adults; this is significant on
+Weevils pressure persists, chemical control
+young and small to medium-sized
+is recommended. The timing of the
+trees. The pest can hide in the
+spaying is critical.
+leaves, mulch, and soil.
+ Scales are small, and stationary
+brown, greenish insects
+occasionally found sucking sap
+from avocado leaves.
+ Soft scales, such as Coccus spp.,
+excrete a large amount of
+ Parasitic wasps, ladybird
+honeydew that leads to the
+beetles, and lacewings usually
+development of sooty mould on
+keep scales under control, as
+leaves, branches, and fruit.
+long as no broad-spectrum
+ Honeydew attracts ants, which
+Scales pesticides are used and ants are
+protect the scales from natural
+absent. Efforts should be made
+enemies.
+to conserve these naturally
+ Armoured scales, such as the
+occurring pests.
+coconut scale (Aspidiotus
+destructor), may encrust young
+twigs, leaves, and fruit. They do not
+produce honeydew.
+ Scales in avocado orchards can
+cause severe damage to young fruit
+and kill small twigs. Although the
+25
+
+--- Page 26 ---
+presence of scales on fruit skin
+does not cause internal damage, it
+may lead to rejection of fruit,
+especially those meant for export
+markets.
+ Thrips are small, slender insects (1-
+2 mm long), with two pairs of
+fringed wings. Adult thrips are dark
+brown or black; they are yellow at
+immature stages. A bright red band
+can distinguish the red-banded
+thrips across the abdomen of
+immature thrips.
+ Thrips are sometimes troublesome
+pests in avocado. They may cause  Biological controls conserve
+damage to the leaves and fruit. natural enemies - predatory
+Affected parts become whitish or thrips, lacewings, and predatory
+Thrips silvery and usually covered by dark- bugs attack thrips.
+coloured droppings.
+ On fruit, feeding begins near the Control measures are rarely
+calyx, which gradually produces a needed.3
+scar that can cover the whole fruit.
+Attacked fruits develop a leathery
+brown skin. Feeding is most
+common on young fruit: economic
+damage occurs on fruits that are up
+to 2 cm in length (2-3 weeks after
+fruit set).
+ Older fruit with thicker skin is less
+susceptible to thrips attack.
+Safe and Responsible Use of Agrochemicals
+Various agro-chemicals are used in the Avocado production to control various pests.
+These are of several kinds including herbicide, insecticide, rodenticide and fungicide
+among others. Chemicals used to pests can harm non target species including people,
+pest fish and wildlife. Pesticide users have the legal responsibility to use pesticide
+according to the product label to reduce the risks. Pesticide injuries are most likely to
+occur while the chemicals are being mixed. The containers are opened and the
+chemical are not yet diluted.
+Safety precautions
+3
+26
+
+--- Page 27 ---
+1. Read the instructions in the label very carefully the label includes level of toxicity,
+first aid practises, precaution statement, required protection, instructions
+regarding mixing, storage information and disposal
+2. Avoid eating anything when using agrochemicals
+3. Work only in well ventilated and well lit area.
+4. Wash with water and soap after applying the chemical
+27
+
+--- Page 28 ---
+Harvesting
+Avocado harvesting in Kenya occurs between March and December (March-October in
+the main growing areas of Central and Eastern regions). Since most varieties do not
+change colour on maturity, testing is advised; it is important to visit the orchard and
+scout for the mature fruits based on the maturity index. It is also advisable to pick a few
+fruits which are stored at room temperature for 7-10 days. If they soften without
+shrivelling, then the fruit is ready for harvesting. Fruit should not be plucked from the
+stalk but instead cut off with a 3 cm stalk.
+The following treatment is recommended to prolong avocado shelf, after harvesting,
+Fuerte and Hass fruits must be cooled quickly (within 5 hours of harvesting) to the
+optimum storage temperature of 5°C. This treatment kills fungal spores on and in the
+skin of the fruit. The avocados should be immersed in water heated to a temperature of
+50°C for 3-5 minutes. Treatment of fruit using fungicides, such as Bavistin
+(Carbendazim) and Sporta K Brochlura Z, improve the effectiveness of this treatment. It
+is advisable to place the harvested Avocado fruits under a shade and covered with fresh
+banana leaves.
+Figure 7: Grading of Avocado
+Yield
+Avocado trees produce in excess of a million of flowers per season but most of which
+fall off without forming into fruits. Formed fruits also drop off the tree due to poor
+pollination, climatic conditions, and poor crop husbandry. Consequently, only a small
+28
+
+--- Page 29 ---
+number of fruits (relative to the number of flowers) set and reach maturity. Annual
+avocado tree yield depends on several factors, such as alternate bearing patterns,
+location, variety, pollination, agronomic practices (including the planting of mixed A and
+B floral types on the same orchard), and quality of planting material.
+The first yield (fry pick) occurs in the third or fourth year after transplanting, depending
+on the variety, location, and orchard management. Commercial production is expected
+by the fifth or sixth year, and high (peak) yields from 7-10 years onwards. Because of a
+tendency towards alternate bearing by the most common varieties, and fluctuating
+climatic conditions, estimates of annual yield are highly imprecise. According to the
+literature, typical orchards are estimated to yield an average of 10 tonnes per hectare
+(t/ha) annually by the 10th year.
+A report by the World Agroforestry Centre (ICRAF) found that Fuerte and Hass trees in
+Central Kenya (Kamiti, Kiambu) produced an average 49,500 and 87,780 fruits per ha,
+respectively, in the 8th year.4 An Agronomist at one of the leading avocado exporters
+estimated that a well-managed orchard of Hass variety could produce 1 t/ha fry pick in
+3-4 years and then 400-800 fruits per tree from the 5th year onwards; on average, the
+yield is about 335 fruits per tree).5 Spacing, management, variety mix (Type A and B),
+bearing patterns (alternate or consistent), and climatic conditions are key to orchard
+yield. According to KALRO, on average, farmers should expect from 7.5 to 11 t/ha (120
+trees) annually. The following yield estimates can be expected from orchards with Hass
+and Fuerte varieties.6
+Age of tree (years) Yield (Weight - Kg) Yield (Number of fruits)
+3-4 2.3-25 10-100
+5-6 25-42 100-160
+7 + 19-150 70-500
+Grading
+Grading is done according to size and weight, after removing injured and diseased
+fruits. After removing all debris, soil, and foreign particles using a water bath, the fruits
+are packed in 4-kg cartons. The water must be periodically changed to avoid cross-
+contamination. A fungicidal treatment (Thiabendazole) at ml per 100 litres of water is
+used. The fruits are waxed, dried in hot air, and stored at 5°C. The most critical factors
+for successful marketing are quality, packaging, rapid adaptation of exports to seasonal
+4 World Agroforestry Centre (ICRAF). 2005. Avocado Growing in Kenya, by Jurgen Griesbach. Nairobi: World
+Agroforestry Centre.
+5 Informal presentation at a business introduction meeting in Nyeri town, October 2, 2018.
+6 The estimates are calculated from the ICRAF (2005) report and represent Hass and Fuerte orchards in Kamiti,
+Kiambu from establishment to Year 10.
+29
+
+--- Page 30 ---
+fluctuations and changing market situations, and a logistical chain (including proper
+cooling and competitive prices).
+Figure 8: Sorting of Avocado
+Classification for the export market
+Avocados for the export market are classified into three broad classes (see Appendix
+1):
+1. Extra class-this comprises of superior quality and must have the characteristics
+of true to type variety with very minimum defects.
+2. Class 1 good quality Avocado with minimum defects
+3. Class 11 The fruits which do not qualify for the higher classes but meets the
+minimum requirements
+30
+
+--- Page 31 ---
+Appendix 1
+Illustrative Avocado Production Budget
+YEAR 1
+(a) Crop Establishment
+Item Quantity
+Seedlings 62
+Planting holes 62
+Manure per hole (kg) 20
+Ploughing (man days) 15
+Fertilizer - TSP (kg) 5
+Lime (kg) 5
+Soil analysis 1
+(b) Maintenance
+Weeding (man days) 15
+Agrochemicals (fungicides, insecticides) various
+Spraying labour (man days) 8
+Fertilizer - CAN (kg) 5
+Pruning labour (man days) 5
+YEAR 2
+Orchard Maintenance
+Weeding labour (man days) 15
+Agrochemicals (fungicides, insecticides) various
+Spraying labour (man days) 8
+Manure per tree (kg) 20
+CAN (kg) 5
+TSP (kg) 5
+Lime (kg) 5
+Pruning labour (man days) 5
+YEAR 3
+(a) Orchard Maintenance
+Manure per tree (kg) 20
+Weeding labour (man days) 15
+Agrochemicals (fungicides, insecticides) various
+Spraying labour 12
+CAN (kg) 5
+TSP (kg) 5
+31
+
+--- Page 32 ---
+Pruning labour (man days) 4
+(b) Harvesting
+Harvesting labour (man days) 3
+YEAR 4
+(a) Orchard Maintenance
+Manure per tree (kg) 20
+Weeding labour (man days) 15
+Agrochemicals (fungicides, insecticides) various
+Spraying labour 12
+CAN (kg) 5
+TSP (kg) 5
+Pruning labour (man days) 4
+(b) Harvesting
+Harvesting labour (man days) 6
+YEAR 5
+(a) Orchard Maintenance
+Manure per tree (kg) 20
+Weeding labour (man days) 15
+Agrochemicals (fungicides, insecticides) various
+Spraying labour 12
+CAN (kg) 22
+TSP (kg) 45
+Lime (kg) 45
+Pruning labour (man days) 5
+(b) Harvesting
+Harvesting labour (man days) 12
+YEAR 6
+(a) Orchard Maintenance
+Manure per tree (kg) 20
+Weeding labour (man days) 15
+Agrochemicals (fungicides, insecticides) various
+Spraying labour 12
+CAN (kg) 45
+TSP (kg) 65
+Lime (kg) 65
+Pruning labour (man days) 5
+(b) Harvesting
+Harvesting labour (man days) 12
+32
+
+--- Page 33 ---
+YEAR 7
+(a) Orchard Maintenance
+Manure per tree (kg) 20
+Weeding labour (man days) 15
+Agrochemicals (fungicides, insecticides) various
+Spraying labour 12
+CAN (kg) 65
+TSP (kg) 65
+Lime (kg) 65
+Pruning labour (man days) 5
+(b) Harvesting
+Harvesting labour (man days) 12
+YEAR 8+
+(a) Orchard Maintenance
+Manure per tree (kg) 20
+Weeding labour (man days) 15
+Agrochemicals (fungicides, insecticides) various
+Spraying labour 12
+CAN (kg) 65
+TSP (kg) 65
+Lime (kg) 65
+Pruning labour (man days) 5
+(b) Harvesting
+Harvesting labour (man days) 12
+33
+
+--- Page 34 ---
+Export Avocado Grades
+Size code Weight (grams)
+2 >1220
+4 781-1220
+6 576-780
+8 456-576
+10 364-462
+12 300-371
+14 258-313
+16 227-274
+18 203-243
+20 184-217
+22 165-196
+24 151-175
+26 144-157
+28 134-147
+30 123-137
+80-123
+32
+(only Hass)
+34

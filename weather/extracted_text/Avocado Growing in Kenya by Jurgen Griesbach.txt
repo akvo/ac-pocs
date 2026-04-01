@@ -1,0 +1,4227 @@
+--- Page 1 ---
+AAAAAAAAAA
+vvvvvvvvvv
+oooooooooo
+cccccccccc
+aaaaaaaaaa
+dddddddddd
+oooooooooo
+gg g gg gg g gg
+rrrrrrrrrr
+oooooooooo
+wwwwwwwwww
+ii
+nn
+i
+n
+ii
+nn
+ii
+nn
+i
+n
+ii
+nn
+gggggggggg
+ii
+nn
+i
+n
+ii
+nn
+ii
+nn
+i
+n
+ii
+nn
+AAAAA AAAAAvvvvv vvvvvooooo oooooccccc cccccaaaaa aaaaaddddd dddddooooo ooooo ggggg gggggrrrrr rrrrrooooo ooooowwwww wwwwwiiiii iiiiinnnnn nnnnnggggg ggggg
+KK K KK KK K KK
+eeeeeeeeee
+nnnnnnnnnn
+yyyyyyyyyy iiiii iiiiinnnnn nnnnn
+aaaaaaaaaa
+KKKKK KKKKKeeeee eeeeennnnn nnnnnyyyyy yyyyyaaaaa aaaaa
+DFID
+JJüürrggeenn GGrriieessbbaacchh
+Department for International
+Development of the UK Government
+cover 1 5/19/05, 9:40 AM
+
+--- Page 3 ---
+AAAAAVVVVVOOOOOCCCCCAAAAADDDDDOOOOO GGGGGRRRRROOOOOWWWWWIIIIINNNNNGGGGG
+IIIIINNNNN
+KKKKKEEEEENNNNNYYYYYAAAAA
+JÜRGEN GRIESBACH
+WORLD AGROFORESTRY CENTRE
+
+--- Page 4 ---
+ISBN 92 9059 173 0
+Cover photo: Pinkerton cultivar, Jürgen Griesbach
+Cultivar photos: Jürgen Griesbach
+Editing: Mieke Naessens Vlieghe, Jan Beniest and Anthony Simons
+© ICRAF 2005
+World Agroforestry Centre (ICRAF)
+P.O. Box 30677
+00100 Nairobi, Kenya
+Tel: +254 20 722 4000, via USA +1 650 833 6645
+Fax: +254 20 722 4001, via USA +1 650 833 6646
+E-mail: icraf@cgiar.org
+Internet: http://www.worldagroforestrycentre.org
+Layout and printing: Kul Graphics Ltd.
+Nairobi, Kenya.
+
+--- Page 5 ---
+CCCCCOOOOONNNNNTTTTTEEEEENNNNNTTTTTSSSSS
+Foreword ........................................................................................................................iii
+Introduction .......................................................................................................................1
+Uses and food value .....................................................................................................4
+History and botany .......................................................................................................5
+Propagation ..................................................................................................................8
+Establishment .............................................................................................................11
+Orchard maintenance ..................................................................................................14
+Pests and diseases .......................................................................................................19
+Harvesting ..................................................................................................................22
+Yield ................................................................................................................................25
+Some characteristics of Kenya-grown avocado cultivars ..........................................26
+Description of avocado cultivars ...............................................................................31
+Bacon .......................................................................................................................32
+Booth 7 .....................................................................................................................34
+Booth 8 ...................................................................................................................36
+Choquette ...............................................................................................................38
+Danish W.I. Bank .....................................................................................................40
+Ettinger ...................................................................................................................42
+Fuerte ......................................................................................................................44
+Hardy .......................................................................................................................46
+Hass ........................................................................................................................48
+Kyoyl .......................................................................................................................50
+Linda ......................................................................................................................52
+Lula .........................................................................................................................54
+Nabal ......................................................................................................................56
+Pinkerton ...................................................................................................................58
+Puebla ......................................................................................................................60
+Reed ........................................................................................................................62
+Ruehle .....................................................................................................................64
+Sama ........................................................................................................................66
+Simmonds ................................................................................................................68
+Tambarina ................................................................................................................70
+Teague .....................................................................................................................72
+Tonnage ...................................................................................................................74
+TX 531 .....................................................................................................................76
+Waldin .....................................................................................................................78
+Winter Mexican ........................................................................................................80
+Zutano .......................................................................................................................82
+Further reading .........................................................................................................84
+i
+
+--- Page 6 ---
+Glossary ...................................................................................................................86
+Appendix 1: Provincial avocado production statistics .............................................88
+Appendix 2: Export market statistics figures for avocado from Kenya by
+sea and air.........................................................................................89
+Appendix 3: Main avocado suppliers to the European markets in tonnes............90
+Appendix 4: ... and their main months of supply ..................................................91
+Appendix 5: Some characteristics of the three avocado races..............................92
+Appendix 6: Altitude map of Kenya .......................................................................93
+Appendix 7: Yield performance figures of some avocado cultivars .....................94
+Appendix 8: Some common and fully or provisionally (*) registered
+insecticides ......................................................................................96
+Appendix 9: Some common and fully or provisionally (*) registered
+fungicides ........................................................................................99
+Appendix 10: Some common horticultural insecticides/fungicides and
+their recommended pre-harvest intervals .........................................102
+Appendix 11: Avocado main maturity seasons in respective Provinces ................103
+Appendix 12: List of registered tree nurseries propagating avocado trees
+(among others) ..................................................................................104
+ii
+
+--- Page 7 ---
+FFFFFOOOOORRRRREEEEEWWWWWOOOOORRRRRDDDDD
+The World Agroforestry Centre (ICRAF) envisions a large increase in the cultivation
+of trees in farmland as natural forests decline in area and demand for tree products
+increases. Smallholder rural households may particularly benefit from increased tree
+cultivation to help ensure security in food, health and income. To make this agroforestry
+transformation happen the millions of poor farming households require access to a
+portfolio of well-adapted and productive trees that can improve their livelihoods. This
+portfolio will contain both established commercial species and lesser developed
+indigenous trees. One of the most eligible commercial trees to include in such portfolios
+around the world is the avocado.
+Few tree species can claim such universal appeal as the avocado in terms of bioclimatic
+suitability and human benefits. The diverse environments in which the avocado
+developed in Meso-America and the Caribbean have provided a broad range of distinct
+genotypes that can grow throughout the temperate and tropical zones. In many ways
+Kenya’s diverse climate and topography were made for avocado cultivation with the
+Mexican highland races and Caribbean coastal races finding corresponding agroclimatic
+zones here. The high protein, vitamin and anti-oxidant contents of avocado provide a
+large health benefit to cultivators and urban consumers alike. The world recognition
+and demand for avocado also offer current and future export opportunities.
+On average only 13% of the world’s avocado production is traded internationally with
+the EU and USA being the primary export markets. The avocado is an important
+commercial fruit in Kenya and in 2003, approximately 30% of its avocado crop was
+exported. Interestingly, Kenya accounts for only 2% of world production but 5% of
+world exports. Compared to other important avocado growing countries, Kenya has a
+unique niche in terms of the production season, shared with South Africa but with the
+advantage of more competitive shipping costs. Even though the local and export
+marketing potential is there, this can be expected to become more competitive in the
+future and will require the avocado production industry to keep abreast of developments
+affecting the sector, especially when it comes to adhering to consumer needs,
+preferences, pesticide residue standards and traceability regulations.
+Next to this cash value as an export crop, the avocado has many uses and a very high
+nutritive value. It has an unusually high protein content and a serving of avocado
+provides almost twice the daily requirement of several minerals and vitamins. It can
+be eaten raw and also flavours soups, ice cream and milkshakes. There are wide
+differences in the flavours of individual avocados, ranging from salty, to nutty, to
+sweet, with shades in between. Avocado oil is easily digestible, largely unsaturated
+and has a low sugar content. It is also widely used in cosmetics.
+iii
+
+--- Page 8 ---
+Commercial fruit tree species such as mangoes and avocados can open the farm gates
+to newer and less developed indigenous species. Researchers, development specialists,
+trainers, teachers and farmers can learn a lot about tree cultivation and domestication
+from these well established fruits. It is therefore that we decided to publish this book
+on Avocado growing in Kenya as a follow up on the one on Mango growing in Kenya (2003).
+The aim of this book is to familiarize extension staff, trainers, farmers and marketers
+with avocado cultivation in Kenya. Even though the content is based on research and
+development information obtained in Kenya, there is no doubt that other countries in
+Eastern and Central Africa that have similar ecological conditions can also benefit
+from the information. Its main focus is on varietal selection for different parts of the
+country since this is very much needed if producers want to supply local and
+international markets with a timely and varied supply of good quality fruits.
+The author of this book is Jürgen Griesbach, a horticulturist with four decades of
+experience in fruit production in Kenya. Technical editing of the book was done by
+Tony Simons, Principal Tree Scientist, and Jan Beniest, Principal Training Officer,
+both of the World Agroforestry Centre. Its production was made possible through
+project grants of the Strengthening International Institutions (SII) of the Netherlands’
+Ministry of Foreign Affairs and the Department for International Development (DFID)
+of the United Kingdom. Their support to the Centre’s activities is greatly appreciated.
+Anthony Simons, PhD Jan Beniest, Ir
+Principal Tree Scientist Principal Training Officer
+World Agroforestry Centre World Agroforestry Centre
+iv
+
+--- Page 9 ---
+IIIIINNNNNTTTTTRRRRROOOOODDDDDUUUUUCCCCCTTTTTIIIIIOOOOONNNNN
+With a world production of 3.2 million tonnes in 2004 (data from FAOSTAT -
+http://faostat.fao.org/faostat), the avocado can be regarded as an international fruit. North
+and Central America are the main producers (80%) while the rest of the world supplies
+the remaining 20%.
+According to the latest production and export statistics from the United Nations Food
+and Agriculture Organization (FAO), the following summary emerges:
+EEEEEssssstttttiiiiimmmmmaaaaattttteeeeeddddd wwwwwooooorrrrrlllllddddd aaaaavvvvvooooocccccaaaaadddddooooo ppppprrrrroooooddddduuuuuccccctttttiiiiiooooonnnnn iiiiinnnnn tttttooooonnnnnnnnnneeeeesssss (((((ttttt)))))
+MMMMMaaaaajjjjjooooorrrrr PPPPPrrrrroooooddddduuuuuccccceeeeerrrrr CCCCCooooouuuuunnnnntttttrrrrriiiiieeeeesssss
+Country Production Export
+Australia 40 500 442
+Brazil 173 000
+Cameroon 57 000 34 000
+Chile 135 000 95 300
+Colombia 158 000 5
+Costa Rica 25 000
+Democratic Republic of Congo 6 200
+Dominican Republic 140 000 15 163
+Ecuador 6 800
+El Salvador 40 000 n.d
+Ethiopia 81 000
+Guatemala 27 000 4 680
+Haiti 47 000
+Indonesia 270 000 169
+Israel 65 000 22 400
+Kenya 70 000 20 000
+Mexico 1 040 000 124 000
+New Zealand 4 000 5 600
+Peru 95 000 11 500
+South Africa 66 500 38 900
+Spain 135 000 34 700
+USA 200 200 6 800
+Venezuela 52 000 922
+1
+
+--- Page 10 ---
+Huge expansion in production areas in many countries will definitely increase the
+production output in the near future, and the estimated figure of 4 million tonnes
+worldwide sounds very realistic.
+When looking at horticulture production in Kenya, one notices that over the last decade
+there has been a considerable increase in its importance for both the local and export
+markets as well as for the processing industry. The following statements are quoted
+from the Annual Report 2003, published by the Ministry of Agriculture, Horticultural
+Division, Nairobi: “The horticultural sub-sector has continued to grow despite the
+overall decline in economic growth. It is the second highest foreign exchange earner
+after tea. The total hectarage under horticulture in 2003 was estimated at about 375 101 ha,
+out of which 220 000 ha were under vegetables and 151 345 ha under fruits. The total
+value generated by the sector was KES 28.8 billion in foreign exchange and
+KES 37.5 billion for the internal trade ($1 = 80 KES). Large-scale growers dominate
+commercial horticulture, while the majority of horticultural growers are small-scale
+farmers. The contribution of smallholder growers by volume of exports has declined
+from about 60% to 50%. A wide range of horticulture crops is grown due to the diverse
+climatic conditions. These crops are grown under both rainfed and irrigated conditions,
+but production is inadequate due to seasonality and unreliability of rainfall.”
+Fruits represent an important horticultural commodity and the ever increasing hectarage
+of the avocado (see Appendix 1) and its respective yield production contributes to
+export, local consumption and processing. It may be said that the avocado can and
+should make a steadily increasing contribution towards five important Kenya
+Government objectives, among others:
+1. increased foreign exchange earnings;
+2. increased rural employment;
+3. higher standard of living for the average family;
+4. improved nutrition for people whose diets are inadequate;
+5. added support to the ‘Green Belt Movement’.
+Currently avocados represent about 17% of the total horticultural exports from this
+country. Nearly 20 000 tonnes, valued at KES 892 million have been exported in 2003
+(as compared to 12 890 tonnes valued at KES 682 million in 2002), according to the
+Horticultural Crop Development Authority (HCDA). At this level of export it represents
+approximately 39% of total avocados annual production of 70 000 tonnes. The major
+part of production is recorded from March to September and smaller volumes are
+available from October to February (see Appendix 2). The main export cultivars are
+Fuerte (80%) and Hass (20%).
+2
+
+--- Page 11 ---
+Kenya’s main competitors on the European market are South Africa, Israel and Spain.
+(see Appendices 3 and 4). These countries have a long-standing tradition and immense
+experience regarding avocado cultivation. Kenya can only succeed in further
+establishing itself on the avocado export market if taking into consideration the
+following:
+(cid:1) For the foreseeable future, the danger will not be an avocado over-supply but
+rathera limited development of the local and external markets as well as
+destructive competition among the producers.
+(cid:1) Producers should be guided and assisted by a well-functioning and knowledgeable
+Extension Service.
+(cid:1) Producers must become more aware of the customers’ needs and wishes.
+(cid:1) Expansion of avocado growing in certain ecological zones must only be carried
+out with superior grafted varieties adapted to given climatical conditions.
+(cid:1) Cultivars, quality, husbandry measures, handling, packaging and presentation
+are some of the factors that still need to be improved in future.
+(cid:1) Avocado consumption can be promoted by stressing the high nutritive value of
+the fruit.
+This book is primarily intended to be a valuable reference to avocado growing in
+Kenya. It should also be useful for farmers and extension staff as a practical guide on
+the main aspects regarding the establishment and maintenance of an avocado orchard.
+It emphasizes locally available avocado varieties that are suitable for commercial and
+home garden production.
+3
+
+--- Page 12 ---
+UUUUUSSSSSEEEEESSSSS AAAAANNNNNDDDDD FFFFFOOOOOOOOOODDDDD VVVVVAAAAALLLLLUUUUUEEEEE
+The avocado fruit was once a luxury food reserved for the tables of royalty but is
+today enjoyed around the world by people from all walks of life. Combined with its
+outstanding productivity in Kenya, the avocado has many uses and its nutritive value
+is exceptionally high. A serving of avocado provides about twice the amount of the
+daily requirement of several minerals and vitamins. For a fresh fruit, it has unusually
+high protein content – comparable to animal sources in quality. The high content of
+both minerals and proteins makes avocado a highly nutritious food; avocado oil is
+easily digestible and can have beneficial effects on the digestive system. The oil is
+largely unsaturated and as the sugar content is low – about three percent – the fruit can
+be recommended as a high-energy food for diabetics. Avocado cannot be cooked and
+is generally eaten ‘raw’ on bread or in salads with lemon juice, salt and pepper. Very
+often the fruit is simply halved and spiced with salt, pepper, sugar and/or various
+fillings according to individual tastes.
+Other important uses of the fruit are as flavouring in the preparation of ice cream and
+as a base for milkshakes and soups. Moreover, avocado oil is in great demand for the
+preparation of a wide range of cosmetics. For anyone wishing to increase their vitality
+naturally, try the avocado and enjoy!
+CCCCCaaaaalllllooooorrrrriiiiieeeeesssss aaaaannnnnddddd NNNNNuuuuutttttrrrrriiiiieeeeennnnntttttsssss pppppeeeeerrrrr 111110000000000 ggggg eeeeedddddiiiiibbbbbllllleeeee pppppooooorrrrrtttttiiiiiooooonnnnn ooooofffff AAAAAvvvvvooooocccccaaaaadddddooooo
+Nutrients Minerals Vitamins
+Calories 50 – 220 kcal Calcium 11.0 mg Vitamin A 612.0 I.U.
+Protein 0.8 – 4.4 g Iron 1.18 mg Vitamin C 7.9 mg
+Carbohydrates 1.2 – 10.0 g Magnesium 41.0 mg Thiamin 0.11 mg
+Fats 5 – 32 g Phosphorus 42.0 mg Riboflavin 0.12 mg
+Potassium 634.0 mg Niacin 1.92 mg
+Sodium 12.0 mg Vitamin B-6 280.0 µg
+Zinc 0.42 mg Folacin 65.5 µg
+Copper 0.27 mg
+Manganese 0.24 mg
+Source: USDA – Nutrient Data Lab (1996)
+MMMMMiiiiinnnnniiiiimmmmmuuuuummmmm dddddaaaaaiiiiilllllyyyyy vvvvviiiiitttttaaaaammmmmiiiiinnnnn aaaaannnnnddddd mmmmmiiiiinnnnneeeeerrrrraaaaalllll rrrrreeeeeqqqqquuuuuiiiiirrrrreeeeemmmmmeeeeennnnntttttsssss fffffooooorrrrr hhhhheeeeeaaaaalllllttttthhhhhyyyyy pppppeeeeeooooopppppllllleeeee
+Vitamin A (IU) = 2500
+Vitamin C (mg) = 60
+Thiamin (mg) = 1.5
+Niacin (mg) = 19
+Iron (mg) = 18
+Calcium (mg) = 1000
+Source: ‘Vitamins and Minerals’, Leonard Mervyn (2000)
+4
+
+--- Page 13 ---
+HHHHHIIIIISSSSSTTTTTOOOOORRRRRYYYYY AAAAANNNNNDDDDD BBBBBOOOOOTTTTTAAAAANNNNNYYYYY
+The avocado (Persea americana) – also called ‘Mwembe mafuta’ in Kiswahili –
+belongs to the family of Lauraceae that also includes the laurel, the camphor and the
+cinnamon tree. The avocado is native to Southern Mexico, Central America and
+northwestern South America. As one of the most nourishing tropical fruits, it has been
+cultivated in tropical America since pre-Columbian times. It was introduced to Florida
+in 1833 and to California in 1871.
+In Kenya, it was most probably the Portuguese who were responsible for the
+dissemination of avocado during the 16th and 18th centuries. By 1939, such improved
+cultivars as Puebla, Nabal, Lyon, Lula, Linda and at least two strains of Fuerte – one
+from California and one from South Africa – had been introduced. They adapted very
+well to the highlands of Kenya, and especially Fuerte and Puebla have been promoted
+ever since. Statistics indicate that during 1970 about 23 tonnes of avocado were
+exported, while in 1984 this figure had climbed to 1400 tonnes. Since 1965, a cultivar
+introduction programme has been initiated in order to screen more cultivars suitable
+also for lower altitudes and/or agro-ecological zones.
+Three horticultural races of avocado are known that originated in Mexico, Guatemala or
+the West Indies and each of these has its distinctive characteristics (see Appendix 5):
+GGGGGUUUUUAAAAATTTTTEEEEEMMMMMAAAAALLLLLAAAAANNNNN RRRRRAAAAACCCCCEEEEE (((((ssssseeeeemmmmmiiiii-----tttttrrrrrooooopppppiiiiicccccaaaaalllll)))))
+Fruits of this race have thick, hard skins that are often pebbled or rough. The mostly
+large seed is always set tightly in the cavity. The oil content is average and fruits
+generally keep well both on the tree and under refrigeration. The fruits, for example
+Hass and Reed, mature late.
+MMMMMEEEEEXXXXXIIIIICCCCCAAAAANNNNN RRRRRAAAAACCCCCEEEEE (((((sssssuuuuubbbbb-----tttttrrrrrooooopppppiiiiicccccaaaaalllll)))))
+The fruits are relatively small, thin-skinned and do not store well; crushed leaves have
+a typical strong, aniseed-like smell. The seed is usually large and is often used as a
+rootstock known for its high tolerance to Phytophthora. The fruits of cultivars Puebla
+and Teague, mature early to mid-season.
+WWWWWEEEEESSSSSTTTTT IIIIINNNNNDDDDDIIIIIAAAAANNNNN RRRRRAAAAACCCCCEEEEE (((((tttttrrrrrooooopppppiiiiicccccaaaaalllll)))))
+The fruits are normally large and pale green when ripe, sometimes with a reddish
+blush. The oil content is comparatively low and the skin is tough, leathery and smooth.
+Fruits are easily bruised but cultivars of this race are well adapted to the hot humid
+tropics and are also the most tolerant ones with regard to salinity. This race includes
+the early maturing varieties such as Hardy and Simmonds.
+5
+
+--- Page 14 ---
+Hybrids of the above-mentioned races have the characteristics of both parents. If one parent
+is Mexican, for example, the hybrid will retain some of the aniseed scent and the hardiness of
+that race. Fuerte and Zutano are Mexican x Guatemalan hybrids, among others.
+In Kenya where all the three races and their hybrids are grown at more or less the
+same latitude, the West Indian race is usually found between sea level and 1000 m, the
+Guatemalan race is best adapted to an altitude between 1000 and 2000 m while the
+Mexican race flourishes best from 1500 to 2500 m.
+The medium to large avocado tree is evergreen but some cultivars may be very sparsely
+foliated for a short period during flowering time. Seedlings generally grow upright
+and may reach a height of over 25 m whereas grafted trees remain smaller. Depending
+on race or cultivar, grafted trees may be low and spreading or tall and upright. The
+development of the root system is greatly influenced by climate, soil and cultural
+practices. Generally, a high portion of roots is located at a depth of up to 60 cm and
+may penetrate to 1 m and more, depending on the soil profile. It has been reported that
+lateral roots spread to a distance of 5 – 6 m. The avocado’s leaves are simple, entire
+and multiform in shape ranging from lanceolate to ovate and grow to a length of 7 to
+35 cm. At their juvenile stage, they are light green or reddish and turn dark green,
+thick and leathery when mature. They are arranged alternately, appearing in flushes
+and are crowded at the tip of the branchlets.
+Vegetatively propagated trees usually start flowering 3 – 4 years after having been
+planted into the field. Under normal circumstances, inflorescences appear mainly during
+the months August to September, each carrying up to over a hundred yellowish to
+greenish flowers. During one bloom period, a well-established tree may produce about
+a million flowers but will carry only 0.1% of these through to mature fruits. It has also
+been noted that depending on the location, the same cultivar may flower differently
+and that off-season flowering – often in March-April – is quite common. The flowers
+are borne in clusters at the terminals of branches of the current season’s growth. The
+avocado has a unique flower behaviour and cultivars are classified into A and B types.
+Flowers of type A first open during the morning when their stigmas are receptive
+(female stage) and close around noon. They remain closed until noon of day 2, then
+re-open and release their pollen (male stage). The timing of maturity of different sexual
+parts of the flower in type B cultivars is exactly opposite.
+6
+
+--- Page 15 ---
+Day 1 Day 2
+Type A
+Type B
+0600 1200 1800 0600 1200 1800
+In Kenya, a lot of overlapping within one flower type has been observed and this is
+one of the reasons why, for example, the Fuerte sets fruits quite reasonably without a
+pollinator. Nonetheless, in order to ensure proper pollination – which is carried out by
+bees and other insects – the mixed planting of A and B types is recommended.
+AAAAAvvvvvooooocccccaaaaadddddooooo cccccuuuuullllltttttiiiiivvvvvaaaaarrrrrsssss gggggrrrrrooooouuuuupppppeeeeeddddd aaaaaccccccccccooooorrrrrdddddiiiiinnnnnggggg tttttooooo ffffflllllooooorrrrraaaaalllll tttttyyyyypppppeeeee
+Type A Type B
+Hass Zutano
+Reed Bacon
+Lula Fuerte
+Puebla Nabal
+Simmonds Linda
+Choquette Booth 7
+Waldin Booth 8
+Sama Tonnage
+Pinkerton Winter Mexican
+Fruits of the avocado tree have one single large seed, made up mainly of two cotyledons
+and surrounded by three concentric layers called the pericarp (see figure 1). Fruits of
+different cultivars vary greatly in size, shape, colour and other characteristics and can
+weigh up to more than 2 kg. Fruits do not ripen until they drop or are picked from the
+tree. When mature, the flesh is of a buttery consistency and – depending on race – has
+an extremely high oil content (up to 30%) which in fruit growing is only surpassed by
+the olive. Sometimes small sausage-shaped fruits may develop. These are without
+seeds and are referred to as ‘fingerlings’ or ‘cukes’ (see page 44). Mostly Fuerte is
+susceptible to this.
+7
+
+--- Page 16 ---
+Figure 1 Avocado fruit diagram
+STALK
+SKIN
+PERICARP
+SEED LENGTH
+WIDTH
+PPPPPRRRRROOOOOPPPPPAAAAAGGGGGAAAAATTTTTIIIIIOOOOONNNNN
+It is a well-known fact that avocado trees grown from seed are of uncertain quality
+because they are not ‘true-to-type’. They vary for example in their habit of growth,
+productivity, fruit quality and the time required before the trees start bearing fruit.
+Most seedlings are therefore not recommended as commercial planting material
+although they can be used as a rootstock. Research stations do still carry out propagation
+by seed however to select and breed new cultivars.
+Very little is known about the best choice of rootstock for Kenya. Different rootstocks
+(clonal or seedling) have not proved to significantly affect fruit quality in the avocado,
+nor fruit size, apart from indirect influences regarding crop yield or tree health.
+Previously, and mainly because of their easy availability, Fuerte seeds have often
+been used as rootstock ignoring their inferior uniformity and only mediocre rootstock
+performance. Rootstocks of the West Indian race, where they can be used, have
+significant advantages, including: greater resistance to salinity and chlorosis, greater
+tolerance towards drought and nutritional deficiencies. As long as Phytophthora
+8
+
+--- Page 17 ---
+cinnamoni (rootrot) does not become a serious problem, the best approach would be
+to use the seed of cultivars like Lula or Waldin. With respect to Phytophthora tolerance,
+seedlings from the cultivars G 6 and Duke 7 have shown the best performance.
+Seed must be collected only from healthy and vigorous mother trees and from fruits
+which are mature and healthy. Seed removed from fruits that have dropped to the
+ground or even from decayed fruits must not be used as this increases the risk of
+Phytophthora infection. Average to large-sized seeds generally produce vigorous
+seedlings since the cotyledons contain a large reserve of food supply for the growing
+plant.
+Prior to planting, extracted seeds should be treated in hot water not exceeding 50OC
+for 30 minutes and then coated or dipped in a broad spectrum fungicide to prevent
+infection with Phytophthora cinnamoni. Seeds are planted with the flat basal end
+pointing downwards either in nursery beds or directly into perforated black polythene
+bags, about 20 cm in diameter, and 30 cm deep. During germination shade cover can
+be up to 80%. Soon after germination, when approximately 20 cm high and having
+developed two pairs of leaves, the open-seeded seedlings are uprooted, culled and
+transplanted into containers. Shade may need to be manipulated at approximately
+30 – 40% to avoid sun scorching. Whatever potting media is used, it should be of
+medium texture, sterilized if possible and with good drainage properties. A
+recommended mixture, for example, could be composed of five parts of topsoil, two
+parts of coconut fibre, two parts of compost and one part of gravel. For other compost
+mixtures, a target of 20% air filter porosity and 300 ml/litre water holding capacity
+would be good. Nurseries should be sited away from areas of pineapple cultivation as
+this is a source of Phytophthora cinnamoni infection.
+About six months after transplanting, the seedlings will be ready for side grafting,
+although also wedge or cleft and whip grafts are successful, among other grafting
+methods (see figure 2). Whip grafting with a 2.5 cm cut is useful with small diameter
+scions (6 – 13 mm diameter). Wedge grafting gives a stronger graft union compared
+to whip grafting.
+Distinct differences in the productivity of different scion sources of the same cultivar
+have been observed, and the selection of high standard and healthy mother trees is
+therefore necessary in order to achieve uniform planting materials. A good scion consists
+of a mature terminal shoot, about 5 cm long, and with (2 – 3) fully developed buds.
+After the scion has been cut from the tree, all its leaves must be removed at once in
+order to prevent drying. Three to four months after grafting and at the end of their first
+growth cycle, the trees are ready to be transplanted into the field.
+9
+
+--- Page 18 ---
+Figure 2 Grafting techniques
+Whip Graft
+Wedge Graft
+Side Graft
+Bark Graft
+10
+
+--- Page 19 ---
+EEEEESSSSSTTTTTAAAAABBBBBLLLLLIIIIISSSSSHHHHHMMMMMEEEEENNNNNTTTTT
+The planting of a new commercial avocado orchard is a long-term investment and
+requires proper planning and considering several important aspects.
+EEEEEcccccooooolllllooooogggggiiiiicccccaaaaalllll RRRRReeeeeqqqqquuuuuiiiiirrrrreeeeemmmmmeeeeennnnntttttsssss
+Temperature and Altitude
+Various races of avocado have adapted to elevations from sea level up to over 2000 m.
+This indicates its adaptability to a wide range of environments. The West Indian race
+prefers warmer/lower altitude conditions below approx. 800 m, while the Mexican
+race can withstand -5OC for short periods and prefers the higher elevations of up to
+2500 m. The Guatemalan race and the hybrids are found between these two as far as
+temperature is concerned (see Appendix 6). For optimum growth and yield,
+temperatures of 25 to 30OC are believed to be ideal. Prolonged exposure to temperatures
+above 35 to 40OC combined with low relative humidity will damage fruits and leaves
+through sunburn, resulting in stress and reduced productivity.
+Rainfall
+Avocados are moderately drought tolerant. Irrigation will be beneficial to plant growth
+and crop yields during prolonged dry periods. Critical stages of moisture demand
+occur during flowering, fruit-set and fruit development. In Kenya, an annual
+precipitation of 1000 – 1200 mm seems to be sufficient for avocado cultivation, with
+a minimum of 750 mm being essential for a reasonable crop development. Irregular
+rainfall distribution sometimes creates problems. Appropriate measures must be taken
+to preserve moisture and to reduce evaporation, for example by mulching and through
+weed control. Occasional rain showers during the flowering season will not harm the
+flowers.
+Soil
+Avocados will grow successfully in a wide range of soil types but do not tolerate
+flooding or poorly drained soils. Deep, fertile, well-aerated, particularly sandy or
+alluvial loams with neutral or slightly acid pH values (pH 5 to 7) are desirable. Heavy
+soils or those having a high water table are unsuitable and should be avoided. Under
+these conditions, trees are highly susceptible to root infection by Phytophthora as
+well as nutrient deficiency symptoms, particularly zinc and iron. A good soil structure
+is necessary since the roots have a high oxygen requirement. Avocado roots are
+extremely sensitive to high salt concentrations/saline conditions.
+11
+
+--- Page 20 ---
+CCCCCuuuuullllltttttiiiiivvvvvaaaaatttttiiiiiooooonnnnn RRRRReeeeeqqqqquuuuuiiiiirrrrreeeeemmmmmeeeeennnnntttttsssss
+Site Selection
+The chosen planting site should be cleared of tree stumps, bushes, big stones and
+perennial weeds. This will be followed, if necessary, by levelling off to remove
+unwanted anthills. Land preparation is similar to that for other crops, namely one deep
+ploughing (30 - 40 cm) and two to three harrowings. To achieve a good tilth of the
+cleared land, fruit growers are advised to plant an annual crop a year before starting
+fruit cultivation. If frequent strong winds are expected, the early establishment of a
+windbreak hedge is necessary. Depending on location, tree species like Cupressus,
+Casuarina, Grevillea, etc. can be used for this purpose. Unprotected avocado orchards
+will be affected by stunted growth, increased evaporation and erosion, defoliation,
+damaged branches, bruised or even blown off fruits. If there is a choice, level or slightly
+sloping land is advantageous, otherwise contour cultivation or even terracing may be
+necessary.
+Layout
+If possible, trees should be planted in straight lines to facilitate crop husbandry measures
+and harvesting. There are different systems of layout, including the rectangular,
+hexagonal or square system. In Kenya, the rectangular planting pattern is mainly used.
+This permits unhindered movement of machinery between the rows for cultivation,
+spraying, pruning and harvesting. It also allows maximum penetration and utilization
+of sunlight by the lower parts of the trees. The close square planting system, later
+followed by a ‘tree-thinning’ operation is not often practised because crowded and
+expensive trees may have to be removed before bearing their first economic crop.
+The planting distances depend on altitude, soil type/fertility, cultivar and climatic
+influences. Wider than normal spacing is necessary if the soil fertility is poor,
+maintenance inputs are limited and plants depend mainly on rainfall. Overcrowding
+leads to increased infestation with pests and diseases and will consequently reduce
+yield and income. Depending on the above-mentioned variables, recommended tree
+spacings are indicated in the cultivar descriptions and vary from 6 m x 7 m to
+8 m x 10 m.
+Lower returns per ha in the starter years can be compensated by inter- or under-cropping.
+Annual crops like beans, maize, sunflower, simsim, etc. are suitable, but it must always
+be kept in mind that a minimum distance of two metres from the young trees needs to
+be observed.
+12
+
+--- Page 21 ---
+Preparing planting holes
+After the layout and pegging, the digging of planting holes commences. This should
+be carried out during the dry season and be completed when the rainy season starts. As
+a rule, the individual holes should be dug sufficiently large and deep to accommodate
+the baled nursery tree comfortably, leaving enough additional space for the refill of
+soil on the sides and under the bale. Usually, planting holes measuring 60 cm square
+and up to 70 cm deep are recommended. If compacted layers of gravel or murram
+outcrops intervene, it is essential for these hardpans to be broken up to allow free
+drainage and unhindered development of the root system.
+The right time for taking soil samples is when digging the planting hole. For obtaining
+correct values, care should be taken not to mix topsoil and subsoil and to take separate
+samples of each for analysis. It is also important to keep topsoil and subsoil separate
+during planting, as the nutrient content is different, topsoil being more fertile.
+To achieve the best analysis results, take 10 to 12 topsoil samples (from 5 to 15 cm
+depth) from different locations in the field, place in a bucket, mix thoroughly and put
+approximately 1 kg of this representative mixture into a properly labelled delivery
+container. Repeat this procedure with soil from a depth of 16 cm downwards (subsoil)
+and fill a separate container. After delivery for examination to the National Agricultural
+Laboratories, (P.O. Box 14733, Nairobi), you will receive detailed information about
+the status of the soil and relevant advice concerning proper fertilization of your tree crop.
+As a rule, one should always try to supplement the topsoil taken from the planting
+hole with an application of manure, phosphate and, if necessary, a soil insecticide.
+Two buckets of well rotten farmyard manure and 250 g of double superphosphate,
+well mixed with the topsoil, will significantly improve the structure and fertility of the
+filling medium.
+Planting
+To utilize the full benefit of the seasonal rainfall, trees should be planted as soon as the
+rain has deeply penetrated the ground. Trees planted at this time of the year have a full
+growing period ahead to establish themselves before the next dry season approaches.
+Potted plants, usually in plastic sleeves, must be removed from their containers in the
+field right at the planting hole in such a way that the soil around the roots is not
+disturbed. After the plastic is cut and removed, the plant is placed into the planting
+hole. Again, great care must be taken not to damage any roots while filling the hole.
+Tamp the soil as you fill, but never plant an avocado tree deeper than the soil level it
+was in while in the plastic bag. After planting, the leftover soil is used to build a basin
+around each tree in order to collect water from rain or irrigation.
+13
+
+--- Page 22 ---
+Newly planted trees should be irrigated immediately with enough water (15 – 20 litres)
+to settle the soil around the bale and to wet the roots thoroughly.
+To ensure ample moisture, this watering may have to be continued – depending on
+rainfall – until the first young shoots appear. In order to minimize moisture loss and
+sun-scorch growers are advised to whitewash the stems of their young trees with a
+10% solution of agriculture lime. Furthermore, each tree must be mulched which helps
+to reduce water loss through evaporation and controls weeds. Keep the mulch at least
+10 cm from the trunk to deprive harmful pests of a hiding place next to the tree.
+Finally, the young orchard must be protected against livestock and wild animals. These
+cause damage to the leaves, shoots, flowers and fruits, thus preventing the trees to
+develop properly.
+OOOOORRRRRCCCCCHHHHHAAAAARRRRRDDDDD MMMMMAAAAAIIIIINNNNNTTTTTEEEEENNNNNAAAAANNNNNCCCCCEEEEE
+PPPPPrrrrruuuuunnnnniiiiinnnnnggggg
+Formative pruning during the first years is desirable to encourage lateral growth and
+multiple framework branching. In order to reinforce this shaping of the tree, sucker
+growth must be continuously stopped by removing all shoots originating from below
+the grafting joint. These shoots grow from the rootstock and are not part of the grafted
+cultivar. Training a tree means creating a strong central shoot from which extend spaced
+side branches at the desired height and the creation of a bare main trunk about 50 – 70
+cm in height. Keep in mind that excessive pruning of a young tree in its juvenile stage
+will definitely delay the productive phase.
+In later years, pruning is mainly undertaken to influence the size, quality and quantity
+of the fruit. It includes the removal of undesired shoots inside the canopy, the pruning
+of broken or diseased branches and the shortening of those touching the ground. The
+best time to prune is during the dormant season. This is also the best moment for the
+frequently required rejuvenation pruning aimed at bringing declining/neglected trees
+back to full productivity. To avoid fungus infestation, wounds created during pruning
+have to be treated with a suitable sealing compound. Furthermore, exposed trunks and
+branches need to be whitewashed to protect against sunburn.
+WWWWWeeeeeeeeeeddddd cccccooooonnnnntttttrrrrrooooolllll
+Timely weed control and soil management are necessary to prevent competition from
+weeds for sunlight, water and nutrients. There are two main objectives of orchard
+tillage: cultivation for moisture infiltration during the rainy season(s) and cultivation
+for moisture retention during the dry season.
+14
+
+--- Page 23 ---
+There are five basic approaches to weed control:
+1. Mechanical cultivation
+This method will be used when establishing the orchard but any further weed control
+in an existing orchard using heavy machinery should be avoided in favour of other
+methods, or at least be carried out very carefully.
+Possible problems related to the use of heavy machinery can be: damage to the shallow,
+most valuable root system; increased risk of Phytophthora root rot infestation, injury
+to branches and fruits; harm to the soil structure and promotion of erosion.
+2. Manual cultivation (hoeing/pulling)
+To avoid injury to the shallow roots around newly planted trees, pulling weeds by
+hand is the preferred method. Especially in orchards where the area to be weeded is
+small, shallow hand hoeing should be practised. Deep hoeing must be avoided as it
+not only severs avocado roots but also turns up new weed seeds to germinate. Using a
+fork-jembe has numerous advantages and is highly recommended.
+3 Intercropping / cover crops
+Intercropping with annual crops, preferably legumes, at a sufficient distance from the
+trees and implemented during the rainy seasons is often practised. Among other benefits,
+this also creates some additional income for the farmer during the first few years
+before the young orchard starts producing profitably.
+If the farmer does not depend on the extra income from the cash crop, he/she ought to
+allow the natural growth of weeds between the rows. However, it is most important to
+keep them under control; they must be slashed several times to keep them short. Under
+no circumstances should there be any competition with the young trees. Towards the
+end of the rainy season, the whole plantation has to be cultivated as many times as
+necessary in order to eliminate all existing weeds. This will supply the soil with humus,
+reduce evaporation and increase moisture retention.
+4. Mulching
+Mulching has proved to be a very effective measure for improving the performance of
+many crops. Its main advantages are:
+(cid:1) marked reduction of weed growth;
+(cid:1) control of wind and water erosion;
+(cid:1) increased moisture holding capacity;
+(cid:1) improved water infiltration rate;
+(cid:1) improved soil structure;
+(cid:1) increased activity of beneficial soil micro-organisms;
+15
+
+--- Page 24 ---
+(cid:1) regulation of surface soil temperatures;
+(cid:1) better feeder-root development near the surface.
+Many materials, such as leaf litter, grass, straw, compost and manure can be used as
+mulch. If straw mulch is used, a light pre-application of nitrogen is advisable. The
+mulching material should have no contact with the tree trunk, but it is important to
+cover the ground area which is exposed to sunshine and not protected by the shade of
+the growing canopy.
+Since most of the organic cover material decomposes very rapidly, re-mulching should
+be carried out whenever additional mulch is available.
+5. Herbicides
+Weed control using herbicides is not very common in Kenya’s avocado industry.
+Herbicides are expensive and – if not properly handled–– may burn the avocado foliage
+through direct contact. However, they can be used as a control measure where labour
+force is costly. A well-known systemic product for the elimination of broad-leaf weeds
+and annual/perennial grasses is available under the trade name ‘Roundup’ and is mainly
+used for ring or strip application.
+IIIIIrrrrrrrrrriiiiigggggaaaaatttttiiiiiooooonnnnn
+Irrigation becomes important when rainfall does not fully meet the requirements of a
+certain species of tree. Immediate and harmful effects such as reduced fruit-set, dropping
+of fruits, smaller fruits, poorer fruit quality, reduced yields and stunted trees usually
+follow lack of soil moisture.
+Irrigation programmes vary, depending on orchard location, climate, soil type and
+kind of fruit to be grown. The most crucial period of water deficit is during the two
+months after fruit set. Before costly investments in irrigation equipment are made,
+hydrological, economic and financial aspects have to be considered.
+In Kenya, most established avocado trees are rainfed and receive their water needs
+without additional irrigation. In a normal year, the most crucial period when additional
+irrigation water may be required, is around mid-January until the beginning of the
+long rains, usually in April. As soon as a prolonged wilting of leaves, or even in some
+cases dropping or shrinking of fruits is observed, it is obvious that irrigation is due.
+During this time approximately 40 - 50m3/ha/day are needed.
+For younger orchards, it is a common practice to use basin irrigation, i.e. approximately
+from planting up to the sixth year. The basins are constructed at the time of planting,
+around the base of each tree and then gradually enlarged annually to cover the expanding
+16
+
+--- Page 25 ---
+root system which is usually 50 cm beyond the drip line of the canopy. These basins
+are flooded by means of buckets, hoses, pipes, etc. As soon as the trees become fully
+productive and the water demand is increasing, the basin irrigation may be replaced
+by other methods like channel, flood, sprinkler or drip irrigation.
+No standard recommendation regarding the quantity of irrigation water can be given,
+and each grower must learn from experience the requirements of his own orchard.
+Under average high potential highland conditions in Kenya, irrigation is rarely necessary
+as taproots are able to penetrate into deep, well-structured soils in search of moisture.
+FFFFFeeeeerrrrrtttttiiiiillllliiiiizzzzzaaaaatttttiiiiiooooonnnnn
+Generally, fertilization is essential for plant development, health and productivity.
+Avocados can take up and utilize adequate amounts of essential elements without
+much fertilization, provided a suitable fertile plot has been chosen for planting. Many
+productive orchards in the country never receive a chemical fertilizer. However, manure
+applications of 5 – 30 kg per tree per year and according to the age of the trees are
+common. As a point of reference, the yield figures mentioned in Appendix 7 were
+recorded from an unfertilized plantation.
+However, it is always advisable to have soil samples analysed prior to planting for pH,
+nutrients and organic matter. Most Kenyan soils are slightly acid and very often deficient
+in nitrogen and phosphorus. A safe rule is to apply a total of 30 g of actual nitrogen per
+un-irrigated tree in the first year, continue to double the amount each year until 480 g
+are reached in the fifth year, which should be adequate thereafter. Since avocados are
+extremely sensitive to high salt concentrations, it would be safer to keep splitting the
+total quantity into two or even three separate applications. As nitrogen will penetrate
+with moisture, nitrogen containing fertilizers are spread around the trees – and only
+given under moist soil conditions – in such a way that they will cover mainly the so-
+called drip line area.
+Phosphate containing fertilizers will not be absorbed if the soil is too acidic. These
+fertilizers have also to be worked into the soil to reach the root zone as they will
+otherwise not penetrate sufficiently. Often, first the pH of the soil has to be adjusted
+by adding calcium (lime). Since the soil in Kenya often has a tendency to be acidic,
+calcium-based fertilizers are the safest for most Kenyan avocado growing areas.
+Phosphorus is an important nutrient, especially for the development and stimulation
+of root growth of young trees. Since P-fertilizers move relatively slowly in the soil, a
+pre-plant application is essential if there is an identified deficiency.
+Potassium nutrition is more important for yield and fruit quality of mature avocado
+trees than for young trees that do not yet bear fruit.
+17
+
+--- Page 26 ---
+There are considerable differences between countries with regard to the amount of
+fertilizers applied. As long as there are no local soil/leaf sample results available, it
+would be a big mistake to adopt rates used elsewhere under different agro-ecological
+conditions. The practice of some growers of applying complete (N-P-K) fertilizers
+annually may be a waste of money since phosphate and potassium may not be needed.
+Nitrogen is the most important nutrient but has not to be applied excessively because
+it will promote vegetative growth rather than flowering. Under certain circumstances
+zinc, iron, magnesium and boron deficiencies may occur but can be controlled by
+using foliar sprays containing the required element.
+To determine the ideal fertilization programme, not only the soil but also the leaves of
+the established crop have to be analyzed. In order to obtain an accurate diagnosis, leaf
+samples of a specific age and position from stress-free trees have to be collected,
+preferably during morning hours. The leaves are placed into perforated plastic bags,
+kept under cool conditions and dispatched to the laboratory within 48 hours after
+sampling. The Horticultural Extension Officer should be consulted in case of doubt.
+Standard figures have been tentatively defined for those elements that are important
+to the nutrition of the avocado crop (see figure 3). The result of the analysis of the leaf
+samples will be compared with these from the table and the proper fertilizer application
+rates can then be calculated.
+TTTTTeeeeennnnntttttaaaaatttttiiiiivvvvveeeee llllleeeeeaaaaafffff aaaaannnnnaaaaalllllyyyyysssssiiiiisssss ggggguuuuuiiiiidddddeeeee fffffooooorrrrr dddddiiiiiaaaaagggggnnnnnooooosssssiiiiinnnnnggggg nnnnnuuuuutttttrrrrriiiiieeeeennnnnttttt ssssstttttaaaaatttttuuuuusssss iiiiinnnnn aaaaavvvvvooooocccccaaaaadddddooooo
+llllleeeeeaaaaavvvvveeeeesssss tttttwwwwwooooo mmmmmooooonnnnnttttthhhhhsssss ppppprrrrriiiiiooooorrrrr tttttooooo ffffflllllooooowwwwweeeeerrrrriiiiinnnnnggggg
+Element Unit Adequate Deficient
+less than:
+Nitrogen % 1.6 - 2.0 1.6
+Phosphorus % 0.08 - 0.25 0.05
+Potassium % 0.75 - 2.0 0.35
+Calcium % 1.0 - 3.0 0.50
+Magnesium % 0.25 - 0.80 0.15
+Sulphur % 0.20 - 0.60 0.05
+Boron ppm 50 - 100 10 - 20
+Iron ppm 50 - 200 20 - 40
+Manganese ppm 30 - 500 10 - 15
+Zinc ppm 30 - 150 10 - 20
+Copper ppm 5 - 15 2 - 3
+Source: Horticulture Publications
+State University, New Jersey, USA (1966)
+18
+
+--- Page 27 ---
+PPPPPEEEEESSSSSTTTTTSSSSS AAAAANNNNNDDDDD DDDDDIIIIISSSSSEEEEEAAAAASSSSSEEEEESSSSS
+It is necessary to protect a cultivated plant in the field against attack and injury from
+pests and diseases. Preventive measures are essential to reduce expensive inputs for
+controlling losses caused by pests, diseases and weeds, and include management
+decisions such as: selection of proper orchard site, appropriate plant density, choice of
+cultivars which are resistant or tolerant to insect infestation or disease, controlled
+fertilizer application, orchard sanitation and weed control.
+Although all the above-mentioned measures contribute to a healthy plant development,
+the application of pesticides/fungicides may become necessary. The drawbacks of
+improperly used farm chemicals include risks such as pollution, toxicity, phytotoxic
+residues, drift damage and resistance. Therefore, apply only recommended chemicals
+and carefully follow the directions given on the container labels. In particular, adhere to
+described and very important safety periods – also called ‘pre-harvest intervals’ – which
+indicate the length of time between the final application of a pesticide/fungicide and
+harvesting. A list of some common chemicals can be found in Appendices 8, 9 and 10.
+Where specific insecticides/fungicides have been mentioned in the following text,
+these are given as examples and should not be regarded to exclude others. Trade names
+have been avoided as an active ingredient could have several trade names by different
+manufacturers.
+PPPPPeeeeessssstttttsssss
+Fortunately, pests are not a significant constraint to avocado production in Kenya at
+present and seldom require chemical control measures.
+False Codling Moth (Cryptophlebia leucotreta)
+The adult is a small brownish, night-flying moth. The female lives for about two
+weeks and may lay 100 – 400 eggs which are deposited singly, mostly on the fruit.
+After emerging from the egg, the young larva tunnels into the fruit, and the fruit sap
+thus liberated through the injury forms a typical white crystalline excretion on the
+surface of the fruit. For some unknown reasons, the larva seems to die when it attacks
+fruits at an early stage of development but is able to develop fully if fruits are
+approaching maturity when infested.
+Spray application with insecticides such as Dichlorvos, Parathion, Mevinphos,
+Phosphamidon or Fenthion are effective but should only be used if really necessary.
+19
+
+--- Page 28 ---
+Thrips
+These are small, slender insects, 1 – 2 mm long, with two pairs of fringed wings.
+Using their piercing/sucking mouthparts they can be a troublesome pest. The
+characteristic symptom of attack is a silvering of the infested plant tissue which will
+then turn brown and dry up, if the damage is very severe. Further indications of attack
+are small black/shining spots of excreta on the infested parts of the plants. If chemical
+control is considered, products: Fenthion, Carbaryl, Decamethion, Malathion,
+Omethoate, Diazinon lead to satisfactory control.
+Scale Insects
+Two main groups of scale insects include the Soft Scales (Coccus sp.) and the Armoured
+Scales. Members of these groups occasionally occur but are not generally a serious
+problem in avocado orchards. Both are protected by a shell. Damage is caused by
+toxic saliva, extraction of plant sap and honeydew in association with sooty mould. A
+severe infestation forms a continuous crust over the underside of leaves. The symptoms
+of scale attacks on plants are discoloration, malformation, leaf and fruit drop and
+retarded growth.
+Control recommendations are the application of systemic or contact insecticides like:
+Malathion, Dimethoate, Triazophos, Diazinon, Bifenthrin, Fenitrothion and Omethoate.
+These sprays are usually more effective if mixed with white oil.
+Minor pests to be mentioned are:
+(cid:1) tip wilters (Anoplocnemis curvipes)
+(cid:1) avocado bug (Taylorilygus spp.)
+(cid:1) fruit fly (Ceratitis spp.)
+(cid:1) leaf roller (Tortrix spp.)
+(cid:1) mites and aphids.
+FFFFFuuuuunnnnngggggaaaaalllll dddddiiiiissssseeeeeaaaaassssseeeeesssss
+Of much greater importance is the control of some fungal diseases which cause more
+damage than any pest. Successful/prophylactic spraying programmes depend on:
+(cid:1) the use of the right amount of a recommended fungicide;
+(cid:1) a timely application before infection is most likely to occur;
+(cid:1) permanent thorough fungicide coverage of susceptible plant parts.
+Avocado root rot (Phytophthora cinnamomi)
+This is the most serious disease in nearly all avocado producing areas of the world and
+in Kenya some outbreaks have also been reported. Every effort has been made to
+rectify the situation by uprooting or treatment of affected trees. Hot water and fungicide
+treatment of seeds for propagation purposes is highly recommended and grafting on
+Phytophthora-tolerant and/or resistant rootstocks have been included. In areas subject
+20
+
+--- Page 29 ---
+to flooding and in poorly drained soils, trees of any size and age are likely to be
+infected by this fungus. Trees affected by the disease lose vitality, become sparsely
+foliated and do not produce a good crop. Leaves are pale-green and wilted, branches
+usually become sunburnt and die back in advanced stages. Feeder roots get darkened
+and decayed and trees will eventually die prematurely. The fungus can be spread or
+introduced to new areas by infested planting material, soil and irrigation water.
+Two chemicals are registered for the treatment of a Phytophthora-affected avocado
+tree and new ones are being tested continuously:
+(cid:1) Ridomil, active ingredient Metalaxyl, is a soil-applied granular formulation,
+that works by killing the pathogen;
+(cid:1) Aliette is sprayed onto the leaves and works partly by direct action on the fungus
+and partly by increasing the natural defence mechanisms of the plant; trees are
+injected twice annually with a weak solution of fosetyl-aluminium.
+Anthracnose (Colletotrichum gloeosporioides )
+Anthracnose infection is important only on fruits, where it is the most serious disease
+affecting the avocado. Dry spots, dark brown in colour, form on the skin, leading to
+abnormal development. In severe attacks the young fruits soon drop. On fruits at a
+later point of their development, the fungal spores germinate and then enter a dormant
+stage. The infection remains hidden for a long period until the fruit ripens. It is mostly
+a post-harvest disease as the fruits are more susceptible when mature. Besides orchard
+sanitation measures, copper based fungicides are normally used to control the disease
+but also spray applications with chemicals such as: Benomyl, Mancozeb, Metiram,
+Propineb, Thiabendazole or Triforine are very successful.
+Cercospora fruit spot (Pseudocercospora purpurea)
+This is another important fruit disease impairing the quality of the avocado. The severity
+of infection varies from season to season and can cause losses of up to 60%. Small,
+light-yellow spots later changing to brownish appear on fruits and leaves which
+eventually become hard and crack, thus creating entry points for other decay organisms.
+Treatments are the same as those for anthracnose.
+Scab
+Scab is caused by Sphaceloma perseae is usually common in humid areas. The fungus
+readily infects young, succulent tissues of leaves, twigs and fruits. Lesions appear as
+small dark spots slightly raised, oval to elongated. These coalesce, giving a corky
+appearance to the surface of the fruits – impairing the appearance but not the internal
+quality of the fruit. Recommended treatments are again the same as for anthracnose.
+21
+
+--- Page 30 ---
+The following are some problems affecting avocado trees that are not diseases:
+Carapaces
+These develop when the tender surface of very small fruits rubs against the edge of a
+leaf or twig. Therefore, a thin dry, smooth, superficial layer of light-brown colour is
+formed which expands less rapidly than the normal surface and leads to the deformation
+and cracking of fruits.
+Algae and lichens
+They commonly occur on leaves and branches of trees growing in damp, shady
+locations. Symptoms appear first on upper leaf surfaces as green, yellowish-green or
+rust coloured, roughly circular spots. They cause very little, if any, damage to the tree.
+Cukes
+Pickle shaped, see photo page 44, size of a finger, small sausage-shaped fruits without
+seeds, referred to as ‘fingerlings’ or ‘cukes’. Fuerte is a susceptible variety.
+Fruit drop
+Since it reduces the quantity of saleable crop and often markedly so, this is a natural
+concern to growers. Such fruit drop occurs under the best of care, as a tree gets rid of
+excess fruits beyond its capacity to mature. For all avocado cultivars, there are two
+periods in the year when a percentage of the fruit that has set will drop. This is
+particularly evident during years when there is a very heavy fruit-set.
+The first abortion occurs when the fruits have reached pea-size. After the avocados have
+grown to egg-size, there is another period when a lesser amount of fruit will drop.
+When these fruits are opened it can be seen that the seed is black and dead. The reasons
+for these two types of fruit drops are not well understood but it is assumed that they are
+due to faulty pollination, other internal physiological malfunctions or unfavourable
+weather conditions, especially hot/dry winds, sudden chilling or moisture stress.
+HHHHHAAAAARRRRRVVVVVEEEEESSSSSTTTTTIIIIINNNNNGGGGG
+Since avocados do not soften on the trees when they mature, it is not easy to identify
+the right harvesting time. It is good to remember that the fruit matures on the tree but
+ripens off the tree. Assessment of the correct harvesting time is important because it
+directly affects fruit quality, the storage and shelf life. If the consumer buys immature,
+watery, tasteless and often wrinkled fruits of poor quality that have been picked too
+early he/she is not likely to buy again. Every individual cultivar will vary in its precise
+time of maturity from year to year in one particular district.
+22
+
+--- Page 31 ---
+As an approximate measure, the number of months from bloom, which is mainly in
+August/September, to maturity is given below:
+West Indian cultivars: 5 – 8 months
+Mexican cultivars: 6 – 8 months
+Guatemalan cultivars: 10 – 15 months
+Locally harvested avocado fruits are available throughout the year with the main
+production of known cultivars occurring from March to October. Fruits for the
+remaining months, i.e. from November to February, come from seedling trees or West
+Indian cultivars. Depending on their location and altitude, provinces differ in their
+picking seasons (see Appendix 11) which could be further influenced by planting
+potential newly introduced cultivars as well as off-season flowering.
+A list of available local cultivars and their general season of maturity is as follows:
+Early: Hardy, Ruehle, Teague, Waldin, Tambarina, Simmonds
+Early to mid-season: Winter Mexican, Kyoyl, Zutano, Bacon, Tonnage, Danish W.I. Bank
+Mid-season: TX 531, Booth 7, Booth 8, Choquette, Fuerte, Ettinger, Lula,
+Puebla
+Mid-season to late: Hass, Pinkerton, Sama, Linda
+Late: Nabal, Reed
+Note:The above cannot be generalized to be valid for the whole of Kenya, as – for
+climatic reasons – not all cultivars can be grown in Nyanza, Western and Coast
+provinces, for example.
+As the harvest season draws near, and depending on the variety, there are some fruit
+symptoms which are indicators of approaching maturity:
+(cid:1) Dark coloured fruits change from a green colour to black or purple.
+(cid:1) Green fruits develop a yellowish skin tint appearing duller and less shiny.
+(cid:1) On Fuerte and other cultivars, but mainly Mexican types, a whitish ‘bloom’
+starts developing.
+(cid:1) Fruit stems turn yellow on the green cultivars.
+(cid:1) Green fruits develop corkiness near the blossom-end resembling rust.
+(cid:1) Seed coats become dark-brown and tissue-thin and do not adhere to the flesh.
+(cid:1) Some people use the floating test: immature avocados sink or float below the
+water surface, mature ones float on top of the water.
+(cid:1) Another common method of determining whether a crop is ready for harvesting
+is to pick a few fruits when they are apparently mature and then leave them to
+ripen in a warm place. If these soften without shrivelling within a week at about
+27OC, then the crop is ready for picking.
+23
+
+--- Page 32 ---
+It is known that a large fruit size is not necessarily a sure indication of greater maturity
+but with a little experience and care, the farmer will be able to select fruits that are
+sufficiently mature to meet the established standards. Fruits from commercial orchards
+are tested in laboratories for their oil content to determine proper picking dates of
+certain cultivars. For example, in California the law requires that all fruits test at least
+8% oil.
+Retailers should expect avocados to arrive in a firm, slightly backward-ripeness
+condition, graded, free from any disease, bruising or other damage. European markets
+have very strict requirements regarding quality. Being a luxury fruit avocados sell
+relatively slowly and it is therefore obvious that a long shelf life is expected. Thus,
+successful marketing of avocados – especially for export – depends largely upon strict
+adherence to good handling and packing practices.
+All previously implemented crop husbandry measures aimed at achieving a high
+standard of fruit quality will be a waste of time and money if avocado fruits are treated
+like potatoes during harvesting and post-harvest handling. Always remember that fruits
+are easily bruised or scratched and that careful harvesting will already influence the
+price you will be paid for your produce.
+In view of the above, the following recommendations apply:
+(cid:1) Avocado fruits must never be pulled off the tree as this may damage the skin
+and allow decay diseases to enter.
+(cid:1) Fruits have to be clipped from the trees with secateurs in such a way that a short
+stem portion of about 0.5 cm is left on the fruit.
+(cid:1) It is recommended that cotton gloves be used during picking, grading and
+packing.
+(cid:1) Never drop the fruits and never place them on the ground without some protection
+underneath.
+(cid:1) For picking fruits growing high on a tree, use ladders of suitable length and/or
+a specially designed picking tool. The latter consists of light wooden or bamboo
+poles with a cloth catching bag about 20 cm in diameter fixed to the end of it.
+The bag is held open by a metal rim with a cutting blade attached.
+(cid:1) Generally, a two-person picking team is preferable. The picker in the tree –
+instead of having to climb up and down the ladder – can lower his/her fruit-
+filled canvas bucket with a rope to his colleague on the ground for careful
+emptying into field boxes.
+(cid:1) The sides and bottoms of these should be smooth and free from anything that
+may injure the fruits.
+(cid:1) Do not fill the field boxes above the top. Fruits in a properly filled field box
+should never have contact with another box placed on top of it.
+24
+
+--- Page 33 ---
+(cid:1) Store the field boxes in the shade in order to minimize sunburn, loss of moisture
+and dust accumulation. Field storage should be as brief as possible.
+(cid:1) After the produce has been cleaned, graded and repacked in a sheltered place it
+has to reach the market outlet immediately.
+(cid:1) If a grower intends to join the sophisticated export market, his produce will
+require additional special treatment after harvesting and prior to marketing. To
+ensure uniform quality and continuous supply, only experienced registered
+exporters should be involved in meeting the required export regulations for
+trimming, washing, disinfecting, drying, waxing, grading, labelling, packaging,
+transportation, phytosanitation and storage.
+(cid:1) Finally, it has to be mentioned that it is imperative to finalize arrangements for
+marketing before harvesting the crop. Once harvested, horticultural produce is
+highly perishable and will not last long in storage. It has to be sold regardless of
+prevailing market conditions, and the farmer has little bargaining power and
+will most likely be the loser.
+YYYYYIIIIIEEEEELLLLLDDDDD
+The number of fruits that set and mature is small in relation to the number of flowers
+produced. The quantity of annual avocado production depends on such factors as
+alternate bearing, location, spacing, poor pollination, crop husbandry measures and
+source of planting material.
+In order to achieve good yields, the following pre-conditions should be applied:
+(cid:1) introduction of bee-hives;
+(cid:1) planting of mixed A and B floral types;
+(cid:1) purchase of planting material from recognized tree nurseries only;
+(cid:1) planting of cultivars adapted for a specific region only;
+(cid:1) considering the essential establishment requirements of an orchard;
+(cid:1) proper maintenance of the orchard.
+The first yield may be expected in the third or fourth year after planting and commercial
+production usually starts in the fifth or sixth year. Yields given in the literature vary
+from country to country but average about 10 t/ha. The yield performance table found
+under Appendix 7 reflects the productivity of some of the cultivars planted in the
+Central Province of Kenya. Considering that high yields may be expected from the
+tenth year onwards, the seventh-year Kenya figures are already very impressive. If
+one converts tonnage figures into numbers of fruits, then Fuerte, in its 8th year, has
+produced an average of 49 500 fruits and Hass 87 780 fruits per ha.
+25
+
+--- Page 34 ---
+n
+Etti n g e r M x G B mi d- s e a s o n m e di u m 2 5 0 - 3 5 0 p e ar s h a p e d 1 0. 5 5. 7
+gr
+e e n-li g ht gr e e 1 8 g o o d r e g ul ar li g ht- m e di u m vi g or o u s a n d u pri g ht 7 x 8 1 8 - 2 2
+d
+a n k m u e n w
+ar
+h e s
+aa rr ss a r s aa rr ss ni s h W. I. B WB e a rl y m all- m e di u 1 7 0 - 3 0 0 bl o n g/ o bli q 8. 8 6. 8 li g ht gr e e n 2 3 p o or-f air alt er n at e g o o d ht wit h d o w n gi n g br a n c 7 x 8 3 - 6
+vvvvv a s o ga
+iiiii
+D prih
+ttttt u
+lllll
+uuuuu
+ccccc
+ooooo e
+vv oo cc aa dd v o c a d vv oo cc aa dd C h o q u ett e G x W A mi d- s e a s o n v er y l ar g e 4 5 0 - 1 1 0 0 bl o n g/ o bli q u 1 2. 1 8. 4 d e e p gr e e n 1 4. 6 g o o d-f air alt er n at e hi g h wi d e a n d s pr e a di n g 7 x 7 6 - 1 2
+o
+aaaaa
+nnnnn
+wwwww
+nn yy aa -- gg rr oo n y a - g r o nn yy aa -- gg rr oo B o ot h 7 G x W B e a rl y m e di u m 2 5 0 - 3 8 0 r o u n d - o v al 8. 3 7. 5 d ar k gr e e n 2 7. 6 g o o d
+e
+n d e n c y t o w ar d s alt er n at e b e ari n g g o o d, hi g h vi g or o u s, s pr e a di n g 7 x 8 1 0 - 1 4
+eeeee t
+KKKKK
+fffff
+ooooo
+n
+rr ii ss tt ii cc ss r i s t i c s rr ii ss tt ii cc ss B a c o n M x G B y t o mi d- s e a s
+o
+m e di u m-l ar g e 1 7 5 - 4 2 0 o v al 1 0. 1 6. 6 g r e e n 1 6. 2 g o o d-f air r e g ul ar m e di u m- g o o d m e di u m, er e ct t all, u pri g ht 7 x 8 1 6 - 1 8
+eeeee arl
+ttttt e
+ccccc
+aaaaa s
+n
+SS oo mm ee cc hh aa
+rr
+S o m e c h a
+r
+SS oo mm ee cc hh aa
+rr
+C ulti v a r R a c e * Fl o r al t y p e M at u rit y s e a s o n F r uit si z e F r uit w ei g ht ( g) F r uit s h a p e A v e r a g e f r uit di m e n
+si o
+l e n gt h ( c m) wi dt h ( c m) F r uit c ol o u r S e e d % ( a v e r a g e) E ati n g q u alit y B e a ri n g h a bit Yi el d T r e e g r o wt h S p a ci n g ( m) Oil % * G = G u a t e m al a
+n
+M = M e xi c a n W = W e s t I n di a
+n
+x = H y b ri d s
+26
+
+--- Page 35 ---
+e
+n g
+Li n d a GB mi d - s e a s o e di u m -l a r 2 5 0 - 8 0 0 elli pti c al 1 0. 4 7. 1 p u r pl e 1 2. 6 e x c ell e nt r e g ul a r g o o d m e di u m, u p ri g ht 7 x 7 1 0 - 1 5
+m
+aa rr ss a r s aa rr ss K y o yl WB e a rl y t o mi d - s e a s o n l a r g e 2 5 0 - 5 4 5 o bl o n g 1 3, 3 7. 6 d e e p g r e e n 1 3. 6 p o o r- f ai r alt e r n at e m e di u m l a r g e a n d u p ri g ht 8 x 8 7 - 9
+vvvvv
+iiiii
+ttttt
+lllll
+uuuuu
+ccccc
+h
+ooooo u e di s
+vv oo cc aa dd v o c a d vv oo cc aa dd H a r d y WB e a rl y m e di u m 1 6 0 - 3 1 0
+o
+bl o n g/ o bli q 1 0. 7 6. 4
+g
+ht g r e e n/ r e d 2 3. 1 f ai r r e g ul a r g o o d wi d e a n d s p r e a di n g 8 x 8 6 - 8
+aaaaa li
+nnnnn
+wwwww
+ee nn yy aa -- gg rr oo e n y a - g r o ee nn yy aa -- gg rr oo H a s s GA l at e s m all - m e di u m 1 4 0 - 3 4 0 o v al - p e a r s h a p e d 8. 5 6. 4 b r o w ni s h - bl a c k 2 2. 5 e x c ell e nt r e g ul a r h e a v y l a r g e a n d s p r e a di n g 7 x 8 1 8 - 2 3
+KKKKK
+fffff
+ooooo
+d
+s
+ee rr ii ss tt ii cc ss e r i s t i c s ee rr ii ss tt ii cc ss F u e r t e M x G B mi d - s e a s o n m e di u m 2 9 0 - 3 8 0 p e a r s h a p e d 1 1. 3 7. 5 g r e e n 1 3 e x c ell e nt e n d e n c y t o w a r alt e r n at e b e a ri n g li g ht - m e di u m l a r g e a n d s p r e a di n g 8 x 1 0 1 6 - 2 5
+t
+ttttt
+ccccc
+aaaaa s
+n
+aa
+rr
+a
+r
+aa
+rr
+n
+si o
+a
+n
+a
+n
+SS oo mm ee cc hh S o m e c h SS oo mm ee cc hh C ul ti v a r R a c e * Fl o r al t y p e M a t u ri t y s e a s o n F r ui t si z e F r ui t w ei g h t ( g ) F r ui t s h a p e A v e r a g e f r uit di m e l e n g t h ( c m ) wi d t h ( c m ) F r ui t c ol o u r S e e d % ( a v e r a g e ) E a ti n g q u ali t y B e a ri n g h a bi t Yi el d T r e e g r o w t h S p a ci n g ( m ) Oil % * G = G u a t e m al M = M e xi c a n W = W e s t I n di x = H y b ri d s
+27
+
+--- Page 36 ---
+e
+g d yd
+R e e d GA v e r y l at e m e di u m -l a r 2 2 0 - 5 1 0 o v at e - r o u n 8. 3 7. 3 g r e e n 1 3. 7 g o o d r e g ul a r g o o d - h e a v m e di u m a n u p ri g ht 7 x 7 1 8 - 2 0
+vv aa rr ss v a r s vv aa rr ss P u e bl a MA mi d - s e a s o n m e di u m 1 8 0 - 3 8 0 r o u n di s h 8. 7 7. 6 m a r o o n - p u r pl
+e
+2 3. 5 g o o d - e x c ell e
+nt
+alt e r n at e g o o d m e di u m, s p r e a di n g 7 x 8 1 5 - 2 0
+iiiii
+ttttt
+lllll
+uuuuu
+ccccc
+oo cc aa dd oo o c a d o oo cc aa dd oo Pi n k e r t o n G x M A mi d - s e a s o n m e di u m -l a r g e 2 5 0 - 4 1 0 p e a r s h a p e d 1 0. 8 8. 2 g r e e n 1 1. 1 e x c ell e nt r e g ul a r h e a v y m e di u m, s p r e a di n g 6 x 7 1 8 - 2 0
+vvvvv
+aaaaa
+nnnnn
+wwwww
+nn yy aa -- gg rr oo n y a - g r o nn yy aa -- gg rr oo N a b al GB l at e l a r g e 3 5 0 - 7 2 0 n e a rl y r o u n d 1 0. 3 9. 4 d a r k g r e e n 2 4. 9 e x c ell e nt - g o o d
+t
+e n d e n c y t o w a r d s alt e r n at e b e a ri n g h e a v y vi g o r o u s a n d u p ri g ht 8 x 8 9 - 1 6
+eeeee
+KKKKK
+fffff
+ooooo
+e
+d
+ee
+rr ii ss tt ii cc ss
+e
+r i s t i c s
+ee
+rr ii ss tt ii cc ss L ul a G x W A mi d - s e a s o n m e di u m -l a r g e 2 3 0 - 4 1 5
+o
+bl o n g - p e a r s h a p 9. 6 7 g r e e n 3 9. 2 g o o d r e g ul a r h e a v y l a r g e a n d u p ri g ht 6 x 7 8 - 1 5
+ttttt
+ccccc
+s
+aaaaa n
+o n n
+SS oo mm ee cc hh
+aa rr
+S o m e c h
+a r
+SS oo mm ee cc hh
+aa rr
+C ul ti v a r R a c e * Fl o r al t y p e M a t u ri t y s e a s o n F r ui t si z e F r ui t w ei g h t ( g ) F r ui t s h a p e A v e r a g e f r uit di m
+e n si
+l e n g t h ( c m ) wi d t h ( c m ) F r ui t c ol o u r S e e d % ( a v e r a g e ) E a ti n g q u ali t y B e a ri n g h a bi t Yi el d T r e e g r o w t h S p a ci n g ( m ) Oil % * G = G u a t e m
+al a
+M = M e xi c a n W = W e s t I n
+di a
+x = H y b ri d s
+28
+
+--- Page 37 ---
+m r d s n g d
+T e a g u e MB e a rl y s m all - m e di u 1 2 5 - 2 8 0 o v al 7 5. 7 li g ht g r e e n 1 6. 4 g o o d e n d e n c y t o w a bi e n ni al b e a ri m e di u m - g o o wi d e a n d s p r e a di n g 8 x 9 1 6 - 2 1
+t
+m d
+aa rr ss a r s aa rr ss T a m b a ri n a WA e a rl y m all - m e di u 1 6 0 - 3 0 0 el o n g at e d 1 0. 8 5. 8 li g ht g r e e n 2 0. 1 f ai r alt e r n at e m e di u m - g o o wi d e a n d s p r e a di n g 7 x 7 6 - 9
+s
+vvvvv
+iiiii
+ttttt
+lllll
+uuuuu
+ccccc
+oo cc aa dd oo o c a d o oo cc aa dd oo Si m m o n d s WA e a rl y m all - m e di u m 1 5 0 - 3 1 0 p e a r s h a p e d 8. 5 6. 2 li g ht g r e e n 2 3. 1 f ai r - g o o d alt e r n at e g o o d l a r g e a n d u p ri g ht 7 x 7 3 - 6
+vvvvv s
+aaaaa
+nnnnn
+wwwww
+ooooo
+yy aa -- gg rr y a - g r yy aa -- gg rr S a m a GA l at e m e di u m 2 1 0 - 3 5 5 p e a r s h a p e d 1 0. 5 7. 4 bl a c k 1 2. 5 e x c ell e nt r e g ul a r g o o d vi g o r o u s a n d u p ri g ht 8 x 8 1 8 - 2 5
+nnnnn
+eeeee
+KKKKK
+fffff
+ooooo
+ii ss tt ii cc ss i s t i c s ii ss tt ii cc ss R u e hl e WA e a rl y m e di u m 2 0 0 - 3 2 0 p e a r s h a p e d 1 0. 8 7. 1 li g ht g r e e n 1 4. 7 f ai r - g o o d r e g ul a r hi g h wi d e a n d s p r e a di n g 7 x 7 2 - 5
+rrrrr
+eeeee
+ttttt
+ccccc
+s
+aaaaa n
+SS oo mm ee cc hh
+aa
+rr
+S o m e c h
+a
+r
+SS oo mm ee cc hh
+aa
+rr
+C ul ti v a r R a c e * Fl o r al t y p e M a t u ri t y s e a s o n F r ui t si z e F r ui t w ei g h t ( g ) F r ui t s h a p e A v e r a g e f r uit di m
+e n
+si o
+l e n g t h ( c m ) wi d t h ( c m ) F r ui t c ol o u r S e e d % ( a v e r a g e ) E a ti n g q u ali t y B e a ri n g h a bi t Yi el d T r e e g r o w t h S p a ci n g ( m ) Oil % * G = G u a t e m
+al a
+n
+M = M e xi c a n W = W e s t I n
+di a
+n
+x = H y b ri d s
+29
+
+--- Page 38 ---
+d
+Z u t a n o M x G B e a rl y m e di u m 1 5 0 - 3 9 7 e a r s h a p e 1 0. 7 6. 9 g r e e n 2 3 f ai r r e g ul a r g o o d t all a n d u p ri g ht 7 x 8 1 5 - 1 8
+p
+n
+a
+aa rr ss a r s aa rr ss Wi n t e r M e xi c M x W B mi d - s e a s o n m e di u m 2 1 5 - 3 5 0 p e a r s h a p e d 7. 5 6 5. 9 d a r k g r e e n 2 5. 4 g o o d r e g ul a r m o d e r at e l a r g e a n d u p ri g ht 7 x 7 1 5 - 2 0
+vvvvv
+iiiii
+ttttt
+lllll
+uuuuu
+ccccc
+oo cc aa dd oo o c a d o oo cc aa dd oo W al di n WA e a rl y m e di u m 1 4 5 - 3 1 5
+o
+v at e/ o bli q u e 7. 6 6. 1 li g ht g r e e n 2 5. 8 f ai r alt e r n at e m o d e r at e vi g o r o u s a n d u p ri g ht 7 x 8 6 - 8
+vvvvv
+aaaaa
+nnnnn
+wwwww
+yy aa -- gg rr oo y a - g r o yy aa -- gg rr oo T X 5 3 1 GA mi d - s e a s o n m e di u m -l a r g e 3 1 0 - 5 4 0 bl o n g/ o bli q u e 8. 4 5. 6 d a r k g r e e n 1 2 g o o d r e g ul a r hi g h l a r g e a n d u p ri g ht 7 x 8 1 5 - 2 0
+nnnnn o
+eeeee
+KKKKK
+fffff
+ooooo
+ss s ss n g e d
+rr ii ss tt ii cc r i s t i c rr ii ss tt ii cc T o n n a g e GB mi d - s e a s o m e di u m -l a r 2 7 5 - 5 5 0 p e a r s h a p e 1 0. 6 7 g r e e n 2 4 f ai r - g o o d r e g ul a r g o o d t all a n d u p ri g ht 6 x 7 1 0 - 1 2
+eeeee
+ttttt
+ccccc
+s
+aaaaa n
+SS oo mm ee cc hh
+aa
+rr
+S o m e c h
+a
+r
+SS oo mm ee cc hh
+aa
+rr
+C ul ti v a r R a c e * Fl o r al t y p e M a t u ri t y s e a s o n F r ui t si z e F r ui t w ei g h t ( g ) F r ui t s h a p e A v e r a g e f r uit di m
+e n
+si o
+l e n g t h ( c m ) wi d t h ( c m ) F r ui t c ol o u r S e e d % ( a v e r a g e ) E a ti n g q u ali t y B e a ri n g h a bi t Yi el d T r e e g r o w t h S p a ci n g ( m ) Oil % * G = G u a t e m
+al a
+n
+M = M e xi c a n W = W e s t I n
+di a
+n
+x = H y b ri d s
+30
+
+--- Page 39 ---
+DDDDDEEEEESSSSSCCCCCRRRRRIIIIIPPPPPTTTTTIIIIIOOOOONNNNN OOOOOFFFFF AAAAAVVVVVOOOOOCCCCCAAAAADDDDDOOOOO CCCCCUUUUULLLLLTTTTTIIIIIVVVVVAAAAARRRRRSSSSS
+31
+
+--- Page 40 ---
+BBBBBaaaaacccccooooonnnnn
+This variety originated from a chance seedling planted in Bueno Park, California and
+was introduced to the trade in 1951. Its parentage is unknown but it is thought to be a
+Mexican x Guatemalan hybrid, and it produces type B flowers.
+The medium-sized green fruit is of oval shape and has a thin, smooth and glossy skin.
+Fruits normally weigh 175 – 420 g. The flesh is of fair-good quality, melting, almost
+free from fibre and has an unusually pale yellow/green colour. The oval seed is tightly
+set and the average oil content ranges from 16 – 18%. Fruits mature during mid-season.
+The tree is an upright grower and is very cold tolerant. It is a consistent good producer,
+and cropping commences at an early age. The recommended tree spacing is 7 m x 8 m.
+Advantages:
+(cid:1) early and consistent cropper
+(cid:1) excellent frost tolerance
+(cid:1) good shelf life – stores well
+Disadvantages:
+(cid:1) tends to be affected by serious end spot problems
+(cid:1) harvesting is expensive because it requires a high labour input due to tall,
+upright-growing trees
+32
+
+--- Page 41 ---
+33
+
+--- Page 42 ---
+BBBBBoooooooooottttthhhhh 77777
+This variety originated from a chance seedling which was planted in Florida in 1920.
+From 1935 onwards, it has been propagated commercially. Its parentage is unknown
+but it is assumed to be a Guatemalan x West Indian hybrid, and it produces type B
+flowers.
+The medium-sized dark-green fruit is round or ovate in shape and has a slightly rough/
+grainy, thick and brittle skin. The yellow flesh is of good quality, melting, almost free
+of fibre, and the average oil content ranges between 10 – 14%. The rather big ovate
+seed separates cleanly from the flesh at maturity. Fruits normally weigh 250 – 380 g
+and mature at mid-season.
+The vigorous, spreading tree is a good cropper but shows a tendency towards alternate
+bearing. Recommended spacing is 7 m x 8 m.
+Advantages:
+(cid:1) spreading tree-growth and consequently easy harvesting
+(cid:1) firm, leathery fruit-skin prevents damage during handling
+(cid:1) flesh peels readily from the skin
+Disadvantages:
+(cid:1) alternate bearing
+(cid:1) susceptible to infestation by False codling moth
+(cid:1) large seed cavity
+34
+
+--- Page 43 ---
+35
+
+--- Page 44 ---
+BBBBBoooooooooottttthhhhh 88888
+Like Booth 7, this variety also originates from a chance seedling of unknown parentage,
+which was planted in Florida in 1920. It is assumed to be a Guatemalan x West Indian
+hybrid and produces type B flowers.
+This is one of the most widely grown cultivars in Florida. The medium – large, oblong-
+ovate fruit weighs around 350 – 600 g. The green skin is slightly rough, fairly thick
+and brittle. The light-green/yellow fruit flesh is of good quality and contains 8 – 15%
+oil. The medium large seed is tightly set, and the fruit ripens at late mid-season.
+Booth 8 is a wide and spreading tree but not as vigorous as Booth 7. It is a good
+producer but shows a tendency to biennial bearing. Recommended spacing is 7 m x 7 m.
+Advantages:
+(cid:1) suitable also for lower altitudes
+(cid:1) easy picking
+(cid:1) good fruit quality
+(cid:1) transports very well
+Disadvantages:
+(cid:1) tendency to alternate bearing
+(cid:1) susceptible to infestation by False codling moth
+36
+
+--- Page 45 ---
+37
+
+--- Page 46 ---
+CCCCChhhhhoooooqqqqquuuuueeeeetttttttttteeeee
+This variety originated in Miami (Florida) from seed planted in 1929. Commercial
+propagation started in 1939. Its parentage is unknown but it is thought to be a
+Guatemalan x West Indian hybrid producing flowers of type A.
+The large to very large, oblong/oblique green fruit is characterized by its glossy, smooth
+and slightly leathery skin. Fruits normally weigh 450 – 1100 g, and the smooth yellow
+flesh is of good quality with an oil content of up to 12% and a mild, nutty flavour. The
+medium, oval seed is tightly set.
+The wide and spreading tree bears heavily in alternate years. The recommended planting
+distance should be 7 m x 7 m.
+Advantages:
+(cid:1) large fruits that are sought after locally
+(cid:1) few fibres and good quality
+(cid:1) resists scab disease
+(cid:1) transports well
+Disadvantages:
+(cid:1) not favoured on export markets
+(cid:1) alternate bearing
+(cid:1) unfavourable fruit-shape
+38
+
+--- Page 47 ---
+39
+
+--- Page 48 ---
+DDDDDaaaaannnnniiiiissssshhhhh WWWWW.....IIIII..... BBBBBaaaaannnnnkkkkk
+This early season chance seedling originated in Miami (Florida) and the fruits resemble
+closely those of the Simmonds/Waldin cultivars. Its parentage is unknown but typical
+characteristics indicate that this must be a West Indian hybrid producing flowers of
+type B.
+The small to medium sized light-green fruit is oblong/oblique in shape and has a thin,
+smooth and waxy skin. Fruits normally weigh 170 – 300 g. The green/yellowish flesh
+is of a fair quality, melting, almost free of fibre, and the average oil content ranges
+between 3 – 6%. The rather big ovate seed is tightly set and separates cleanly from the
+flesh.
+The tree’s growth is vigorous with downward hanging branches. It produces a good
+crop but only every other year. Recommended spacing is 7 m x 8 m.
+Remarks:
+(cid:1) Further evaluation of this cultivar is needed before more detailed information can
+be given.
+40
+
+--- Page 49 ---
+41
+
+--- Page 50 ---
+EEEEEttttttttttiiiiinnnnngggggeeeeerrrrr
+This variety originated in Kefar Malal, Israel and has been introduced commercially
+in 1947. Its parentage is unknown but since it is very much related to Fuerte it is
+thought to be a Mexican x Guatemalan hybrid and produces type B flowers. It is being
+cultivated mainly in Israel.
+The light green, medium-sized fruit is elongated/pear-shaped and weighs around
+250 – 400 g. The thin, polished skin is tough/leathery – one of the requirements to be
+a good shipper. The flesh is light yellow, almost free of fibre, soft-melting and ripens
+uniformly. The cone-shaped seed is of average – large size and often set loosely in its
+cavity. Due to an oil content of 18 – 22%, the eating quality can be graded as good.
+The Ettinger ripens at mid-season, slightly before and/or together with Fuerte.
+This variety grows vigorously and upright. It is a light to medium but regular producer.
+The recommended planting spacing is 7 m x 8 m.
+Advantages:
+(cid:1) little fibre
+(cid:1) no distinct biennial bearing
+(cid:1) good quality and shelf life
+(cid:1) transports well
+Disadvantages:
+(cid:1) in Kenya, this variety cannot compete with the well adapted Fuerte cultivar.
+42
+
+--- Page 51 ---
+43
+
+--- Page 52 ---
+FFFFFuuuuueeeeerrrrrttttteeeee
+This variety – found as a backyard seedling in Atlixo/Mexico in 1911 – is thought to
+be a hybrid between a Mexican and a Guatemalan type and produces flowers of group
+B. Fuerte has all the qualities local and overseas markets desire; in fact it is the world’s
+best known commercial cultivar up to the present day.
+The green pear-shaped fruit is of average size, weighs from 290 – 380 g and has a
+comparatively small seed, which lies tightly in its cavity. The skin is thin, leathery and
+slightly rough, and the pale yellow flesh – almost free of fibre – has an outstanding
+flavour. The oil content ranges between 16 – 25% and the seed separates cleanly from
+the flesh.
+Because Fuerte has a long period of bloom, there may be more than one set of fruits on
+the trees simultaneously. In contrast with most other varieties, Fuerte has a spreading
+habit of growth, and therefore the recommended spacing should not be less than
+8 m x 10 m.
+Advantages:
+(cid:1) extended picking season and good shelf life
+(cid:1) green pear-shaped fruit of excellent quality
+(cid:1) one of the most cold-tolerant varieties
+Disadvantages:
+(cid:1) tendency to alternate bearing
+(cid:1) performs best at higher altitudes
+(cid:1) susceptible to cercospora and anthracnose
+(cid:1) sometimes produces ‘cukes’
+‘cukes’ and in the middle a normal shaped fruit
+44
+
+--- Page 53 ---
+45
+
+--- Page 54 ---
+HHHHHaaaaarrrrrdddddyyyyy
+This cultivar is a West Indian race selection that matures very early and originates
+from a chance seedling planted in Miami, Florida. Hardy produces type B flowers, but
+it is not recommended for commercial plantings.
+The medium-sized, oblong/oblique fruit is only of fair eating quality. Its weight ranges
+between 160 – 310 g, and the skin is smooth and glossy, light green in colour changing
+to reddish/brown at maturity. Since the oil content is only 6 – 8%, the pale yellow
+flesh is not very tasty. The oblong seed is rather big and firmly attached to the flesh.
+The tree is wide and spreading, and yields are good and regular. A tree spacing of
+8 m x 8 m is recommended.
+Advantages:
+(cid:1) good and regular cropper
+(cid:1) early cultivar, unusual fruit colour
+Disadvantages:
+(cid:1) only fair eating quality
+(cid:1) very large seed
+(cid:1) does not store well on the tree
+46
+
+--- Page 55 ---
+47
+
+--- Page 56 ---
+HHHHHaaaaassssssssss
+The original tree – a chance seedling – was selected at La Glabra Heights, California,
+in 1920. Owing to its excellent adaptability to different climatical regions, this
+Guatemalan cultivar has assumed an important rank in new plantings all over the
+world. Its flower type is A, and the picking season is later than that of Fuerte.
+The mature fruits are of excellent quality with creamy yellow flesh, which is completely
+free of fibre. The fruits are green at first, but change to dark blue when almost ripe.
+They are relatively small, weighing up to 340 g, ovoid to pear-shaped with a tough,
+pebbly skin. Hass fruits ship well, have a good shelf life and have been enjoying wide
+consumer acceptance ever since the early 1970s. The round seed is small and separates
+readily from the flesh which has a fat content of 18 – 23% resulting in an excellent
+nutty flavour.
+The variety is a vigorous, moderately spreading tree. It comes into cropping at an
+early age and usually bears regularly and heavily. Recommended spacing is about
+7 m x 8 m.
+Advantages:
+(cid:1) excellent, high-quality fruit
+(cid:1) outstanding shelf life and shipping characteristics
+(cid:1) one of the longest harvesting seasons
+(cid:1) early and heavy cropper
+Disadvantages:
+(cid:1) when bearing a heavy crop, tendency to produce small fruits
+(cid:1) sunburn on exposed fruits
+(cid:1) large upright trees make harvesting expensive
+48
+
+--- Page 57 ---
+49
+
+--- Page 58 ---
+KKKKKyyyyyoooooyyyyylllll
+This mid-season variety originated in Florida from a West Indian seedling of unknown
+parentage and produces type B flowers.
+The large, oblong to slightly oblique fruits mature at mid-season. Their weight ranges
+from 250 – 545 g, but the eating quality is rather poor. The skin is dark green, tough
+and polished. The yellow flesh is juicy and sweet, but the oil content is only about 7 – 9%.
+The seed is relatively small, approximately 13.6% of the fruit weight, and the flesh is
+nearly free of fibre.
+The tree is a large and upright grower. Yields are light to good, but only in alternate
+years. Recommended planting distance should be 8 m x 8 m.
+Remarks:
+(cid:1) Before further recommendations can be given, more research in Kenya is required.
+50
+
+--- Page 59 ---
+51
+
+--- Page 60 ---
+LLLLLiiiiinnnnndddddaaaaa
+This is a Guatemalan variety, which was introduced to California in 1914 and produces
+type B flowers.
+This mid-season, large variety, varying in shape from oval to elliptical, is purple when
+ripe and weighs from 250 – 800 g. The thick/rough skin is tough and the seed small
+and tight. The melting flesh is yellowish, with a very pleasant flavour and has an oil
+content of 10 –15%; there are no fibres.
+The tree is not a vigorous grower, has a slightly spreading habit and regularly bears a
+good crop. It starts producing fruit at an early age, and the recommended spacing
+should be 7 m x 7 m.
+Advantages:
+(cid:1) outstanding quality
+(cid:1) late maturity
+(cid:1) transports well
+(cid:1) small seed size
+Disadvantages:
+(cid:1) sometimes too large fruit size for easy export
+(cid:1) upright tree, difficult to harvest
+52
+
+--- Page 61 ---
+53
+
+--- Page 62 ---
+LLLLLuuuuulllllaaaaa
+This variety is a chance seedling, which was planted in Miami, Florida in 1915. It is a
+hybrid of Guatemalan x West Indian parentage and produces type A flowers.
+The mid-season, pear-shaped, light green fruit has a waxy and almost smooth skin. It
+weighs 230 – 415 g and has, at one time, been one of the leading commercial cultivars.
+The pale to greenish yellow flesh is delicious and the oil content ranges from
+8 – 15%. It is sweet, melting, and free of fibre. The seed is quite large and is tightly
+set.
+The tree grows tall and upright, bears early, regularly and heavily. The recommended
+tree spacing is 6 m x 7 m.
+Advantages:
+(cid:1) produces early and consistent crops
+(cid:1) has no fibres
+(cid:1) gives heavy yields
+(cid:1) ships well
+Disadvantages:
+(cid:1) susceptible to scab
+(cid:1) large seed
+(cid:1) not a well-known cultivar
+54
+
+--- Page 63 ---
+55
+
+--- Page 64 ---
+NNNNNaaaaabbbbbaaaaalllll
+This is a typical Guatemalan variety from where it was imported to Florida in 1937. It
+produces type B flowers.
+The almost round, medium to large fruit matures at late season and weighs between
+350 and 720 g. The dark green skin is nearly smooth, thick and granular.
+The green/yellowish flesh is of high quality, nutty and melting. Its oil content is about
+9 – 16%. The seed is of average size, round and firmly attached to the flesh.
+The tree grows vigorously and upright, bears heavily but has a tendency towards
+alternate bearing. Recommended spacing is 8 m x 8 m.
+Advantages:
+(cid:1) ships well
+(cid:1) stores well
+(cid:1) has good quality
+Disadvantages:
+(cid:1) tall, upright trees making fruit picking difficult
+(cid:1) alternate bearing
+(cid:1) sometimes the fruit size is too large to export
+56
+
+--- Page 65 ---
+57
+
+--- Page 66 ---
+PPPPPiiiiinnnnnkkkkkeeeeerrrrrtttttooooonnnnn
+This rather new variety originated probably as a seedling of Rincon on the Pinkerton
+Ranch in Ventura County, California in 1970. It is thought to be a Mexican x Guatemalan
+hybrid and produces type A flowers.
+This mid- to late-season, long, pear-shaped cultivar is of dark green colour and normally
+weighs between 250 – 410 g. The skin is medium-thick, leathery and pebbled; the
+high-quality pale green flesh has high oil content (18 –20%) and is of smooth, creamy
+texture. The small seed separates readily from the flesh with the coat adhering to the
+seed. The fruit ships well and has a good shelf life.
+The tree is of medium size, but more spreading than Hass, bears early, regularly and
+heavily. The recommended planting distance should be 6 m x 6 m.
+Advantages:
+(cid:1) good shelf life
+(cid:1) stores and ships well
+(cid:1) late variety
+(cid:1) small seed
+(cid:1) excellent peeling and flesh characteristics
+(cid:1) medium-sized tree
+(cid:1) regular good cropper
+(cid:1) tolerates low temperatures
+(cid:1) resistant to cercospora
+Disadvantages:
+(cid:1) has long-necked fruits, which seem to be a peculiarity of juvenile trees. They do
+not match well with the packers’ standardized equipment.
+58
+
+--- Page 67 ---
+59
+
+--- Page 68 ---
+PPPPPuuuuueeeeebbbbblllllaaaaa
+This variety originated from a chance seedling, which was found at Atlixco, Mexico
+in 1911. It is considered as pure Mexican, but some suggest it may be a Mexican x
+Guatemalan hybrid belonging to the flower type A.
+The medium-sized, mid-season cultivar is of ovate shape. Its thin skin is smooth,
+glossy and purplish-red at maturity. The light green flesh is juicy, melting and of good
+flavour with an oil content of nearly 20%. The ovate seed is medium to large and
+tightly fixed in its cavity.
+The tree is a very rapid grower, erect with drooping branches but does not set fruits
+regularly. In Kenya, Puebla was mainly planted as a pollinator for Fuerte. The
+recommended tree spacing is 7 m x 8 m.
+Advantages:
+(cid:1) spreading tree growth and thus easy harvesting
+(cid:1) flesh peels readily from the skin
+(cid:1) few fibres
+(cid:1) good eating quality
+Disadvantages:
+(cid:1) does not ship well
+(cid:1) alternate bearing
+(cid:1) large seed cavity
+60
+
+--- Page 69 ---
+61
+
+--- Page 70 ---
+RRRRReeeeeeeeeeddddd
+This Guatemalan variety originated around 1948 from Carlsbad, California, as a
+seedling, possibly of an Anaheim x Nabal hybrid. Its flower type is A, and it flowers
+later than most other varieties.
+The green, medium to large, nearly round fruit weighs from 220 – 510 g but the seed
+is relatively small. The flesh is free of fibre and has an excellent nutty flavour. The
+skin is slightly rough, tough, medium-thick and difficult to peel. The average oil content
+ranges from 18 – 20%.
+The tree is an upright grower with downward hanging branches, bears early and
+regularly. The recommended tree spacing is about 7 m x 7 m.
+Advantages:
+(cid:1) fruit has good shipping and shelf life qualities
+(cid:1) very late maturity
+(cid:1) excellent fruit quality
+(cid:1) small seed size
+(cid:1) early and consistent cropper
+Disadvantages:
+(cid:1) fruit size is sometimes too large
+(cid:1) thick skin making it difficult to detect softening of the flesh
+62
+
+--- Page 71 ---
+63
+
+--- Page 72 ---
+RRRRRuuuuueeeeehhhhhllllleeeee
+A West Indian variety possibly from a seed of Waldin selected at Homestead, Florida
+in 1923 and first propagated in 1946. Ruehle produces type A flowers.
+The pear-shaped, early variety is of medium size and weighs about 200 – 320 g. The
+fruits are borne in clusters, are light green and have a very low oil content of about
+2 – 5% only. The flesh is juicy, firm and of light green colour and without fibres. The
+skin is smooth, glossy, thin and leathery. The fruit production is good and regular but
+plantings are only advisable for local consumption.
+The tree is a large, spreading tree and fruits are somehow difficult to harvest.
+Recommended planting distance is 7 m x 7 m.
+Advantages:
+(cid:1) heavy and regular bearer
+(cid:1) firm, leathery fruit skin
+(cid:1) juicy, firm and sweet flesh
+Disadvantages:
+(cid:1) susceptible to False codling moth
+(cid:1) only fair fruit quality
+(cid:1) not favoured on the export market
+64
+
+--- Page 73 ---
+65
+
+--- Page 74 ---
+SSSSSaaaaammmmmaaaaa
+In 1970, the author found this chance seedling on the Wanguhu farm in Trans Nzoia
+District, Kenya. It is thought to be a Guatemalan hybrid and produces type A flowers.
+The medium-sized, late maturing, pear-shaped, dark-blue/black fruits are of excellent
+quality. Fruits normally weigh 210 – 355 g and have a thick, pebbly skin. The flesh is
+yellow, juicy, melting, of nutty flavour and free of fibre. The seed is relatively small
+and separates readily together with the seed coats from the mature fruit. The oil content
+is 18 – 25%.
+The tree is large and upright. It comes into bearing at an early age, and crops are
+regular and good to heavy. The recommended spacing is about 8 m x 8 m.
+Advantages:
+(cid:1) excellent fruit quality
+(cid:1) small seed
+(cid:1) tough skin
+(cid:1) transports well
+(cid:1) good and regular yielder
+Disadvantage:
+(cid:1) relatively unknown, needs more publicity
+66
+
+--- Page 75 ---
+67
+
+--- Page 76 ---
+SSSSSiiiiimmmmmmmmmmooooonnnnndddddsssss
+This West Indian variety first fruited in Miami in 1913 and is possibly a seedling of
+Pollock. From 1921 onwards, it has been propagated commercially and produces type
+A flowers.
+The medium-sized light green to yellow, pear-shaped fruit matures during early mid-
+season. The skin is very thin, smooth and polished but easily bruised. The light-green,
+juicy, melting flesh is of fair flavour, almost free of fibre and has an oil content of
+3 – 6%. The seed is medium to large, oval-oblique in shape and usually is tightly
+attached to the flesh.
+The tree is a large and upright grower and has a tendency to biennial bearing. The
+recommended tree spacing should be 7 m x 7 m.
+Advantages:
+(cid:1) widely grown in the humid tropics
+(cid:1) seed used for rootstock propagation
+(cid:1) sweet-tasting flesh
+Disadvantages:
+(cid:1) large seed and cavity
+(cid:1) susceptible to fruit fly and False codling moth infestation
+(cid:1) not for export, but only of interest for domestic markets
+68
+
+--- Page 77 ---
+69
+
+--- Page 78 ---
+TTTTTaaaaammmmmbbbbbaaaaarrrrriiiiinnnnnaaaaa
+Details about the provenance of this West Indian variety, which was imported from
+Florida into Kenya in 1981 are not available. After about four years in the field, the
+grafted trees started fruiting. They belong to the flower type A.
+The medium sized, light green, elongated/slightly oblique fruit has a thin, waxy skin,
+which is covered by a lot of corky lenticels that are first yellow and later change to
+brownish. The seed is of medium size and separates readily from the mature fruit
+together with its seed coat. The flesh is of fair quality, almost free of fibre and is of
+pale yellow/green colour. The elongated, pointed seed is tightly set and the oil content
+ranges from 6 – 9%.
+The tree is wide and spreading and produces a fair to good yield but only every second
+year. The recommended spacing should be 7 m x 7 m.
+Remark:
+(cid:1) Further screening of this cultivar is required before more detailed information can
+be given.
+70
+
+--- Page 79 ---
+71
+
+--- Page 80 ---
+TTTTTeeeeeaaaaaggggguuuuueeeee
+Around 1981, this earliest maturing Mexican variety was imported to Kenya from
+California and was later released from the local quarantine station for further
+commercial propagation. It is probably a hybrid of Duke and Fuerte and produces
+type B flowers.
+The small to medium sized, light green, ovate fruits normally weigh 125 – 280 g. The
+thin skin is brittle and smooth/glossy. The pale-yellow, juicy and aromatic flesh contains
+16 – 21% oil and is almost free of fibre. The ovate, rather small seed is tightly set.
+The tree’s growth is vigorous and spreading but some trees yield only poor to fair
+crops. The recommended tree spacing should be 8 m x 9 m.
+Remarks:
+(cid:1) At the moment, there are no indications that Teague will become an important
+future cultivar in Kenya. Its main weakness, among others, is that not all its trees
+bear equally well, and fruits have the tendency to drop from the tree prematurely.
+72
+
+--- Page 81 ---
+73
+
+--- Page 82 ---
+TTTTTooooonnnnnnnnnnaaaaagggggeeeee
+This cultivar belongs to the Guatemalan race and is thought to be a seedling of Taylor.
+In Florida, its commercial propagation started 1930. Tonnage produces type B flowers.
+The mid-season, pear-shaped, medium to large fruit weighs normally 275 – 550 g.
+The green, thick and rough skin is light green and polished. The light green, melting
+flesh is of mild flavour, contains 10 – 12% oil and is almost free of fibre. The rather
+big, ovate seed is fairly tight and the average seed/flesh ratio stands at 24%.
+The tree is tall and upright and bears regularly a good to heavy crop. The recommended
+planting distance should be 6 m x 7 m.
+Advantages:
+(cid:1) good and consistent cropper
+(cid:1) maturing earlier than Lula
+(cid:1) fruit appearance good
+(cid:1) peels readily
+Disadvantages:
+(cid:1) rather large seed and cavity
+(cid:1) tendency of sprouting seed inside mature fruits
+74
+
+--- Page 83 ---
+75
+
+--- Page 84 ---
+TTTTTXXXXX 555553333311111
+Also one of the more recently (1979) introduced cultivars from Florida, it is thought
+to be a derivation of Hass x Nabal which means that it is a member of the Guatemalan
+race and produces type A flowers. The first released trees were planted in November
+1980 and started bearing after three years in the field.
+The medium to large-sized oblong/oblique fruits mature at mid-season and are of
+dark green colour. The glossy, tough skin is covered with many light green lenticels,
+and the yellow, juicy flesh is of very good eating quality and almost fibreless. Fruits
+normally weigh 310 – 540 g and their oil content ranges between 15 – 20%. The small
+oblong seed reaches only 12% of the total fruit weight.
+The tree is large and upright and a heavy and regular bearer. The recommended planting
+distance should be 7 m x 8 m.
+Remarks:
+(cid:1) This is a very promising cultivar of good quality, shelf life, cropping and shipping
+properties.
+76
+
+--- Page 85 ---
+77
+
+--- Page 86 ---
+WWWWWaaaaallllldddddiiiiinnnnn
+Like Simmonds, this is one of the better-known West Indian cultivars. Seed was first
+planted in Florida in 1909 and later propagated commercially in 1917. It has been a
+leading commercial cultivar in Central and Southern Florida but never a success on
+the export market. The seed is recommended for use as a rootstock.
+The medium-sized, early cultivar is of ovate/oblique shape and produces type A flowers.
+Fruits normally weigh 145 – 315 g and their thin, leathery skin is smooth, pale green
+and glossy.
+The greenish-yellow flesh is sweet, juicy and melting but only of average quality. The
+oil content is 6 – 8%. The seed is rather large and not very tightly fitted.
+The trees grow vigorously and upright and tend to overbear and dieback. The tree
+spacing recommended is 7 m x 8 m.
+Remarks:
+(cid:1) Like Simmonds, this cultivar is also very much affected by infestation with False
+codling moth and fruit fly and therefore its rating for commercial planting is only
+fair.
+78
+
+--- Page 87 ---
+79
+
+--- Page 88 ---
+WWWWWiiiiinnnnnttttteeeeerrrrr MMMMMeeeeexxxxxiiiiicccccaaaaannnnn
+Mexican x West Indian hybrids are rarely cultivated, but for experimental purposes,
+this cultivar was introduced to Kenya in 1979 and planted into the field in November
+1980. The first yield of 0.345 t/ha was recorded in 1983 and increased to 2.226 t/ha in
+1984.
+The medium-sized, mid-season, dark green and pear-shaped fruit has a glossy but
+rough skin that clings to the firm, tasty flesh. It is light green in colour, melting, sweet
+and almost free of fibre and has a high oil content of up to 20%. Fruits normally weigh
+215 – 350 g. The rather large oval seed is tightly set and consists up to 25.4% of the
+total fruit weight.
+The tree is a large and upright grower; yields are moderate but regular. The
+recommended tree spacing is 7 m x 8 m.
+Remarks:
+(cid:1) Additional field research is needed before recommendations that are more detailed
+can be given.
+(cid:1) Moderate yields and the unfavourably large seed cavity may negatively influence
+the chances of this becoming a favoured cultivar.
+80
+
+--- Page 89 ---
+81
+
+--- Page 90 ---
+ZZZZZuuuuutttttaaaaannnnnooooo
+This cultivar is believed to have originated in Fallbrook, California. It was introduced
+in 1941 from a selection made in 1926. Its parentage is unknown but it is probably a
+hybrid between a Mexican and a Guatemalan type, producing flowers of type B.
+The medium pear-shaped fruit matures in the early mid-season slightly earlier than
+Bacon. Fruits normally weigh 150 – 397 g and have a moderate shelf life. The skin is
+light green, smooth, glossy and very thin and leathery. The light green/yellow and
+melting flesh has an oil content of 15 – 18% and is free of fibre. The oblong seed is
+relatively large (up to 23% of the fruit weight), tight and separates cleanly from the
+flesh.
+The tree is a tall and upright grower; yields are good and consistent. The recommended
+tree spacing is about 7 m x 8 m.
+Advantages:
+(cid:1) produces good and regular crops
+(cid:1) matures earlier than Fuerte
+(cid:1) is fairly tolerant to cold and wind
+Disadvantages:
+(cid:1) moderate shelf life
+(cid:1) tendency towards splitting on the fruit bottom when over-mature
+(cid:1) tree topping will be beneficial to reduce picking costs
+82
+
+--- Page 91 ---
+83
+
+--- Page 92 ---
+FFFFFUUUUURRRRRTTTTTHHHHHEEEEERRRRR RRRRREEEEEAAAAADDDDDIIIIINNNNNGGGGG
+Agro-Progress. 1988. Transport Study Tropical Fruits. Nairobi: GTZ.
+Adelhelm R, Griesbach J, Ulrich W. 1972. Feasibility Study, Economic Appraisal and
+Development Programme for a Horticultural Production Centre in the Trans Nzoia
+District / Kenya. Hamburg: Africa-Verein.
+Bohlen E. 1978. Crop Pests in Tanzania and their Control. KATRIN/ Federal Agency
+for German Economic Cooperation. Hamburg/Berlin: Paul Parey.
+Cooper J, Dobson H, Orchard J. 2003. Avocado Production Protocol. UK: University
+of Greenwich.
+Gaillard JP, Godesfroy J. 1995. Avocado. The Tropical Agriculturist Wageningen /
+Netherlands: Technical Centre for Agriculture and Rural Cooperation.
+Griesbach J. 1992. A Guide to Propagation and Cultivation of Fruit-Trees in Kenya.
+Schriftenreihe No. 230, Eschborn / Germany: GTZ.
+Griesbach J. 1978. Der Avocado-Anbau in Kenia. Schriftenreihe: Entwicklung und
+ländlicher Raum, Heft 6.
+Griesbach J. 1980. Growing Avocado in Kenya., Vol. II. Tübingen/Germany: Institute
+for Scientific Co-operation.
+Griesbach J. 1980. Avocado, a most promising Fruit for National Nutrition and Export.
+Kenya Farmer. Nairobi: Agricultural Society of Kenya.
+Griesbach J. 1986. The Avocado Industry in Kenya. Dairy and Livestock Farmer. Kenya.
+Nairobi: News Publishers Ltd.
+GTZ. 1993. A market-oriented Development Concept for Tropical Fruit Cultivation in
+Kenya. Nairobi: GTZ.
+Hill DS. 1974. Agricultural Insect Pests of the Tropics and their Control. London,
+UK: Cambridge University Press.
+Hörmann DM, Will M. 1986. The Market for selected fresh Tropical Fruits from Kenya
+in Western European Countries.University of Hannover / Germany: Institute for
+Horticulture Economics.
+Horticultural Crops Development Authority, Nairobi, 2003. Avocado Export
+Statististics.
+Jaetzold R, Schmidt H.1983. Farm Management Handbook of Kenya. Nairobi: Ministry
+of Agriculture / GTZ.
+Koch FD. 1983. Avocado Growers Handbook. California: Bonsall Publications.
+84
+
+--- Page 93 ---
+Ministry of Agriculture, Nairobi. Horticulture Annual Reports, Horticulture Division
+2003.
+Page PE. 1984. Tropical Tree Fruits for Australia. Brisbane / Australia: Queensland
+Department of Primary Industries, Horticulture Branch.
+Samson JA. 1980. Tropical Fruits. Wageningen / Netherlands: Tropical Agriculture
+Services,Agricultural University.
+Strübi P. 1988. Report on Results of second and third Avocado Storage Trial. University
+of Nairobi.
+Toerien J. 1999. Overview of the World Avocado Production., IV World Avocado
+Congress, October 1999.
+85
+
+--- Page 94 ---
+GGGGGLLLLLOOOOOSSSSSSSSSSAAAAARRRRRYYYYY
+active ingredient toxic component of a formulated pesticide
+bud a condensed shoot containing immature leaves and/or flowers
+canopy crown of plant
+chlorosis yellowing of leaves, often caused by mineral deficiency
+compost decomposed plant remains
+cultivar a cultivated variety
+die-back progressive death of a shoot or stem backwards from the tip
+elongated longer than it is broad
+evergreen describes a plant that retains leaves at all seasons, shedding a few
+more or less continually
+fruit botanically, the whole seed-bearing organ whatever its form
+fungicide a chemical that kills fungi, particularly those responsible for various
+plant diseases
+germination the first stage in the development of a seed into a plant
+habit the overall shape or form of a plant, such as upright, rounded,
+spreading, etc.
+herbicide a chemical that kills plants, a weed killer
+hybrid a plant resulting from crossing two distinctly different parents,
+different varieties, species or genera
+inflorescence flower; the term is generally used for a compound inflorescence
+made up of a number of flowers arranged on a single stem
+insecticide a chemical that kills insects
+86
+
+--- Page 95 ---
+lateral describes a shoot, bud, etc. at the side of a stem of the main shoot
+lenticel a pore-like, slightly raised, spot on a fruit skin
+maturity stage of final fruit development (ripened)
+perennial a plant that lives for a number of years
+pesticide a chemical that kills garden pests; the term is also used loosely to
+include fungicides
+pH a measurement of acidity or alkalinity
+phytotoxic a chemical liable to damage or kill plants
+pollen the dust-like particles produced by male flower parts
+pollination the transfer of pollen from male anthers to female stigma of a flower,
+the first stage in the sexual reproduction of plants
+propagation increasing one’s stock of plants by means by sexual or vegetative
+multiplication
+provenance germplasm from a single place of origin
+residue amount of pesticide remaining in or on plant tissues after a given
+time
+rootstock plants propagated for further grafting/budding
+scion the plant part grafted onto the stock
+species one or more species make up a genus
+stigma the female part of a flower; part of the pistil
+susceptible succumbing to disease, infection i.e. not resistant
+tap-root a strong vertical root
+trunk the main stem of a tree
+87
+
+--- Page 96 ---
+11111
+3 2 0 8 0 9 9 0 8
+ii
+xx
+i
+x
+ii
+xx
+2
+0 0
+1 8
+1 6
+6
+4 2
+2 5
+1 9
+8
+4 8
+1 1
+6 1 6 4 4 2
+7 0
+9 4
+ddddd
+nnnnn 2 9 8 0 9 5 0 0 1
+eeeee 0 9 0 0 7 5 4 7 0 2 6 6 5 2 8 4 3
+ppppp 2 0 1 7 6 1 6 6 4 5 2
+ppppp
+AAAAA 0 1 0 3 0 0 4 1 6 1 5 0 0 4 8 2 6 6 4 0 2 4 0 3 9 6
+s ) 2 0 1 7 6 2 1 5 3 5 4
+e
+n
+o n 0 0 2 3 2 8 7 2 0 9 0 7 9 2 3 5 7 5 4 4 1 4 0 0 2 7
+n
+( t 2 0 1 5 5 1 8 4 7 5 2
+o
+c ti 9 9 2 0 6 6 7 2 5 4 6 9 3 9 8 1 2 4 9 6 6 7 1
+d u 1 9 1 5 5 2 0 6 4 5 3
+o
+P r
+1
+9 9 8
+1 7
+4 0 1
+4
+5 1 9
+1 7
+6 8 8
+7
+6 0 3
+1
+4 7 7 4 5 0
+4 9
+1 3 8
+7 3 7 7 4 6 6 3
+9 1 7 5 6 0 3 7 4 2 6 4 9 2 8
+1 9 1 6 4 8 6 1 3 7
+6 3 3 3 5 0 6 1 1
+1
+9 9
+0
+4 9
+3
+2 9
+7
+0 4
+8
+6 6
+1
+5 6 2 7 2
+1
+3 5
+1 3
+sssss 3 5 8 0 8 7 7 4 9 a
+ccccc 0 0 3 5 6 4 9 8 6 3 3 2 9 5 0 9 n y
+aa tt ii ss
+tt ii
+a t i s
+t i
+aa tt ii ss
+tt ii
+2 0 0 2
+2 1
+1 3 3 4 6 3 3
+1
+2 0 3 1 4 8 3 2 8 2 8 2 3 5
+5
+4 8 8 0 N air o bi /
+K e
+ss
+tt
+s
+t
+ss
+tt
+1 5 9 3 4 3 0 0 4 0
+3,
+oo
+nn
+o
+n
+oo
+nn
+2
+0 0
+1
+2 9 6 0
+1
+4 6 4 1 5 4 8 3
+4
+4 6
+6
+-
+2 0
+9
+uu cc tt ii u c t i uu cc tt ii g e ( h a ) 2 0 0 0 1 2 4 1 5 9 3 1 2 3 2 4 5 1 4 9 3 7 4 3 5 4 1 1 9 ult ur e 1 9
+ddddd a c
+pp rr oo p r o pp rr oo
+H
+e c t a r 1 9 9 9 1 1 1 1 4 7 5 1 4 6 6 4 0 2 4 5 8 7 4 3 9 8 6
+y
+of A gri
+aa
+dd oo
+a
+d o
+aa
+dd oo 1 9 9 8 1 1 7 3 4 7 0 1 4 4 1 4 7 4 2 1 7 7 3 3 8 4 8
+s,
+Mi ni
+str
+vv oo cc v o c vv oo cc 1 9 9 7 1 1 2 7 4 2 7 5 7 2 4 0 8 1 4 9 6 2 2 7 4 5 al r e p
+ort
+cc ii
+aa
+ll aa
+c i
+a
+l a
+cc ii
+aa
+ll aa
+1 9
+9 6
+1
+1 0 6 3 1 9 5 5 9 4 1 9 1 4 4 3 5 3
+2
+5 8 5
+ult
+ur e
+a n n u
+PP rr oo vv ii
+nn
+P r o v i
+n
+PP rr oo vv ii
+nn
+P r o vi n c
+e
+Y e a r E a st er n W e st er n C e ntr al Rift V all e y N y a n z a C o a st N air o bi T ot al o ur c e: H
+orti c
+S
+88
+
+--- Page 97 ---
+e s 2 9 9 0 6 7 3 3 1 6 7 3 9 0 2 0 6 0
+n) 4 2 3 2 7 3 8 0 9
+n( t 0 3 6 9 0 5 2 9 5
+22222 o 1 1 1 1 1 1 1
+T
+xxxxx
+8 5 7 4 3 4 7 8 0
+nn dd ii n d i nn dd ii o t al k g ) 4 2 9 4 4 2 8 9 7 2 3 6 6 7 7 2 3 2 9 8 7 1 6 1 1 3 7 2 6 7 8 8 9 8 0 0 2 0 0 2 9 6 0 1 5
+eeeee T( 0 3 6 9 0 5 2 9 5
+1 1 1 1 1 1 1
+ppppp
+2 0 9 5 8 7 6 0
+ppppp 7 2 3 1 0 3 9 2
+c 4 1 8 3 8 6 6 4
+AAAAA e 3 6 9 4 9 5 9 5
+D 0 3 2 3 2 1 2 4
+1 1 1 1 1
+0 7 4 8 2 5 0 0
+4 4 2 8 3 6 0 0
+v 3 8 4 7 6 0 2 7
+yyyyy o 3 5 2 8 3 1 6 8
+bbbbb N 9 4 4 4 7 1 9 2 3 2 8
+aaaaa
+2 9 2 9 8 0 6 1
+yyyyy 3 5 7 2 4 2 0 7
+nnnnn c t 2 5 6 9 2 8 2 5 8 5 2 5 2 1 2 5
+eeeee O 1 6 4 5 6 2 5 2 7 5 2 1 0
+KKKKK
+0 8 6 4 0 9 7 1
+mmmmm
+e
+p t
+0
+9 3
+2
+5 0
+0
+4 8
+0
+4 5
+0
+1 4
+9
+1 2
+4
+1 9
+1
+2 6
+ooooo S 4 4 4 0 3 4 6 7 9 8 9 5 1 9 8
+rrrrr
+fffff
+cc
+aa dd
+oo
+c
+a d
+o
+cc
+aa dd
+oo
+A u g
+u s t
+1
+8 7 3
+1 6 4
+3 9 5
+4 8 8
+9 8
+3 8 5
+1
+4 4 8
+4 5 2
+1
+2 7 9
+9 4 4
+1
+6 2 9
+9 2 3
+1
+3 6 8
+2 3 1
+1
+1 1 6
+7 4 4
+ooooo 8 8 0 5 9 4 5 7
+7 7 9 2 2 7 2 6
+aa
+vv
+a
+v
+aa
+vv
+J
+ul
+y
+8 5
+7
+8
+3 7
+8
+1
+3 2
+9
+5
+8 4
+4
+7
+4 4
+0
+8
+3 6
+6
+9
+1 4
+7
+7
+7 9
+2
+3
+rr r rr 1 2 2 2 1
+ee ss
+ff oo
+e s
+f o
+ee ss
+ff oo
+J u n
+e
+2 2 6 9
+8 5 1
+1 2 2 3
+3 8 1
+1 1 3 4
+6 2 7
+9 9 0
+5 0 8
+2
+3 1 3
+4 9 8
+1
+3 6 3
+6 1 2
+2
+6 7 9
+0 0 1
+1
+0 4 1
+1 1 3
+0
+3
+rrrrr 0
+ss
+ff
+ii
+gg uu
+s
+f
+i
+g u
+ss
+ff
+ii
+gg uu
+M a
+y
+3 1
+0 0
+2 3 1
+8
+4 3
+3 7 5
+1 5
+2 5
+1 2 3
+1 3
+9 2
+3 1 3
+1 9
+0 9
+1 4 5
+1 4
+0 6
+4 9 4
+1 6
+6 4
+5 8 9
+2 8
+1 1
+1 7 1
+bi
+-
+1 9
+9 6/ 2
+tt ii ss
+tt ii
+cc
+t i s
+t i
+c
+tt ii ss
+tt ii
+cc
+A
+p r
+2 0 6
+9 3
+5 9
+6 4
+8 7
+1 4
+2 6 9
+9 0
+6 5
+1 3 5
+3 2
+1 9
+2 5 8
+8 1
+3 4
+1 3 6
+9 4
+0 3
+2 9 2
+7 4
+3 8
+1 8 1
+6 3
+7 5
+orit y,
+N
+air o
+tt ss
+tt
+aa
+t s
+t
+a
+tt ss
+tt
+aa
+M a
+r
+9 1 4
+3 9
+9
+1 1 9 5
+3 4
+3
+2 7 4 8
+9 4
+4
+2 2 9 2
+7 6
+2
+3 0 6 9
+6 0
+4
+2 2 0 9
+9 0
+6
+4 0 3 8
+3 8
+2
+2 8 5 2
+2 2
+7
+m e nt
+A
+ut h
+eeeee o p
+mm aa rr kk m a r k mm aa rr kk aa ii rr a i r aa ii rr F e b 1 4 2 2 5 6 9 6 1 5 7 6 4 8 3 3 1 2 1 6 0 1 5 1 1 4 8 2 7 4 7 5 7 5 8 0 3 2 0 2 6 0 5 4 2 0 1 5 5 2 0 o p s D e v el
+dd d dd
+Cr
+rr tt r t rr tt nnnnn n 3 1 3 2 8 8 3 1 8 5 3 8 6 4 5 3 4 1 4 0 8 0 4 5 ur e
+pp
+oo
+p
+o
+pp
+oo
+aa
+aa
+a
+a
+aa
+aa
+J
+a
+2 6
+2
+1 8
+9
+5
+8
+1 8
+6
+3
+6
+4 8
+9
+7 6
+6
+9 9
+7
+orti c
+ult
+xxxxxeeeee H
+EEEEEsssss
+e:
+r 6 7 8 9 0 1 2 3 4 c
+Y e
+a
+1 9
+9
+1 9
+9
+1 9
+9
+1 9
+9
+2 0
+0
+2 0
+0
+2 0
+0
+2 0
+0
+2 0
+0
+S o
+ur
+89
+
+--- Page 98 ---
+33333
+xxxxx 1 6 2 9
+dd ii d i dd ii 0 0 1 3 7 6 4 3 1 1 9 1 3 1 7 1 5 6 3
+nnnnn 2
+eeeee
+ppppp
+ppppp
+AAAAA
+3 9 2 0
+0 1 5 3 2
+0 9 6 6 4
+0 2 1 2 1
+..... 2 4 4 1 1
+.....
+.....
+sssss
+eeeee
+nnnnn
+5 3 7 8
+nnnnn 9 6 3 5 1 9 9 7 3
+tt oo t o tt oo 1 9 9 3 0 3 1 1 3 9
+nnnnn
+iiiii
+sssss
+ttttt 6 8 5 6
+eeeee 8 0 8 9 2 2 1 9 5
+kkkkk 9 9 2 7 4 8 1 4 6
+rrrrr 1
+aaaaa
+mmmmm
+nnnnn
+2 7 1 8
+aaaaa 7 5 4 3 0 1 8 9 8
+eeeee 9 9 3 9 2 3 1 9 1 2
+ppppp 1
+ooooo
+rrrrr
+uuuuu
+EEEEE
+7 2 1 7
+hh
+ee
+h
+e
+hh
+ee
+9 9
+6
+4 2
+5 1
+2 6
+6 9
+2 9
+6 1
+7
+6 8
+1
+ttttt
+ooooo
+ttttt
+sssss
+9 2 7 2
+ll
+ii
+ee rr
+l
+i
+e r
+ll
+ii
+ee rr
+1
+9
+9 5
+3 0
+7 4
+2 9
+5 0
+3 3
+0 7
+8
+8 6
+ppppp
+ppppp
+uuuuu
+sssss
+oo o oo 4 0 8
+2
+5 6
+9
+4 7
+9
+9 9
+1
+ddddd 9
+9
+2 0 3 3 1 9 6
+1
+aaaaa
+ccccc
+ooooo
+vvvvv
+MM aa ii
+nn aa
+M a i
+n a
+MM aa ii
+nn aa
+C o u
+n t r y
+sr a el S o ut h
+Afri c a
+M e xi c o K e n y a
+I
+90
+
+--- Page 99 ---
+44444
+xxxxx c
+e
+iiiii D
+ddddd
+nnnnn
+eeeee
+ppppp v
+o
+ppppp N
+AAAAA
+t
+c
+O
+pt
+e
+S
+t
+s
+u
+g
+u
+A
+y
+ul
+J
+e
+n
+u
+J
+yyyyy
+lllll
+ppppp
+ppppp y
+a
+uuuuu M
+sssss
+fffff
+ooooo
+p
+r
+sssss A
+hhhhh
+nn
+tt
+n
+t
+nn
+tt
+SI
+F
+C
+ooooo r P,
+mmmmm M a C
+A
+E
+L
+nnnnn O
+C
+mm
+aa
+ii
+m
+a
+i
+mm
+aa
+ii
+F
+e b ati o
+n:
+rr r rr a b
+or
+iiiii el
+hh
+ee
+h
+e
+hh
+ee
+a
+n
+A
+T
+-
+ttttt J
+S
+T
+dd d dd O
+R
+nnnnn a U
+.. .. ..
+aa
+. . .
+a
+.. .. ..
+aa
+C o u n t
+r y
+I sr a el S o ut h
+Afri c
+M e xi c o K e n y a S p ai n S o ur c e:
+E
+91
+
+--- Page 100 ---
+55555
+xxxxx
+iiiii
+ddddd s
+d
+nnnnn n
+AA pp pp
+ee
+A p p
+e
+AA pp pp
+ee
+M e xi c a n el o n g at e d s m all t hi n, w a x y hi g h l a r g e, s m o
+ot h
+6 - 9 m o nt h
+s
+t r o pi c al hi g
+hl a
+m o st t ol e r a
+nt
+s m all a ni s e s c e nt
+e d
+P u e bl a T e a g u e
+nt
+sa
+sssss dr
+aa dd oo rr aa cc
+ee
+a d o r a c
+e
+aa dd oo rr aa cc
+ee
+R a c
+e
+G u a t e m al a n r o u n d v a ri a bl e t hi c k, w a rt y m e di u m - hi g
+h
+s m all, s m o ot
+h
+1 0 - 1 5 m o nt
+h s
+t r o pi c al hi g hl
+a n
+m o d e r at el y t
+ol e
+m e di u m - l a r
+g e
+n o o d o r Li n d a N a b al R e e d H a s s T o n n a g e
+ccccc
+ooooo
+vvvvv
+aaaaa
+eeeee
+eeeee
+rrrrr s
+hhhhh e d
+oo ff tt hh ee tt o f t h e t oo ff tt hh ee tt W e s t I n di a n el o n g at e d m e di u m - l a r g t hi n, l e at h e r y l o w l a r g e, r o u g h 5 - 8 m o nt h s t r o pi c al l o wl a n v ul n e r a bl e l a r g e n o o d o r H a r dl y R u e hl e Si m m o n d s W al di n
+sssss
+ccccc
+iiiii
+ttttt
+sssss
+iiiii
+rrrrr
+eeeee
+ttttt
+ccccc
+aaaaa st:
+rrrrr e
+aaaaa s v
+hhhhh ti c h a r e: s:
+SS oo mm ee cc S o m e c SS oo mm ee cc C h a r a c t e ri s F r ui t : S h a p e: Si z e: S ki n: Oil c o nt e nt: S e e d: Fl o w e ri n g t o T r e e : O ri gi n: C ol d t ol e r a n c Si z e of l e a v e S m ell: C ul ti v a r s :
+92
+
+--- Page 101 ---
+AAAAAppppppppppeeeeennnnndddddiiiiixxxxx 66666
+AAAAAllllltttttiiiiitttttuuuuudddddeeeee mmmmmaaaaappppp ooooofffff KKKKKeeeeennnnnyyyyyaaaaa
+Mandera
+Lodwar
+Marsabit
+Eldoret
+Isiolo
+Kisumu
+Mt. Kenya
+Nakuru Nyeri Garissa
+NAIROBI
+Legend
+Height of land in metres
+0 - 200
+Mombasa
+200 - 400 Province boundary
+400 - 1000
+Water bodies
+1000 - 2000
+2000 - 4000 Towns
+4000 - 6000 Rivers
+N
+W E
+S
+Compiled and prepared by
+ICRAF GIS Unit 2005
+93
+
+--- Page 102 ---
+xx
+77
+x
+7
+xx
+77
+1 9 8 8 4. 8 0 0 3. 4 7 8 1. 2 0 0 8. 9 7 0
+61 41
+iiiii
+ddddd
+nnnnn
+eeeee 7 03 09 07 08 01 34 03 09 05 03
+ppppp 1 9 8 1. 8 7 2. 7 1 7. 3 5 8. 4 1 9. 3 6 2. 3 4 6. 0 5 9. 9 7 3. 9 0 1. 2 1 3. 9 1 5. 3 7 6. 3 6 6. 2 8 6. 1 0 2. 0 6 5. 8 4 1. 6 1 2. 9 0 1. 4 0
+ppppp 1 01 6 51 91 51 71 1 22 1 02 51 1 02
+AAAAA
+6 03 00 02 06 01 81 07 04 00 59
+1 9 8 4. 6 6 3. 0 8 9. 2 8 3. 6 6 6. 7 4 3. 4 8 3. 2 5 2. 7 5 5. 1 5 9. 3 9 4. 1 8 7. 1 1 4. 6 0 1. 3 5 8. 0 0 4. 5 4 7. 4 4 7. 7 8 0. 7 1 0. 5 4
+2 2 1 1 4 3 51 12 3 51
+1
+5 00 08 01 07 02 08 00 04 54 05
+8 86 65 40 73 00 78 04 00 69 51
+1 9 0. 8 8. 8 5. 2 5. 6 9. 1 2. 3 5. 3 9. 4 2. 8 8. 9 6. 7 3. 4 5. 0 1. 8 8. 0 8. 7 2. 6 6. 7 5. 6 7. 4
+7 4 51 4 4 1 02 32 3 3
+1 1
+sssss
+rrrrr
+aaaaa
+vvvvv 4 05 03 09 56 00 68 06 09 03 52
+8 83 68 60 21 55 59 07 06 44 18
+tt ii t i tt ii 1 9 7. 4 3. 4 5. 0 4. 3 4. 6 7. 2 6. 4 3. 4 9. 9 4. 1 3. 3 1. 0 4. 5 7. 5 8. 6 4. 2 9. 3 1. 9 7. 4 7. 7
+lllll 2 3 3 1 1 51 81 61 3
+uuuuu
+ccccc
+ooooo 3 05 00 00 59 01 49 55 05 09 00
+8 21 81 08 28 09 42 76 02 04 00
+ddddd 1 9 7. 3 0. 9 2. 0 4. 0 7. 5 9. 8 0. 5 2. 5 8. 9 8. 0 7. 5 5. 7 8. 7 8. 0 8. 1 8. 3 6. 1 3. 3 1. 2 2. 3
+aaaaa 81 3 4 61 3 2 3 81 1 1
+ccccc
+ooooo
+)))))
+vvvvvmmmmm
+2 08 03 07 58 09 65 50 06
+ee
+aa
+e
+a
+ee
+aa
+55
+00
+5
+0
+55
+00 1 9 8
+5
+2. 9 4 6. 6 1
+2
+5. 7 8 3. 2 2
+1
+7. 8 2 3. 7 0
+2
+7. 8 2 5. 7 8
+3
+0. 3 8 6. 3 1
+1
+4. 2 5 2. 9 6
+6
+1. 1 5
+1
+2. 7 2
+5
+7. 0 0
+1
+1. 8 5
+mmmmm66666
+11111
+ooooo
+ss s ss oo nn :: o n : oo nn :: 1 9 8 1 6. 9 4 0 7. 1 1 8 7. 2 2 0 2. 1 5 3 6. 9 2 0 3. 5 1 9 6. 9 5 0 5. 6 0 6 0. 5 5 0 4. 2 7 4 8. 9 1 1 3. 9 3 3 0. 4 1 0 8. 4 0 5 5. 6 0 0 3. 2 4 5
+fffffiiiii 5 1 1 2 2 1 4 1
+ooooottttt
+aaaaa
+ss s ss vvvvv
+eeeee
+eeeee
+uu rr u r uu rr ii ,, ee ll i , e l ii ,, ee ll 1 9 8 0 2 9. 7 4 0 3. 7 1 8 7. 9 5 0 0. 9 9 4 1 3. 4 5 0 2. 7 9 8 1 5. 0 2 5 3. 1 2 5 8. 2 4 0 1. 7 1 4 1 7. 6 1 1 3. 6 6 3 1 3. 9 5 0 2. 9 0 1 1 2. 0 0 0 2. 4 9 6
+gggggttttt
+iiiii
+iiiiimmmmm
+fffff
+aaaaa
+eeeeeKKKKK 9eea 00 03 00 08 05 02 00
+aa nn cc a n c aa nn cc oo nn ,, o n , oo nn ,, 1 9 7 A v e r a g k g/t r e t/ h 1 0. 5 6 1. 3 2 1 2. 3 2 2. 5 6 2. 3 1 0. 4 8 4. 5 6 0. 9 4 1. 8 5 0. 3 8 0. 7 8 0. 1 6 1. 2 5 0. 2 6
+sssss
+mmmmm rr ii r i rr ii c e
+pp ee rr ff
+oo rr
+p e r f
+o r
+pp ee rr ff
+oo rr
+oo nn :: GG
+KK PP
+o n : G
+K P
+oo nn :: GG
+KK PP
+Pl a nti n g
+y e a r:
+Pl a nti n g
+di st a n
+T r e e s/ h a 2 5. 0 4. 7 5 1 0 m x 8
+m
+1 2 5 0 3. 0 9. 7 6 1 0 m x 8
+m
+1 2 5 2 5. 0 4. 7 5 6 m x 8 m 2 0 8 0 3. 0 9. 7 6 6 m x 8 m 2 0 8 0 3. 0 9. 7 6 6 m x 8 m 2 0 8 0 3. 0 9. 7 6 6 m x 8 m 2 0 8 0 3. 0 9. 7 6 6 m x 8 m 2 0 8 0 3. 0 9. 7 6 6 m x 8 m 2 0 8 1 1. 1 1. 8 0 6 m x 8 m 2 0 8 1 1. 1 1. 8 0 6 m x 8 m 2 0 8
+iiiii
+dddddttttt
+YY ii ee ll Y i e l YY ii ee ll (( LL oo cc aa ( L o c a (( LL oo cc aa C ulti v a r: F u ert e e x Kit al e F u ert e e x M u g u g a P u e bl a H ass S a m a B a c o n Z ut a n o R e e d Wal di n Si m m o n ds
+94
+
+--- Page 103 ---
+.....
+ttttt 04 00 02 36 96 89 26 07 39 83 04 51 40 53
+nnnnn 5 0 5 0 5 9 5 7 3 6 5 2 1 8 5 6 6 1 7 7 7 7 7 7 1 7 1 5 2 7 1 3 1 5 9 9 4 1 9 0 7 5 7 6 2 5 3 0 1 8 9 9 7 6 9 0
+ooooo 5
+0.
+1
+0.
+3
+1.6.
+3
+1.6.
+4
+1.8.
+5
+6.
+1
+1.
+2
+7.5.
+1
+5.3.
+1
+0.2.
+9
+6.
+1
+9.
+5
+2.
+1
+0.
+5
+1.
+1
+0. 6.1.
+1
+9.3.
+1
+8.3.
+ccccc
+77777
+03 01 00 08 02 00 02 02 02 09 06 06 07 04
+xx x xx 2. 9
+0
+2. 6
+8
+7. 6
+0
+5. 7
+4
+3. 7
+0
+0. 7
+7
+6. 0
+0
+3. 3
+2
+9. 0
+0
+0. 1
+9
+0. 0
+0
+0. 4
+0
+2. 8
+0
+2. 6
+6
+4. 0
+0
+4. 9
+9
+5. 5
+4
+5. 3
+1
+5. 1
+4
+3. 1
+4
+3. 2
+5
+6. 9
+1
+7. 8
+2
+3. 7
+0
+7. 5
+8
+5. 7
+3
+6. 9
+9
+7. 6
+9
+iiiii 1 2 1 41 51 1 2 2 1 3 1 2 3
+ddddd
+nnnnn
+eeeee
+06 72 05 02 05 05 08 09 00 05 00 65 06 09
+ppppp 07 67 02 02 03 01 09 23 53 31 54 11 35 06
+17 28 19 71 98 91 70 34 46 17 71 53 78 23
+ppppp 4 7.9. 5 2. 1 0. 3 8.7. 7 2. 1 5. 5 6. 1 1. 9 1. 1 9. 1 9.4. 9.1. 1 7.3. 6 1. 1 2. 4 8. 1 0. 1.0. 1 3.2. 1 6.3.
+AAAAA
+06 02 05 06 03 05 08 00 04 09 05 08
+00 06 04 02 04 01 05 24 51 24 92 93
+27 21 16 74 85 41 35 16 96 16 82 90
+8.1. 5.3. 3.0. 5.7. 1.4. 9.6. 2.2. 7.5. 2.0. 3.0. 5.1. 4.1.
+1 3 2 2 1 2
+08 57 01 09 06 00 06 08 00 02 08
+00 78 00 04 08 05 02 58 25 09 10
+58 43 42 13 29 78 72 25 27 19 82
+3.2. 1.2. 1.0. 6.3. 3.8. 3.2. 0.2. 7.3. 3.2. 4.4. 5.1.
+1 1 1 4 1 1 1 1 2
+06 03 03 08 09 05 09 06 07
+06 08 59 01 04 64 27 35 85
+81 40 85 70 13 63 83 22 65
+0.0. 0.0. 2.0. 9.2. 6.3. 1.0. 1.0. 1.0. 2.0.
+1
+s
+n
+o
+ati
+ul
+c
+al
+c
+d
+n
+a
+s
+d
+or
+c
+1 1. 1 1. 8 0 6 m x 8
+m
+2 0 8 1 1. 1 1. 8 0 6 m x 8
+m
+2 0 8 1 1. 1 1. 8 0 6 m x 8
+m
+2 0 8 1 1. 1 1. 8 0 6 m x 8
+m
+2 0 8 1 1. 1 1. 8 0 6 m x 8
+m
+2 0 8 1 1. 1 1. 8 0 6 m x 8
+m
+2 0 8 1 1. 1 1. 8 0 6 m x 8
+m
+2 0 8 1 1. 1 1. 8 0 6 m x 8
+m
+2 0 8 1 1. 1 1. 8 0 6 m x 8
+m
+2 0 8 1 1. 1 1. 8 0 6 m x 8
+m
+2 0 8 2 5. 0 6. 8 1 6 m x 8
+m
+2 0 8 O ct o b er
+8 2
+6 m x 8
+m
+2 0 8 O ct o b er
+8 2
+6 m x 8
+m
+2 0 8 O ct o b er
+8 2
+6 m x 8
+m
+2 0 8 or ’s o w n
+r e
+h
+k ut
+B o ot h 7 B o ot h 8 C h o q u ett e L ul a R u e hl e T o n n a g e Wi nt er M e xi c a n T x 5 3 1 Tr a p p D. W.I. B a n H ar d y Ta m b ari n a K y o yl Pi n k ert o n S o ur c e: A
+95
+
+--- Page 104 ---
+AAAAAppppppppppeeeeennnnndddddiiiiixxxxx 88888
+SSSSSSSSSSoooooooooommmmmmmmmmeeeeeeeeee ccccccccccoooooooooommmmmmmmmmmmmmmmmmmmoooooooooonnnnnnnnnn aaaaaaaaaannnnnnnnnndddddddddd ffffffffffuuuuuuuuuullllllllllllllllllllyyyyyyyyyy oooooooooorrrrrrrrrr pppppppppprrrrrrrrrroooooooooovvvvvvvvvviiiiiiiiiissssssssssiiiiiiiiiioooooooooonnnnnnnnnnaaaaaaaaaallllllllllllllllllllyyyyyyyyyy ((((((((((**********))))))))))
+rrrrrrrrrreeeeeeeeeeggggggggggiiiiiiiiiisssssssssstttttttttteeeeeeeeeerrrrrrrrrreeeeeeeeeedddddddddd iiiiiiiiiinnnnnnnnnnsssssssssseeeeeeeeeeccccccccccttttttttttiiiiiiiiiicccccccccciiiiiiiiiiddddddddddeeeeeeeeeessssssssss
+(((((TTTTThhhhhooooossssseeeee uuuuunnnnndddddeeeeerrrrr ttttteeeeemmmmmpppppooooorrrrraaaaarrrrryyyyy rrrrreeeeegggggiiiiissssstttttrrrrraaaaatttttiiiiiooooonnnnn aaaaarrrrreeeee nnnnnooooottttt iiiiinnnnncccccllllluuuuudddddeeeeeddddd)))))
+Trade name Active ingredient Range of effectiveness
+Actellic 25 EC Perimiphos-Methyl Fast acting; for the control of storage
+pests, but it also controls a wide range
+of insect pests in horticultural crops
+Agropyrifos 48 EC * Chlorpyrifos Controls caterpillars and sucking
+insects on horticultural crops
+Agrozinon 60 EC * Diazinon Broad spectrum contact poison,
+effective against many sucking and
+biting insects
+Applaud 40 % SC Buprofezin Controls i.e. white flies in citrus and
+mealy bugs in passion fruit
+Basudin 600 EW Diazinon Contact poison; kills biting and sucking
+insects
+Brigade 25 EC Bifenthrin Broad spectrum insecticide/miticide
+Buminal * Protein Bait for fruit fly
+Chenothion 50 EC Fenitrothion Contact and stomach poison; kills
+biting and sucking insects
+Danadim Dimethoate Contact/systemic insecticide/miticide
+against a broad range of insects
+Decis 2.5 EC Deltamethrin Broad spectrum contact poison
+Diazol 60 EC Diazinon Poison for the control of a wide range
+of pests in fruit/vegetable crops
+Dipterex 95 SP Trichlorfon Mainly a stomach poison, particularly
+effective against flies and caterpillars
+Ethion 4 EC Ethion Controls i.e. root mealy bug, scales,
+leaf miner etc.
+Evisect-S Thiocyclam Insecticide for the control of leaf
+miners, aphids, thrips on horticultural
+crops
+96
+
+--- Page 105 ---
+AAAAAppppppppppeeeeennnnndddddiiiiixxxxx 88888 cccccooooonnnnnttttt.....
+Trade name Active ingredient Range of effectiveness
+Folimat 500 SL Omethoate Systemic insecticide/acaricide
+Furadan 5 G. Carbofuran Systemic granular insecticide/
+nematicide mainly for the control
+of soil pests
+Gusathion - M * Azinphosmethyl Contact and stomach poison. Very
+200 EC effective against a broad spectrum
+of sucking/biting insects
+Hostathion 40 EC Triazophos Insecticide/acaricide for the
+control of insect pests and mites
+Karate 17,5 EC Lambdacyhalothrin Synthetic pyrethroid with broad
+spectrum rapid knock-down action
+Kelthane 18,5 EC Kelthane Non-systemic acaricide
+Lebaycid 500 EC Fenthion Contact and stomach poison
+against sucking/biting insects
+Malathion 50 EC * Malathion Contact and stomach poison
+against many sucking/biting
+insects
+Marshal 250 EC Carbosulfan Broad spectrum contact
+insecticide/miticide
+Mesurol 500 SC Methiocarb Broad spectrum insecticide for the
+control of sucking and biting insect
+pests
+Metasystox * Oxydemeton-methyl Systemic insecticide/acaricide with
+rapid action
+Metigan 18,5 EC Dicofol A specific miticide for the control
+on a wide range of crops
+Methomex 90 * Methomyl Insecticide to control mainly
+sucking pests on horticultural
+crops
+Nemacur 050 * Fenamiphos Granular insecticide/nematicide
+Perimor 50 DG Pirimicarb Specific poison for the control of
+aphids on a wide variety of crops
+97
+
+--- Page 106 ---
+AAAAAppppppppppeeeeennnnndddddiiiiixxxxx 88888 cccccooooonnnnnttttt.....
+Trade name Active ingredient Range of effectiveness
+Sevin 85 S Carbaryl Broad-spectrum insecticide for
+use on horticultural crops
+Tafgor 40 EC * Dimethoate Systemic insecticide/acaricide
+mainly effective against sucking
+insects
+Thiodan 35 EC Endosulfan Contact and stomach poison.
+Wide range insecticide with
+effectiveness against chewing/
+biting insects
+Thuricide H.P. Bacillus thuringiensis Biological insecticide for the
+control of Lepidopterian larvae on
+coffee and other crops
+Source: List of Pests Control Products
+Registered by the Pest Control Products Board,
+Nairobi, March 2003
+98
+
+--- Page 107 ---
+AAAAAppppppppppeeeeennnnndddddiiiiixxxxx 99999
+SSSSSooooommmmmeeeee cccccooooommmmmmmmmmooooonnnnn aaaaannnnnddddd fffffuuuuullllllllllyyyyy ooooorrrrr ppppprrrrrooooovvvvviiiiisssssiiiiiooooonnnnnaaaaallllllllllyyyyy (((((*****)))))
+rrrrreeeeegggggiiiiisssssttttteeeeerrrrreeeeeddddd fffffuuuuunnnnngggggiiiiiccccciiiiidddddeeeeesssss
+(((((TTTTThhhhhooooossssseeeee uuuuunnnnndddddeeeeerrrrr ttttteeeeemmmmmpppppooooorrrrraaaaarrrrryyyyy rrrrreeeeegggggiiiiissssstttttrrrrraaaaatttttiiiiiooooonnnnn aaaaarrrrreeeee nnnnnooooottttt iiiiinnnnncccccllllluuuuudddddeeeeeddddd)))))
+Trade name Active ingredient Range of effectiveness
+Afugan 30 EC Pyrazophos Systemic; controls powdery
+mildew on a wide range of
+crops
+Aliette 80 WP Fosetyl-Aluminium Systemic; primarily effective
+against phytophtora and downy
+mildew
+Antracol 70 WP Propineb Contact; a broad spectrum
+protectant for the control of
+diseases on vegetables, fruit
+crops and flowers
+Bayfidan 250 EC Triadimenol Systemic; controls i.e. powdery
+mildew on fruit crops
+Benlate Benomyl 50 % Systemic; control of many
+diseases of cereals, vegetables
+and fruits
+Cercobin * Thiophanate Contact; fungicide for use in
+fruits, vegetables and cereals
+Clortocaffaro 75 WP * Chlorothalonil Contact; controls CBD1 and is
+also used in agricultural crops
+Cobox Copper Contact; controls CBD and leaf
+Oxychloride 50 % rust on coffee but also several
+vegetable diseases
+Copper Nordox Cuprous Oxide 50% Contact; controls coffee
+diseases and also useful on
+horticulture crops
+Daconil 2787 Chlorothalonil 75% Contact; a broad spectrum
+protectant of many diseases on
+fruit and vegetables
+99
+
+--- Page 108 ---
+AAAAAppppppppppeeeeennnnndddddiiiiixxxxx 99999 cccccooooonnnnnttttt.....
+Trade name Active ingredient Range of effectiveness
+Dithane M-45 Mancozeb 80% Contact; protectant for the use
+on a broad spectrum of
+horticultural crops
+Isacop Copper Contact; protectant for the
+Oxychloride 85% control of a wide range of
+diseases on horticultural
+crops and coffee
+Kocide DF Copper Hydroxide Contact; broad spectrum
+protectant for the control of a
+wide range of diseases on
+horticultural crops
+Kumulus DF Sulphur 80% Contact; controls mites and
+powdery mildew on vegetables,
+fruit crops and flowers
+Merpan 83 WP Captan Contact; a broad spectrum
+protectant of many horticultural
+diseases
+Nimrod 25 EC Bupirimate Systemic; control of powdery
+mildew on a wide range of
+horticultural crops
+Nustar * Flusilazole Contact; for use in grapes and
+citrus
+Polyram DF * Metiram Complex Contact; broad spectrum:
+controls many diseases of fruits,
+vegetables and ornamentals
+Previcur - N Propamocarb Contact; controls soil borne
+diseases
+Rova 75 * Chlorotalonil Contact; fungicide against CBD
+and various other diseases in
+vegetables and flowers
+Rovral 50 WP Iprodione Contact; controls botrytis in
+fruits and vegetables
+Saprol 20 EC Triforine Contact; control of fungal
+diseases in horticultural crops
+100
+
+--- Page 109 ---
+AAAAAppppppppppeeeeennnnndddddiiiiixxxxx 99999 cccccooooonnnnnttttt.....
+Trade name Active ingredient Range of effectiveness
+Thiovit - Jet Sulphur Contact; controls powdery
+mildew and mites on a wide
+range of fruit crops.
+Source: Fungicides registered by the Pest/Disease Control Products Board,
+Nairobi, March 2003.
+(1) CBD - Coffee Berry Disease
+101
+
+--- Page 110 ---
+AAAAAppppppppppeeeeennnnndddddiiiiixxxxx 1111100000
+SSSSSooooommmmmeeeee cccccooooommmmmmmmmmooooonnnnn hhhhhooooorrrrrtttttiiiiicccccuuuuullllltttttuuuuurrrrraaaaalllll iiiiinnnnnssssseeeeeccccctttttiiiiiccccciiiiidddddeeeeesssss/////
+fffffuuuuunnnnngggggiiiiiccccciiiiidddddeeeeesssss aaaaannnnnddddd ttttthhhhheeeeeiiiiirrrrr rrrrreeeeecccccooooommmmmmmmmmeeeeennnnndddddeeeeeddddd
+ppppprrrrreeeee-----hhhhhaaaaarrrrrvvvvveeeeesssssttttt iiiiinnnnnttttteeeeerrrrrvvvvvaaaaalllllsssss
+Insecticides Fungicides
+Trade name Active Pre-harvest Trade name Active Pre-harvest
+ingredient interval/days ingredient interval/days
+Actellic 25 EC Perimiphos-Methyl 7 Benlate Benomyl 14
+Agropyrifos 48 EC Chlorpyrifos 14 - 40 Morocide Binapacryl 14
+Agrozinon 60 EC Diazinon 14 Nimrod Bupirimate 7
+Basudin 600 EW Diazinon 14 Moduna Captafol 7
+Brigade 25 EC Penvalerate 14 Orthocide Captan 7
+Chenothion 50 EC Fenitrothion 10 Morestan Chinomethionate 10
+Danadim 40 EC Dimethoate 7 Cupravit Copper 7
+Decis 2,5 EC Deltamethrin 14 Copper 50 C. hydroxide 7
+Dipterex 95 SP Trichlorfon 14 Cobox C. oxychloride 7
+Folimat 500 SL Omethoate 21 Green Copper 50 C. sulphate 7
+Furadan 5 G Carbofuran 21 Karathane Dinocap 10
+Gusathion-M 200 EC Azinphos-Methyl 14 Dithane Mancozeb 7
+Karate 17,5 EC Lambdacyhalothrin 14 Rovral Iprodione 7
+Kelthane 18,5 EC Dicofol 7 Ridomil Metalaxyl 7
+Malathion 50 EC Malathion 7 Polyram Combi Metiram 7
+Mesurol 500 SC Methiocarb 7 Antracol Propineb 7
+Metasystox 50 EC Oxydemeton-Methyl 14 - 21 Afugan Pyrazophos 7
+Methomex 90 Methomyl 21 Thiovit Sulphur 7
+Nemacur 50 Phenamiphos 28 Bayleton Triadimefon 7
+Sevin 85 S Carbaryl 7 Calinix Tridemorph 7
+Thiodan 35 EC Endosulfan 28 - 40 Saprol Triforine 2
+Lonacol Zineb 7
+Source: Agricultural Insect Pests of the Source: National Agricultural
+Tropics and their Control, Dennis S. Hill, Laboratories, Kabete/Kenya, 1988
+Cambridge University Press, 1983
+102
+
+--- Page 111 ---
+11111
+11111
+c
+e
+xxxxx D
+iiiii
+ddddd
+nnnnn
+eeeee v
+o
+ppppp N
+ppppp
+AAAAA
+t
+c
+O
+sssss pt
+eeeee e
+S
+ccccc
+nnnnn
+iiiii
+vvvvv
+ooooo u g
+rrrrr A
+PPPPP
+eeeee
+vvvvv y
+iiiii
+ul
+ttttt J
+ccccc
+eeeee
+ppppp
+e
+sssss n
+eeeee u
+J
+rrrrr
+nnnnn
+iiiii
+y
+sssss a
+nnnnn M
+ooooo
+sssss
+aaaaa
+r
+eeeee p
+A
+sssss 6
+8
+yyyyy 9
+1
+ttttt d
+rr ii r i rr ii a r a n
+uuuuu M 3
+8
+ttttt 9
+aaaaa 1
+mmmmm
+o
+r,
+e b ut h
+nnnnn F a
+aa ii a i aa ii
+d
+b y
+mmmmm e
+oo o oo J a
+n
+oll
+e
+ct
+ddddd
+a
+c
+AA vv oo cc
+aa
+A v o c
+a
+AA vv oo cc
+aa
+P r o vi n c e C e nt r al Rift V all e y N ai r o bi E a st e r n N y a n z a W e st e r n C o a st S o u r c e: D
+at
+103
+
+--- Page 112 ---
+22222
+11111
+y
+xxxxx a
+a B
+pp pp
+ee nn dd
+ii
+p p
+e n d
+i
+pp pp
+ee nn dd
+ii
+r e s s 3 3 B
+u n g o
+m
+g at 3 5 E
+m b u
+7 2 7
+E m b u
+2 0 2
+E m b u
+2 4 9
+It e n
+6 4 6
+H o m a
+1 I si
+ol o
+AAAAA d d o x a ri o x o x o x o x o x o x
+A B M B B B B B B
+o
+d
+n n
+vv oo cc aa
+dd oo
+v o c a
+d o
+vv oo cc aa
+dd oo
+S u b -l o c a
+ti o
+S o ut h N d
+ol o
+K a m u y u M u ni ci p
+alit y
+Gi c hi c h e S a g at T o w n s hi p C e nt r al
+aaaaa
+ggggg
+nnnnn
+iiiii
+ttttt
+aaaaa S
+ss pp rr oo pp aa gg s p r o p a g ss pp rr oo pp aa gg B - D I S T R I C T Di vi si o n Si ri si a B a ri n g o B o x 3 2 M a ri g at E - DI S T RI C T S G a c h o k a E m b u E m b u T ot H - DI S T RI C T T o w n s hi p I - DI S T RI C T C e nt r al
+eeeee
+iiiii
+rrrrr et
+eeeee w
+sssss k
+rrrrr r a
+uuuuu a y
+a M a
+ee ee
+nn
+e e
+n
+ee ee
+nn
+ss )) s ) ss )) Di s t ri c
+t
+B u n g o
+m
+E m b u E m b u E m b u El g e y o H o m a
+B
+si ol o
+rrrrrrrrrr I
+ttttteeeee
+dd d dd hhhhh
+eeeeettttt
+ee
+rr
+e
+r
+ee
+rr
+gg
+oo
+g
+o
+gg
+oo
+m
+m e
+LL ii ss tt oo ff rr ee gg ii ss tt L i s t o f r e g i s t LL ii ss tt oo ff rr ee gg ii ss tt tt rr ee ee ss (( aa mm oo nn t r e e s ( a m o n tt rr ee ee ss (( aa mm oo nn N a m e B u n g o m a F C T P e k e r a R e s o rt M a ri g at E m b u P ri s o n K a mi u H o rt. N u r s e r y K a m u r u g u r u P r oj e ct J o h n st o n e C h el a n g a Aff o r e st ati o n P r o g r a I si ol o P ri s o n
+104
+
+--- Page 113 ---
+..........
+tttttttttt
+nnnnnnnnnn a a
+a s s
+dddd iiii
+xxxx
+1111 2222 cccc oooo
+dd ii
+xx
+11 22 cc oo
+dddd iiii
+xxxx
+1111 2222 cccc oooo
+d r e
+s
+s
+x 1 3
+2
+2 M o m b a s
+x 9 6
+2
+4 6 M o m b a
+x 9 6
+3
+4 6 M o m b a
+x 4 4
+9
+8 2 N ai r o bi
+x 5 7
+0
+9 3 T hi k a
+x 4 7
+3
+9 8 T hi k a
+x 1 2
+1
+Ki a m b u
+x 3 6
+3
+R ui r u
+x 2 2
+0
+G at u n d u
+x 7
+K
+e r u g o y a
+x 3 9
+2
+K e r u g o y a
+x 1 1
+2
+W a n g u r u
+x 2 3
+3
+Ki a n y a g a
+x 2 6
+3
+K e r u g o y a
+x 1 2
+2
+Kit ui
+x 3 0
+Ki b w e zi
+x 9 3
+1
+Ki sii
+x 1 9
+2
+3 Ki s u m u
+x 1 7
+2
+5 Ki s u m u
+x 1 2
+8
+B o n d o
+x 1 9
+2
+3 Ki s u m u
+x 3 2
+M a s e n o
+x 3 2
+9
+K e ri c h o
+nnnnnnnnnn d o o o o o o o o o o o o o o o o o o o o o o o
+A B B B B B B B B B B B B B B B B B B B B B B B
+eeeeeeeeee
+pppppppppp
+pppppppppp
+AAAAAAAAAA p
+hi
+s
+n e
+n w a r
+S u b -l o c a ti o Di a ni W a a W a a Ki a m b a a Ki a m b a a Ki u N d u m b e ri K at a m b y a N g e n d a K e r u g o y a T o M w e r a N y a n g ati G at u K a g u y u/ K a b T o w n s hi p Kit uti M u ni ci p alit y K a z a n d o Ki b o s K a g w a Si vil e S u n g a K o e n g o
+S
+T
+C
+I
+R
+K - D I S T Di vi si o n K w al e M at u g a M at u g a Ki a m b a a Ki a m b a a J uj a Ki a m b a a T hi k a G at u n d u N di a N di a M w e a Ki a n y a g a Ki a n y a g a C e nt r al M ut o m o K e u m b u Wi n a m Wi n a m B o n d o Ki s u m u M a s e n o B el g ut
+a a a a a
+Di s t ri c t K w al e K w al e K w al e Ki a m b u Ki a m b u Ki a m b u Ki a m b u Ki a m b u Ki a m b u Ki ri n y a g Ki ri n y a g Ki ri n y a g Ki ri n y a g Ki ri n y a g Kit ui Kit ui Ki sii Ki s u m u Ki s u m u Ki s u m u Ki s u m u Ki s u m u K e ri c h o
+d.
+Lt
+g
+n
+N a m e C o a st D e v. A ut h o rit y S a m s a a d Al z al k h a n Vi n c e nt M. K e g a Ki a r w e P r o d u ct s Lt d. Ri a r a O r c h a r d s T at a N u r s e ri e s Ki a m b u P ri s o n R ui r u P ri s o n Eli n a Pl a nt N u r s e ri e s K e r u g o y a P ri s o n B a ri c h o N u r s e ri e s Ki m bi bi N u r s e r y M u b a ri K. H. S elf E m pl o y m e nt Tr ai
+ni
+Kit ui P ri s o n J o s e p h N di n g a Ki sii P ri s o n Ki s u m u P ri s o n A n n e x
+e
+Ki b o s P ri s o n S a rt u r H o rt. F a r m L e vi W a d e r a D r. Pi u s S. W. O wi n o K e ri c h o P ri s o n
+105
+
+--- Page 114 ---
+.....
+ttttt
+nnnnn
+ooooo o s bi bi bi a a a bi
+dd ii
+xx
+11 22
+cc
+d i
+x
+1 2
+c
+dd ii
+xx
+11 22
+cc
+d r e
+s
+s
+x 1 5
+0
+M a c h a
+k
+x 4 0
+3
+N u n g u
+ni
+x 5 9
+7
+0
+8 N ai r
+o
+x 1 2
+3
+N u n g u
+ni
+x 6 7
+1
+2
+1 N ai r
+o
+x 6 7
+C
+h u k a
+x 7 6
+Mit u n g u
+u
+x 1 8
+4
+N k u b u
+x 9 8
+5
+M e r u
+x 1 1
+3
+M e r u
+x 3 1
+0
+N k u b u
+x 2 6
+0
+M e r u
+x 1 0
+5
+M e r u
+x 7 2
+9
+9
+9 N ai r
+o
+x 2 2
+0
+Kil al a
+x 4 3
+M
+a k u y u
+ni
+x 3 1
+6
+Ki b w e
+zi
+x 3 5
+M
+a r a g u
+a
+x 1 0
+9
+M u r a n
+g’
+x 6 5
+1
+T hi k a
+x 2 0
+6
+M u r a n
+g’
+x 9 1
+0
+M u r a n
+g’
+x 2 8
+0
+4
+4 N ai r
+o
+nnnnn d o o o o o o o o o o o o o o o o o o o o o o o
+A B B B B B B B B B B B B B B B B B B B B B B B
+eeeee
+ppppp
+ppppp
+AAAAA
+n e
+o o g
+S u b -l o c a ti E a stl ei g h Kil o m e Mit hi ni K aiti Ki w a n zi N d a n g a ni K e r e n d e r e K at h e r a Ki r e n d e n e Kit h o k a Ki r e n d e n e N k a d o n e Ki r e n d e n e N zi u u a ni K y a m u o s o Ki k u m b ol y Ki g o r o Ri d M a r a nj a u M u k u ri a K a m at hi Nj o g u -i ni
+I
+S
+T
+C
+I
+R
+M - D I S T Di vi si o n N u n g u ni M w al a N u n g u ni Y att a C h u k a Mit u n g u u S. I m e nti N. I m e nti S. I m e nti C. I m e nti K a ri m u n e M a k u e ni M a k u e ni K aiti Ki b w e zi M a k u y u Ki g u m o K a n d a r a Ki h a r u Ki h a r u M a r a g u a
+s s s s s
+ri c t h a k o h a k o h a k o h a k o h a k o u u u u u u u u u e ni u e ni u e ni u e ni a n g’ a a n g’ a a n g’ a a n g’ a a n g’ a a g u a
+s t a c a c a c a c a c e r e r e r e r e r e r e r e r a k a k a k a k u r u r u r u r u r a r
+Di M M M M M M M M M M M M M M M M M M M M M M M
+b a m e r e y o u p
+N a m e M a c h a k o s P ri s o n A nt h o n y N g u m bi M at h u S w e et e r L a n d H o rt. F a r T h o m a s M. Kit u m u Y att a F a r m Lt d., Eli z a p h a n Nj e r u M. M ut N e w Mit u n g u u Ali c e M u c h e k e E d w a r d N g a ri D e d a n C h e g e Mit u n g u u C o - o p. S o ci et M u uti N u r s e ri e s M e ni a N u r s e ri e s J o s e p h M wi k y a K y e e M w e a S elf H el p G r U m oj a S H G Ki b w e zi H o rt. N u r s e ri e s J o s e p h H u n g o M a r a nj a u P ri s o n Ti m ot h y K a m u K N F U N u r s e r y W a n g u I n v e st m e nt C o. E c o. G r e e n N u r s e ri e s
+106
+
+--- Page 115 ---
+.....
+ttttt
+nnnnn
+dd ii xx 11 22 cc oo d i x 1 2 c o dd ii xx 11 22 cc oo d r e s s x 3 0 5 5 6 N ai r o bi x 5 3 3 1 4 N ai r o bi x 9 3 1 N ai r o bi x 4 4 7 6 9 N ai r o bi x 6 5 5 1 N ai r o bi x 1 6 5 3 El d o r et x 7 2 3 N y e ri x 9 3 1 N y e ri x 1 1 2 N a n y u ki x 1 1 4 N y e ri x 1 4 N a k u r u x 1 4 6 N ai v a s h a x 8 7 9 N a k u r u x 6 5 S u b u ki a x 1 0 3 M ol o x 6 5 S u b u ki a x 6 5 T hi k a x 2 Gil gil x 2 7 4 8 N a k u r u x 4 7 K a b a zi x 6 S ol ai x 7 4 1 1 N a k u r u
+nnnnn d o o o o o o o o o o o o o o o o o o o o o o
+A B B B B B B B B B B B B B B B B B B B B B B
+eeeee
+ppppp
+ppppp
+AAAAA
+ri
+S u b -l o c a ti o n L a n g’ at a K a h a w a S u k a L a n g’ at a M u g u m oi ni K a s a r a ni Bi ri bi ri et M u k a r o M u ni ci p alit y G at h u k u N a k u r u N ai v a s h a L a n et S u b u ki a E a st S a c h a n g w a S u b u ki a E a st G a c h a r a g e K a r u n g a M u g u m u M a hi n g o K a b a zi L a n et
+S
+T
+C
+R I y y y y
+N - D I S T Di vi si o n L a n g’ at a N ai r o bi L a n g’ at a Ki b e r a K a s a r a ni M o s s o p M u ni ci p
+alit
+M u ni ci p
+alit
+E ki e ni M u ni ci p
+alit
+M u ni ci p
+alit
+N ai v a s h a B a h ati M b o g oi ni M ol o B o g oi ni El b u r g o n Gil gil Nj o r o B a h ati S ol ai B a h ati
+Di s t
+ri
+c t
+N ai r
+o
+bi
+N ai r
+o
+bi
+N ai r
+o
+bi
+N ai r
+o
+bi
+N ai r
+o
+bi
+N a n
+di
+N y e
+ri
+N y e
+ri
+N y e
+ri
+N y e
+ri
+N a k
+u r
+u
+N a k
+u r
+u
+N a k
+u r
+u
+N a k
+u r
+u
+N a k
+u r
+u
+N a k
+u r
+u
+N a k
+u r
+u
+N a k
+u r
+u
+N a k
+u r
+u
+N a k
+u r
+u
+N a k
+u r
+u
+N a k
+u r
+u
+n n
+o o p
+N a m e N ai r o bi W e st P ri s o n s I s a a c M. N g ati a G a r d e ni a L a n g’ at a W o m e n P ri s K a miti M a xi m u m P ri s D a vi d K o e c h P a uli n e M. M w a n G a r d e ni a N u r s e ri e s D a vi d M u g ut u N y e ri P ri s o n N a k u r u P ri s o n N ai v a s h a P ri s o n P e p p e r s Lt d. M wi rit u W o m e n G r o u J a m e s B a r n o J o s e p h M w a n gi S a m u el M w e nji Aj u b K a r u ri U m oj a S H G M u h o r o M u c hi ri J a s o n C h e g e Git u M w a n gi M u c h e r u
+107
+
+--- Page 116 ---
+.....
+ttttt
+nnnnn
+ooooo u Q
+dd ii xx 11 22 cc d i x 1 2 c dd ii xx 11 22 cc
+d
+r e s s
+x
+9 3 8 N a k u r u
+x
+5 5 9 Ol k al a u
+x
+8 7 3 N y a h u r u r
+x
+c/ o P ri s o n s H
+x
+2 2 2 1 Kit al e
+x
+9 4 Kit al e
+x
+3 2 3 Kit al e
+x
+2 4 T hi k a
+x
+3 6 3 R ui r u
+x
+1 5 8 8 T hi k a
+x
+1 6 8 2 T hi k a
+x
+7 5 7 T hi k a
+x
+4 6 1 El d o r et
+x
+8 2 4 El d o r et
+x
+2 6 6 0 El d o r et
+x
+2 6 6 0 El d o r et
+x
+9 5 El d o r et
+nnnnn d o o o o o o o o o o o o o o o o o
+A B B B B B B B B B B B B B B B B B
+eeeee
+ppppp
+ppppp
+AAAAA
+n d
+S u b -l o c a ti o B a h ati M a wi n g o N d u r u m W a r K a p k oi S u al Mili m a ni K a p s a r a N d e r a G at a m b a y a G a k a r a N di a -i ni K a r u r u m o C h e p y a k w ai M u ni ci p alit y A r r o r E n d o o El g o n Vi e w
+S
+T S
+C T T
+N - D I S
+T
+R I
+Di vi si o n N a k u r u Ol k al a u M u ni ci p
+alit y
+M u ni ci p
+alit y
+T - DI S T
+RI C
+S a b ati Kit al e Kit al e T hi k a R ui r u T hi k a T hi k a T hi k a U - DI S T
+RI C
+K e s s e s M u ni ci p
+alit y
+El d o r et El d o r et El d o r et
+a a a u u
+u
+a
+u
+a
+u
+a oi oi oi
+s
+h
+s
+h
+Di s t
+ri c t
+N a k
+u r u
+N y a
+n d a r
+N y a
+n d a r
+N y a
+n d a r
+Tr a n
+s N z
+Tr a n
+s N z
+Tr a n
+s N z
+T hi k
+a
+T hi k
+a
+T hi k
+a
+T hi k
+a
+T hi k
+a
+U a si
+n Gi
+U a si
+n Gi
+El d o
+r et
+El d o
+r et
+El d o
+r et
+g.
+o
+r
+P
+u
+r
+u s
+k o e
+N a m e C D N A g ri c ult u r al N
+a
+St e p h e n N d e r u G a r d e ni a N u r s e ri e
+s
+N y a h u r u r u P ri s o n P a ul M w a n gi Kit al e P ri s o n B e nj a mi n M. L u g a
+n
+K a k u zi Lt d. R ui r u G K P ri s o n D. D. K a m a u Wil m a u A g r o Lt d. C h a rl e s K a r aj a N g e ri a P ri s o n El d o r et P ri s o n A r r o r N u r s e ri e s T ot N u r s e ri e s El g o n Vi e w N u r s e
+ri
+108
+
+--- Page 117 ---
+.....
+ttttt
+nnnnn
+ooooo a
+ccccc et et et u ri
+r r r g
+22 2 22 d o d o d o e n
+11111 El El El p
+s 0 0 8 s K
+a
+dd ii
+xx
+d i
+x
+dd ii
+xx
+d r e
+s
+x 2 6
+6
+x 2 6
+6
+x 5 6
+8
+d r e
+s
+x 1 0
+nnnnn d o o o d o
+A B B B A B
+eeeee
+ppppp
+ppppp
+AAAAA
+n
+ti o n b a s a ti o
+a h m c
+S u b
+-l o c
+K o r
+ell a c
+C h e
+pl a
+L a n
+g a s
+S u b
+- L o
+Si aji
+T
+C T
+C
+U - D I S T
+R I
+Di vi si o n El d o r et El d o r et K a p s a b et W - DI S T
+RI
+Di vi si o n K a p e n g u ri
+a
+n u a r y 2 0 0
+4
+a
+J
+y,
+rit
+o
+h
+ot A
+ut
+c t et et et c t P
+o
+k
+e
+nt
+Di s t ri El d o r El d o r El d o r Di s t ri W e st el o p m
+v
+e
+D
+s
+p
+o
+r
+C
+r y al
+s e n u r
+y u r s o ult
+N u r
+s e r
+m b a
+s N
+e n y
+a
+u ri a
+P ri
+H o
+rti c
+N a m e W ei w ei C h e pl a Et a n g K N a m e K a p e n g S o u r c e:
+109
+
+--- Page 118 ---
+AAAAAAAAAA
+vvvvvvvvvv
+oooooooooo
+cccccccccc
+aaaaaaaaaa
+dddddddddd
+oooooooooo
+gg g gg gg g gg
+rrrrrrrrrr
+oooooooooo
+wwwwwwwwww
+ii
+nn
+i
+n
+ii
+nn
+ii
+nn
+i
+n
+ii
+nn
+gggggggggg
+ii
+nn
+i
+n
+ii
+nn
+ii
+nn
+i
+n
+ii
+nn
+AAAAA AAAAAvvvvv vvvvvooooo oooooccccc cccccaaaaa aaaaaddddd dddddooooo ooooo ggggg gggggrrrrr rrrrrooooo ooooowwwww wwwwwiiiii iiiiinnnnn nnnnnggggg ggggg
+KK K KK KK K KK
+eeeeeeeeee
+nnnnnnnnnn
+yyyyyyyyyy iiiii iiiiinnnnn nnnnn
+aaaaaaaaaa
+KKKKK KKKKKeeeee eeeeennnnn nnnnnyyyyy yyyyyaaaaa aaaaa
+DFID
+JJüürrggeenn GGrriieessbbaacchh
+Department for International
+Development of the UK Government
+cover 1 5/19/05, 9:40 AM
