@@ -1,11 +1,11 @@
 """
-Rule Evaluation Engine for Avocado Weather Advisory System.
-Takes weather API output and evaluates it against the rule set to produce
-a farmer-friendly advisory message.
+Rule Evaluation Engine for Weather Advisory System.
+Supports multiple crops — each crop has its own rules JSON and calendar JSON
+under rules/<crop>/.
 
-The engine integrates two data sources:
-  1. Weather rules (avocado_weather_rules.json) — triggered by weather conditions
-  2. Crop calendar (avocado_crop_calendar.json) — provides growth stage context,
+The engine integrates two data sources per crop:
+  1. Weather rules (<crop>_weather_rules.json) — triggered by weather conditions
+  2. Crop calendar (<crop>_crop_calendar.json) — provides growth stage context,
      seasonal management tasks, and pest/disease risk levels per month
 
 Integration flow:
@@ -19,16 +19,16 @@ from datetime import datetime
 from pathlib import Path
 
 
-def load_rules(path: str = None) -> dict:
+def load_rules(crop: str = "avocado", path: str = None) -> dict:
     if path is None:
-        path = Path(__file__).parent / "avocado_weather_rules.json"
+        path = Path(__file__).parent / crop / f"{crop}_weather_rules.json"
     with open(path) as f:
         return json.load(f)
 
 
-def load_calendar(path: str = None) -> dict:
+def load_calendar(crop: str = "avocado", path: str = None) -> dict:
     if path is None:
-        path = Path(__file__).parent / "avocado_crop_calendar.json"
+        path = Path(__file__).parent / crop / f"{crop}_crop_calendar.json"
     with open(path) as f:
         return json.load(f)
 

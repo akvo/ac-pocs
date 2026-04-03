@@ -1,0 +1,2218 @@
+--- Page 1 ---
+Farmer Trainers Guide for Potato Value Chain
+Targeting Women and the Youth
+1 | Pa g e
+
+--- Page 2 ---
+CONTENTS
+ACRONYMS .............................................................................................................................................. 5
+1.0 BACKGROUND TO THE MANUAL (45 minutes) ................................................................... 6
+1.1 ECONOMIC IMPORTANCE OF POTATOES .................................................................... 6
+1.2 JUSTIFICATION FOR THIS MANUAL .................................................................................. 6
+1.3 LAYOUT .......................................................................................................................................... 7
+1.4 TARGET LEARNERS................................................................................................................... 7
+1.5 TRAINING PLAN ......................................................................................................................... 8
+MODULE 1: POTATO VALUE CHAIN AS AN AGRI-BUSINESS (6 hours 15 minutes) ...... 9
+1.1 INTRODUCTION(15 minutes) ................................................................................................... 9
+1.2 FACILITATORS GUIDES ON MARKET ASSESSMENT .................................................. 9
+SESSION 1: MARKET ASSESSMENT(2 hours) ............................................................................ 9
+SESSION 2: KNOW YOUR POTATO BUSINESS (2 hours) ................................................... 16
+SESSION 3: KNOW YOUR UNITS OF MEASURING (2 hours) ........................................... 22
+MODULE 2: POTATOES NUTRIENTS MANAGEMENT (4 hours 15 minutes) .................. 29
+2.1 INTRODUCTION (15 minutes) ................................................................................................ 29
+2.2 FACILITATORS GUIDES ON POTATOES NUTRIENTS MANAGEMENT ........... 31
+SESSION 1: SOIL TESING (2 hours) ............................................................................................ 31
+SESSION 2: OTHER PRACTICES FOR IMPROVING NUTRIENT SUPPLY TO
+POTATOES (2 hours) ........................................................................................................................ 39
+MODULE 3: PLANTING POTATOES (6 hours 15 minutes) ....................................................... 43
+3.1 INTRODUCTION ( 15 minutes) ............................................................................................... 43
+3.2 FACILITATORS GUIDE ON PLANTING POTATOES .................................................. 44
+SESSION 1: CROP ROTATION (2 hours) .................................................................................... 44
+SESSION 2: LAND PREPARATION(2 hours) ............................................................................ 46
+SESSION 3: PLANTING(2 hours) .................................................................................................. 48
+MODULE 4: PROTECTING POTATO SEEDLINGS FROM WEEDS, PESTS AND
+DISEASES (10 hours 15 minutes) ......................................................................................................... 51
+4.1 INTRODUCTION (15 minutes) ................................................................................................ 51
+4.2 FACILITATORS TOPICS GUIDE ON PROTECTING POTATOES FROM
+PESTS, DISEASES AND WEEDS.................................................................................................. 52
+SESSION 1: SCOUTING TOOL (2 hours).................................................................................... 52
+SESSION 2: STEPS IN PROTECTING THE POTATO CROP FROM WEEDS –
+WEEDING, HILLING AND ROUGING (3 hours) .................................................................. 56
+SESSION 3: INTEGRATED DISEASES MANAGEMENT (3 hours) ................................... 58
+SESSION 4: SAFE AND EFFECTIVE USE OF PESTICIDES (2 hours) .............................. 71
+2 | Pa g e
+
+--- Page 3 ---
+MODULE 5: HARVESTING, HANDLING, STORAGE AND MARKETING OF WARE
+POTATO AT FARM LEVEL (6 hours 15 minutes).......................................................................... 73
+5.1 INTRODUCTION (15 minutes) ................................................................................................ 73
+5.2 FACILITATORS GUIDE ON SAFE USE OF PESTICIDES ............................................ 74
+SESSION 1 HARVESTING (2 hours) ............................................................................................ 74
+SESSION 2. POST HARVEST HANDLING(2 hours) .............................................................. 76
+SESSION 3 MARKETING AT GROUP LEVEL (2 hours) ....................................................... 78
+REFERENCES......................................................................................................................................... 81
+3 | Pa g e
+
+--- Page 4 ---
+LIST OF FIGURES
+Figure 1 Training plan ................................................................................................................................ 8
+Figure 2 Facilitating group discussion ................................................................................................... 11
+Figure 3 A Farmer Collecting Market Information ............................................................................. 12
+Figure 4 Facilitating Market Information Analysis in A Plenary Session ......................................... 13
+Figure 5 Conversions of measurement for land ................................................................................... 24
+Figure 6: Simple visual nutrient deficiency symptoms diagnosis chart ............................................. 32
+Figure 7 Materials and supplies for use during soil sampling ............................................................. 35
+Figure 8 Tools and equipment during soil sampling ........................................................................... 35
+Figure 9 Random sampling of sites ........................................................................................................ 36
+Figure 10 Mixing soil samples ................................................................................................................. 36
+Figure 11 Interpreting soil testing results to farmers ........................................................................... 37
+Figure 12 Avoid use manure from livestock that fed on potato family crop residuals .................. 39
+Figure 13 Testing a composting heap .................................................................................................... 40
+Figure 14 Well composed manure .......................................................................................................... 41
+Figure 15 Farm with drainage channels ................................................................................................. 42
+Figure 16 A four plot six season rotational plan .................................................................................. 45
+Figure 17 A 7 season rotational plan ...................................................................................................... 46
+Figure 18 Slashing ..................................................................................................................................... 47
+Figure 19 Tractor ploughing ................................................................................................................... 47
+Figure 20: Establishing furrows .............................................................................................................. 47
+Figure 21 The steps in scouting .............................................................................................................. 53
+Figure 22 Scouting tool ............................................................................................................................ 55
+Figure 23 Summary recommendation sheet ......................................................................................... 55
+Figure 24: Earthing Design ..................................................................................................................... 57
+Figure 25 The correct depth in ridging .................................................................................................. 57
+Figure 26 Design of a plan on safe use of pesticides ........................................................................... 72
+Figure 27: Dehulmed potato field .......................................................................................................... 75
+Figure 28 Harvesting by machinery........................................................................................................ 75
+Figure 29 Harvesting by lifting ............................................................................................................... 75
+Figure 30: Harvesting potatoes using hand tools ................................................................................. 76
+Figure 31 Sorting ware potato ................................................................................................................. 76
+Figure 32 Placing potatoes on shelves ................................................................................................... 77
+Figure 33 Ware potato under storage .................................................................................................... 77
+Figure 34 Display for retail ...................................................................................................................... 79
+Figure 35 Transport and packaging ........................................................................................................ 79
+LIST OF TABLES
+Table 1 Price and Volume Trends Data Collection Sheet .................................................................. 14
+Table 2 Customer data collection sheet ................................................................................................. 15
+Table 3: Calculating Costs and Incomes (Money Out and Money In) ............................................. 18
+Table 4 Local containers and their measurements ............................................................................... 26
+Table 5 Deficiency symptoms and what they could mean ................................................................. 33
+4 | Pa g e
+
+--- Page 5 ---
+ACRONYMS
+CAN Calcium Ammonium Nitrate
+DAP Diammonium Phosphate
+FFBS Farmer field and business school
+FYM Farm Yard Manure
+Ha Hectares
+HIH Hand In Hand
+HIH EA Hand In Hand East Africa
+KALRO Kenya Agricultural and Livestock Research Organization
+Kg Kilogram
+Ksh Kenya shillings
+M2 Meter Squared
+MD Man Days
+MIS Management Information System
+NPK Nitrogen, Phosphorous and Potassium
+pH Potential of Hydrogen
+PPE Personal Protective Equipment
+SSP Single Superphosphates
+ToT Trainer of Trainer
+TSP Triple superphosphates
+5 | Pa g e
+
+--- Page 6 ---
+1.0 BACKGROUND TO THE MANUAL (45 minutes)
+1.1 ECONOMIC IMPORTANCE OF POTATOES
+Potato (Solanum TuberosumL) has high productivity per unit area and its versatility in utilization
+makes it the second most important food crop in Kenya after maize. Potatoes are grown twice
+annually (long and short rains) and it is estimated 1.5 million tonnes are produced on about
+161,000 hectares of land. This is worth between Ksh 40-50 billion each year and compares well
+with annual maize production of 40 million bags worth Ksh 120 billion (Potato Strategy, 2016).
+However, yields are generally low with an average yield of 10 tonnes per hectare (potential being
+40 tonnes per ha achievable under recommended agronomic practices) due to a number of
+challenges such as inadequate use of high quality seed potato and other inputs. Lack of proper
+storage facilities on-farm and at the marketing centres has led to huge losses during marketing.
+Farmers do not store potatoes due to lack of technical know-how; need for immediate cash and
+poor quality produce due to pests, diseases or mechanical damage. The industry directly and
+indirectly employs about 3.3 million actors, as producers, market agents, transporters, processors,
+vendors, retailers and exporters.
+1.2 JUSTIFICATION FOR THIS MANUAL
+Potato farmer training is a key aspect in improving the livelihoods of small holder producers in
+Kenya. Training is a learning process that involves acquiring knowledge, sharpening of skills,
+concepts, change in attitude, behavior and functional capacity of an individual and institution
+towards the achievement of a predetermined goal. However, many farmer trainers working for
+various organizations conduct trainings using training materials or methodologies that are not
+based on the principles of adult learners. Different trainers refer to different training materials
+that give different recommendations, which end up confusing the farmers. Among the issues
+that are not provided in a standardized way are planting methods, seed rates, timing of
+agronomic activities like earthing up, de-haulming and post-harvest handling. Further there are a
+number of agri-entreprenuers, among them the youth, who cannot access simplified and easy to
+read materials on the various aspects along the potato value chain. This is despite the fact that
+there are huge employment and business opportunities in investing and engaging them in the
+potato value chain.
+To address this issue a Training Needs Assessment (TNA) was carried out within a gender lens
+among the farmers in Nyandarua County focusing on women and the youth involved in
+6 | Pa g e
+
+--- Page 7 ---
+functions along the potatoes. The results were that most functions in growing and retailing of
+potato tubers are done by women. This is except on spraying where men assist the women. The
+youth are involved in the transport function. The TNA also revealed that farmers are challenged
+by access to certified seeds, farming as a business, storage and marketing. Further frost is a
+problem which destroys potatoes among other crops leading to total loses
+This training manual has been developed and consists of the training plan and guides to assist a
+farmer trainer facilitate farmers in gaining knowledge, develop skills and change attitude towards
+growing potatoes as a cash crop.
+1.3 LAYOUT
+This manual is made up of modules that address key issues raised by potato farmers. These
+modules are
+Module 1 Potatoes as an agri-business
+Module 2 Potatoes nutrients management
+Module 3 Planting potatoes
+Module 4 Protecting potato seedlings from weeds, pests and diseases
+Module 5 Harvesting, handling, storage and marketing of ware potato at farm and group levels.
+1.4 TARGET LEARNERS
+The target leaners are women, men and the youth most of whom have primary and secondary
+level of education.
+7 | Pa g e
+
+--- Page 8 ---
+1.5 TRAINING PLAN
+This training manual will equip the beneficiaries to better withstand and adapt to the effects of
+climate change such as floods and drought. To achieve this training plan will be using the
+content of this training manual to achieve the needs of the target beneficiaries based on the
+following concept.
+Initiate training plan
+Upscale farmer training
+Establish a pool of farmer
+1.Engage master Establish a pool of
+trainers trainers lead farmers 1.Support 100 lead
+1. Establish 40 FFBS each farmers establish 100
+2. Develop TOT 1. TOT for 8 staff on eco-
+with 20 farmers for new FFBS in season
+manual and training farming
+season 1
+plan 2. Graduate another
+2 TOT for 8 staff on FFBS
+2.Graduate 800 farmers 2000 farmers
+Figure 1 Training plan
+8 | Pa g e
+
+--- Page 9 ---
+MODULE 1: POTATO VALUE CHAIN AS AN AGRI-BUSINESS (6 hours
+15 minutes)
+1.1 INTRODUCTION(15 minutes)
+The main challenges being addressed in this module are ones that hinder adoption of
+entrepreneurial and business skills particularly knowledge of measurement of volumes, area and
+accounting for labour costs
+Learning Outcomes
+This module aims at building on the business planning process. By the end of this session the
+farmers will have:
+1 Made decision on the best market for their potatoes and plan to produce for that market.
+2 Budgeted for and calculated amount of inputs, operation and marketing items in potato
+enterprise
+3 Made decisions on returns based on simple calculations for agribusiness
+4 Identified records required for calculating business returns
+Materials and Resources Needed
+1. Flip charts, felt pens,
+2. Calculator
+3. Information on costs of inputs, resources, equipment and prices of potato products
+Module Duration
+The session should take at least 4 to 6 hours
+Method of presentation
+Field visits, sharing, group exercises and brain storming
+1.2 FACILITATORS GUIDES ON MARKET ASSESSMENT
+SESSION 1: MARKET ASSESSMENT(2 hours)
+1. Climate Setting
+A successful agri-preneur should begin with the market in mind. To identify the consumers of
+the products (gender, age, lifestyles, and income levels), location of their customers, market
+assessment will be important. This assessment will also help in understanding what form of the
+products they want, when, at what price and any other relevant information.
+9 | Pa g e
+
+--- Page 10 ---
+Do a quick climate setting of the introduction to agri-preneurship and ask the trainees some of the following
+questions: What is a market? Where do you sell your produce? What is the difference between a market and a
+customer? Ask what they would consider when selecting a market and why. Ask the trainees if they carry a
+market assessment before starting a new enterprise, growing a new crop or keeping new livestock. List the points
+given on flip chart for reference later.
+After this opening discussion, mention to them about the learning outcome for this learning activity
+Learning Outcome
+By the end of this learning activity the trainees should be able to conduct a market assessment and select
+their customers in the market.
+2. Why Conduct a Market Assessment?
+Inform the trainees that in market assessment we seek to answer the following questions. In groups of two let them
+answer these questions;
+i. Who are my potential customers? – Their ages, location and characteristics
+ii. What do they require? – The quality and quantity
+iii. Does my product meet their needs or do i need to produce another product?
+iv. How will they know I have what they need?
+Let the groups present their answers. Conclude by facilitating a discussion on the benefits of market assessment
+which include;
+ Identify the customers and their needs.
+ Determine how to reach the customers.
+ Observe how prices and product volume changes over time.
+ Assess the level of competition.
+3. Information required in Market Assessment
+Facilitate a guided discussion on the key areas while conducting a market assessment. Conclude the discussion by
+making a presentation that there are things about the market that one will seek to understand when performing
+market assessment. They include;
+i. The number of customers in the market (Market Demand).
+ii. How the customers will change over time (Market growth)?
+iii. How much profits this markets can generate (Market profitability).
+iv. How prices and volumes change over time (Market trends).
+v. How to compete with others in the market (Competition and competitive advantage)
+10 | Pa g e
+
+--- Page 11 ---
+vi. How the products will reach the customers (Distribution channels).
+vii. Other products that can be used instead of my products (Substitutes)
+This information on market assessment can be gathered using questionnaires, observation
+checklist or focus group discussions.
+Figure 2Facilitating group discussion
+4. Procedure for market assessment
+Make a presentation on the key steps in conducting a market assessment. These are as follows;
+Step 1 - Identify the specific customers by seeking answers to these questions;
+ Are there existing customers not adequately served by the existing suppliers?
+(Unsatisfied demand)
+ Are there customers served by suppliers from elsewhere? (demand served by imports)
+ Are there customers not served at all?
+ Do you think the customers will increase in the near future?
+If any of the answers to these questions is yes, then there are customers for your products.
+Step 2 - Preparing for Field Work -In order to prepare well, the following should be done;
+ Develop the aims for the visit
+ Develop a checklist for collecting information
+ Organize with the market outlets about the visit
+ Plan with the participants on the materials required, roles, brief them about the
+tools to use and how long it will take
+ Organize the logistics for the visit- transport, lunch etc.
+Step 3 - Field Data Collection using these tools;
+ Observation methods – Observation schedules and recording
+ Focus group discussions - Checklist
+11 | Pa g e
+
+--- Page 12 ---
+ Interviews - Questionnaires
+Step 4 - Analysis of Market Data
+Step 5 - Conclusion on what to produce or deliver and for which customers.
+Figure 3AFarmer Collecting Market Information
+After presenting to the trainees the steps to follow when conducting market assessment, guide them to develop the
+market assessment tools and conduct a simple market assessment.Organize for a market tour with the trainees to
+collect data using the tools developed. Issue the handout with templates to gather market data.
+Notes:
+ If you are looking for a market for your produce, the first step will be to carry out a
+market assesment. Market assesment is the process of identifying the customers, their
+location and the demand of the product.
+ Location of these customers can be done through, enquiry about population in market
+centers and institutions.
+ When conducting a market assesment, you need to understand how many consumers are
+there and how many producers serve the same market. This is called demand and supply.
+5. Market Information Analysis
+After collecting market data, you need to study and analyze the market information to know if
+the market is viable or not.
+12 | Pa g e
+
+--- Page 13 ---
+Lead the participants to analyze market data collected and prepare for development of a marketing plan. Referring
+to the following notes, elaborate the contents of market data analysis and provide templates to use.
+Figure 4Facilitating Market Information Analysis in A Plenary Session
+Notes:
+The results of the market assessment should include information like
+a. Different types of customers in the market (Market segments)
+b. Lists of names of market players, their contacts and locations
+c. Price changes over a period (Price trend)
+d. Volumes over time (Supply and demand trends)
+e. Customer requirements – varieties, volumes, grade, packaging, etc.
+f. Value addition by different market players.
+Market assessment is not complete without the analysis of data collected, interpreting it and
+making informed decision.
+In plenary, guide the trainees in interpreting the data collected and analyzed.
+This will lead to conclusions and action planning on
+ Who should be my best customers (Right customer segment)
+ What is the best route to reach my customers (Distribution channels)
+ How much produce can be taken by the customers at a time and at what price
+ Any benefits to invest in value addition (sorting, grading, processing etc.)
+13 | Pa g e
+
+--- Page 14 ---
+Inform them that the market assessment results can be used for planning for;
+i) Developing a planting calender (incase of farmers)
+ii) Develop a marketing calender
+Templates for market data collection and analysis.
+Table 1Price and Volume Trends Data Collection Sheet
+PRICE TRENDS
+Produce JAN FEB MAR APR MAY JUN JUL AUG SEP OCT NOV DEC
+Potato
+Cabbage
+Carrots
+Garden peas
+VOLUME TRENDS
+Produce JAN FEB MAR APR MAY JUN JUL AUG SEP OCT NOV DEC
+Potato
+Cabbage
+Carrots
+Garden peas
+14 | Pa g e
+
+--- Page 15 ---
+Table 2 Customer data collection sheet
+CUSTOMER PROFILE
+Customer Age Gender Religion Income Family Education Location
+/Gender level size
+After analysis the data is presented in tables and charts for ease of making conclusions and decision making.
+6. Can the Agri-Enterprise Make Money or Not?
+Now that you have already assessed the markets and identified your customers, including what
+they need and when the prices are best or when there is limited supply. You need to make an
+assessment whether this agri-enterprise can make money or not. This will be based on the
+findings from the market assessment.
+Ask the trainees what they would look for when choosing an enterprise that can make money. List this points on
+a flip chart. Facilitate a review of the points and conclude by making the summary that when assessing an
+enterprise viability some of the things to consider include;
+ Rewarding to the agripreneur (Cost benefit consideration)
+ Potential for customers to increase in your enterprise.
+ Specific target customers – aiming to satisfy customers with unmet needs
+ Start-up capital required –The lower the start-up capital the easier to start.
+ Initial fixed costs - Let the fixed costs be determined by growth phases
+ Other suppliers to the customers
+ Legal considerations on the enterprise
+15 | Pa g e
+
+--- Page 16 ---
+7. Review of theSession
+Facilitate a review of the main points learnt in this learning activity by asking these questions;
+ What new things did you learn from this learning activity?
+ What questions do you still have about market assessment?
+ Can you conduct a market assessment?
+ Are there further comments and remarks on this learning activity?
+SESSION 2: KNOW YOUR POTATO BUSINESS(2 hours)
+1. Climate Setting
+Farmers do not know relationship between land size, crops spacing and optimal amount of input
+needed. They underestimate on inputs and hence get lower yield. They have inadequate skills in
+inputs measurement and application using local containers.
+Start the session by leading a discussion on what happens when they visit a shop to buy items. They are sold items
+in units like kilogram or litres. However, when a farmer is selling his produce in containers (kasuku/ bucket
+/bag/pickup or lorry load. He/she cannot say how many kilograms make a bag or the weight of one potato
+tuber.
+Ask them
+ Why this is so and what is the difference between a shop and a farm
+ What is the similarity between a shop keeper and a potato farmer?
+Present the desired outcomes of this potato business returns calculation topic as to enable them
+1. Make decision on the best buyer for their potato
+2. Prepare budget and calculate amount of inputs, operation and marketing items
+3. Decide on business returns based on calculations
+4. Identify records required for calculating business returns
+2. Costs and Benefits
+Guide the famers on discussion on potato market assessment using the following lead questions
+• What are the quality and quantity required when prices are best?
+• What are the best prices?
+• Who are our competitors?
+• Who are the best buyers and are they ready to buy to us?
+• When is it best to sell our potatoes?
+• When is best to plant and how much should we plan to produce to sell?
+16 | Pa g e
+
+--- Page 17 ---
+Lead a summary discussion on the benefits of market assessment. Why did we need to carry out this market
+assessment?
+Summarize the topic by emphasizing the benefits of the market assessment were to obtain market information and
+decide on:
+ The best buyers, their prices, quality, quantity requirements
+ Targeting the best time and amount to produce for a desired market
+3. Budget for Items Used In Potato Production And Marketing- Money Out
+The farmers need to know how to calculate returns in order to decide on potato production and
+whether they shall make money or not. The benefits of budgeting are for guiding decision
+making on;
+ Inputs and their costs and how to finance them
+ Operations and their costs and how to finance them
+ Marketing operations and costs how to finance them
+Through a group exercise where calculations are made based on say 1 or ¼ acre of potatoes, assist the farmers
+establish the cost of production andmarketing (materials, inputs and labour)
+4. Group Exercise and Discussion-Money In and Money Out
+Money Out- this is the money spent in production and marketing
+Ask the farmers to mention the names of materials, labour and inputs from production to marketing. list them in
+a chronological way
+Using the list of production and marketing costs identified assist the farmers fill in the first section on money out
+on this chart in plenary
+The steps are
+ Lead the farmers in the calculations money out by multiplying units and costs
+ Then sum up all costs as money out
+17 | Pa g e
+
+--- Page 18 ---
+Table 3:Calculating Costs and Incomes (Money Out and Money In)
+1/4 Acre of Illustrations Units Quantity Price Total
+Potato (kshs) (kshs)
+Money out
+Inputs
+Seed Kg
+Fungicides Gms/mls
+Fertilizer 50kg bags
+Manure Wheel
+barrows
+bags
+Herbicides Litres
+Empty bags 50kg bags
+Total cost of
+inputs
+Labour
+Land clearing MD
+without
+lunch
+Ploughing and MD
+harrowing
+18 | Pa g e
+
+--- Page 19 ---
+Ridging MD
+Planting and MD
+fertilizing
+Spraying MD
+Weeding MD
+Harvesting MD
+Packaging and
+transport
+19 | Pa g e
+
+--- Page 20 ---
+Sorting and MD
+grading
+Storage MD
+Total labour MD
+costs
+Total costs(cost of inputs + cost of labour) Kg
+Money in
+Potato yield x
+price of sale
+Ask them whether there are any comments on the results of money out
+Identifying and Calculating the Income Items from Potato Production –
+Money In
+Assist the farmers establish the income from production: (that is at farm gate) and incomes including marketing (if
+they sell at the market
+• Fill in items produced for sale, the amounts (yields) from ¼ acre and best market price
+offered at the farm or farm gate by brokers.
+• To get money in multiply the yields by the sale price and enter into the section of hand-
+out above for money in
+20 | Pa g e
+
+--- Page 21 ---
+Calculating Returns (Money In, Money Out)
+Using flip charts and felt pens, assist the farmers discuss and calculate returns and net income calculations at two
+levels, before marketing and after marketing
+Returns before Marketing
+Instruct them to subtract the sum of money out from the money in i.e.
+Net income = Money in – Money out and
+• Determine if there was a profit or a loss
+• Summarize the discussion through brain storming on returns before marketing
+Returns after Marketing
+Ask the farmers if it is worth it to engage in marketing? Are market prices better than farm prices?
+Inform them unless the production is a lot, normally a single farmer cannot realize benefits from delivering alone in
+the market.
+5. Discussions
+Usually if a farmer has adequate amounts to deliver to market, the income may cover marketing
+costs. If the farmer has inadequate amounts, he shall see no sense in delivering to market. This is
+where the broker comes in and bulks from many farmers.
+Present a discussion that more income or profit can be realised if the farmers also market their produce at the
+market as a group. If a farmer is also engaged in marketing the produce and therefore does not sell
+on the farm or at the farm gate, he/she incurs marketing costs. As such, his/her net income is
+equal to the return at market price less that marketing cost.
+•Net income = returns – (marketing cost)
+Plenary discussions
+• Summarise the marketing costs
+• Multiply the price at the market with the yields
+• Subtract the total costs of marketing from the total value of produce if delivered to the
+market
+Ask the farmers to mention the benefits of calculating of returns
+• Make decisions on inputs and costs in relation to expected returns
+• Decide on management of inputs and operations for optimal production and return.
+• This is if a farmer decides to sell on the farm or at the gate
+21 | Pa g e
+
+--- Page 22 ---
+Ask them if it worthwhile to take produce to the market and what they can do as a group. Drive towards a
+conclusion that it’s better for farmers to come together and sell at the market as a group since one of the challenges
+faced by most markets is lack of adequate and stable supply of quality produce
+6. Simple Record Keeping for Calculating Returns
+Lead a discussion on records needed for calculating returns.
+Ask farmers what records can assist in calculating returns and list on flip chart
+Record keeping involves keeping track of all what is happening in the farm and it should be:
+Simple, Accurate, Reliable, Consistent, Adequate, Provide timely information
+Emphasise that potato farmers should always record the following in their workbooks
+• All man days spent on each potato activity
+• Money spent on labour
+• The quantity of each inputs spent on labour
+• The quantity, price and total money received (money- in)
+• These help to know whether one is making profit or loss
+Ask if there are challenges in keeping records and how they can be overcome
+7. Review of the Day’s Learning
+Lead the Farmers in reviewing the key learning point about that session by asking:
+• What new things did you learn from this session?
+• What are some of the problem and issues that you have become more aware in potato
+business?
+• What questions do you still have about today’s topic?
+SESSION 3: KNOW YOUR UNITS OF MEASURING (2 hours)
+Climate Setting
+As discussed earlier farmers need to know the amounts of inputs and produce they are dealing
+with. What is available for measuring volumes and weights is local units of measurements like
+bottle caps, plastic containers and simple estimation
+Recap on the story from previous session on the difference between a farmer and a shop keeper. Ask them if they
+find they would like to change their attitude on this and why
+22 | Pa g e
+
+--- Page 23 ---
+Learning outcome
+By the end of the session the farmers should have
+ Identified and listed the key units of measurement in potato farming and marketing
+ Calibrated the local units of measurements used in potato farming
+Materials and Resources Needed
+ Common units of measurement (kilogram, area, volumes and weights)
+ Flip charts, felt pens
+ Tape measure and sisal twine, wooden pegs, string and simple weighing scale
+ Common containers – kasuku, bottle tops and graduated measuring containers
+Duration
+The session should take 2 to 3 hours
+Delivery methods
+Field demonstration, group exercise on calibrations and sharing
+1. Marking, Measuring and Pegging
+Guide the farmers in marking the site surface, measuring, and pegging.
+Ask the farmers how the surface of the land is measured in their area.
+This can be by:
+• Estimation by steps
+• Using measuring tape in meters
+• Use of cord with knots
+Ask them to discuss the importance of accurate knowledge on the size of the farm which is to:
+• Plan production
+• Correctly apply inputs
+• Correctly space plants and seeds
+Present hand out on surface area calculation and ask them to estimate the size of the demonstration plot they shall
+use in acres.
+23 | Pa g e
+
+--- Page 24 ---
+Figure 5 Conversions of measurement for land
+24 | Pa g e
+
+--- Page 25 ---
+2. Knowledge on Key Units of Measurement
+Present hand out on standard measures and units and ask the group to mention the type of measurement
+they are aware of (weight, volumes and time)
+Make a presentation on flip chart on the following
+a) Area
+The key measurement in farming are
+I acre =4000 meter square
+I hectare =10,000 meter square or 2 ½ acres
+One acre =0.4 hectares
+I step is approximately 1 meter
+I acre has 70 yards by 70 yards
+25 | Pa g e
+
+--- Page 26 ---
+b) Volume
+Volume measured in litres
+One litre has 1000 millilitres of liquid
+c) Weight
+Weight measured in grams and kilograms or tonnes
+One kg =1000gms
+One tonne has 1,000 kilograms
+Guide the potato farmers through group exercise discussing the importance of using containers that are of
+known measurement values and refer to hand out. Using a standard unit of measurement (tape measure,
+weighing scale, and graduated measuring cylinder) establish the capacity of the common containers
+presented in hand out on know your local units of measurement
+Table 4 Local containers and their measurements
+26 | Pa g e
+
+--- Page 27 ---
+3. Group Exercise / Discussions
+Guiding questions on establishing measurements. Ask the trainees in groups of 3 to answer the following
+questions. After the discussions let them present in plenary their answers and facilitate a plenary and
+conclusive discussion
+27 | Pa g e
+
+--- Page 28 ---
+ How much pesticide is contained in a bottle top?
+ How much fertilizer can be contained in a 2 kg kasuku container
+ How much fertilizer is contained by a handful of an adult
+ When spraying herbicides how much area does a 20 litre spray volume of
+herbicide cover
+ If you are told 20 bags of 50kg of potato are required for planting one acre, how
+many kg are required for 2 ½ acres (I hectare)
+ If you told to use one litre of a herbicide per hectare of land how much herbicide
+should you use per 20 litrespump
+4. Review of The Session
+Emphasize that the benefits of knowing measurements are:
+• Budgeting for inputs e.g. pesticides, seeds labour and operation
+• Planning to know how much to spend for the size of land to plant
+• Ask the trainees what else they want to learn on measurements in future
+28 | Pa g e
+
+--- Page 29 ---
+MODULE 2: POTATOES NUTRIENTS MANAGEMENT (4 hours 15
+minutes)
+2.1 INTRODUCTION (15 minutes)
+1. Problem Statement
+Farmers blame the soil, fertilizers or cold weather for low potato yields. Some say fertilizers
+negatively affect the soil. At times farmers are unable to visualize the cause and effect
+relationship between soil health, nutrient status, spacing and yields.Farmers apply soil nutrients
+among them fertilizers and manure following blanket recommendation. There are no region-
+specific recommendations on fertilizer use for potatoes and thus soil analysis and results
+interpretation are the first step towards helping potato farmers to apply the type and amounts of
+fertilizers required by the plants. Further extension service providers may be able to carry out
+preliminary soil analysis by observing deficiency symptoms in potatoes leaves. There is therefore
+need to understand the good planting practices that will enhance productivity for a market led
+potato production system.
+Nitrogen fertilizers also release gases that contribute to global warming and when under or
+overused leads to losses on net incomes
+2. Module Outline
+This session aims at demonstrating fertility management, spacing and coverage of planted
+potatoes and effects on yields. By the end of this session the farmers should
+• Adopt the correct spacing for potatoes
+• Apply manures and fertilizers correctly when planting potatoes as potato business farmer
+• Prepare the right kind of manure
+• Place quality seeds correctly and space them appropriately in the planting furrows
+3. Materaials and Resources Needed
+Information on
+• Soil analysis results report
+• Good quality manure
+• How to place manure and fertilizer
+• Flipcharts, felt pens and calculator
+• Samples of fertilizers and manures
+29 | Pa g e
+
+--- Page 30 ---
+30 | Pa g e
+
+--- Page 31 ---
+4. Module Duration
+The session should take 6 hours
+5. Methods of presentation
+Plenary discussion, group exercises and field exercise
+2.2 FACILITATORS GUIDES ON POTATOES NUTRIENTS MANAGEMENT
+SESSION 1: SOIL TESING (2 hours)
+1. Climate Setting -Justification for Soil Tests for Nutrients
+Introduce the session by asking the participants to mention their expectations on
+ What nutrients do potatoes require
+ Why are they required
+ How do you tell that the potatoes crop needs more nutrients
+ Can looking at a crop be used to tell how much nutrients to add
+2. Visual Determination of Potato Nutrients Deficiencies
+Nutrient deficiencies can be identified by looking at usual symptoms of deficiency, either the
+upper or lower leaves as outlined in figure below. The chart can also be useful in identifying
+toxic or excessive nutrients levels.
+Steps
+ Pick either the upper or lower leaves of a potato plant that you suspect may be having
+nutrient deficiencies
+ After picking the leaves from the lower part, go to the chart on your left side, if using
+upper leaves refer to the right side of the chart to identify the real deficiency .
+31 | Pa g e
+
+--- Page 32 ---
+Figure 6: Simple visual nutrient deficiency symptoms diagnosis chart
+(Source GIZ TOT manual on potato production)
+The following are signs of key potato nutrients deficiency symptoms and how they can be
+addresses before soil tests are carried out
+32 | Pa g e
+
+--- Page 33 ---
+Table 5 Deficiency symptoms and what they could mean
+3. Knowing What Nutrients Potatoes Require
+As a recap, ask the farmers the following
+ By looking at the leaves , can you conclude the type and amount of nutrients
+required
+ Is there need for confirming the nutrients
+ What is soil testing
+33 | Pa g e
+
+--- Page 34 ---
+Present that soil testing refers to the analysis of soil in order to determine its composition,
+nutrient content, and other properties like pH level. It provides the farmer with information
+which is essential for the improvement of soil quality. For instance; the farmer can easily adjust
+fertilizer application patterns in accordance to the requirements of the crop and soil.
+In order to get accurate results, the timing of soil sampling, sampling technique and the type of
+analysis should be put into consideration.
+Soil testing is usually done by commercial soil laboratories which offer a wide range of tests and
+are more accurate compared to do-it-yourself kits, most of which test only for the major nutrient
+elements (NPK), and soil pH. Besides, the laboratory soil tests include professional
+interpretation of results and recommendations.
+Therefore, the importance of soil testing is;
+ Helps in knowing the current soil condition and how to improve it
+ Balance fertilizer expenditures
+ Helps in avoiding over-fertilization
+ Determines the expected growth potential of the soil
+ Helps in preventing soil degradation
+4. Preparation for Soil Testing
+Facilitate the group prepare to visit a farm site and take soil samples. During the site visit facilitate them collect
+soil samples. Before leaving for the field emphasis on the following
+4.1 Sampling Timing
+The timing for sampling is very important and should be best at these period
+ As close as possible to the planting period.
+ Since most tests take 1 to 2 weeks to complete, then take samples 2-3 weeks before
+planting
+ When soils are dry as it is easier to collect samples then.
+ Submitting wet samples may interfere with the results
+4.2 Sampling Materials
+Ensure that the following items are ready for soil sampling before leaving for the site:
+• Soil augur or clean panga
+• 4 Khaki paper bags size 3
+• Small carton for packaging the soils sampled/30x30x30cm
+34 | Pa g e
+
+--- Page 35 ---
+• A clean plastic container /bucket
+• Marker pen
+• Information collection sheet
+Figure 7 Materials and supplies for use
+during soil sampling
+Caution when preparing for soil sampling
+• Avoid sampling hot spots like ant hills, terrace
+channels or where burning has taken place or
+manure was heaped
+• Do not use galvanized tools or containers since
+they may contaminate the sample with Zinc
+• Use clean tools always between samples
+• Keep tools and containers away from fertilizers
+and manures because of contamination
+• Use new paper bags to package soil samples
+• It is important to take a representative sample as
+much as possible
+• Any problematic areas like rocky, swampy,
+valleys, etc. and vegetable gardens, nursery beds,
+etc. should be sampled separately
+Figure 8 Tools and equipment during soil
+sampling
+35 | Pa g e
+
+--- Page 36 ---
+5. Procedure for Soil Testing
+The following are the steps to be taken in carrying out the soil sampling
+5.1 Identifying Sites to Collect Soil
+Guide the farmers in the process of soil sampling on procedure for soil sampling. Referring to the guidelines ask one
+farmer to read its contents. Then ask 4 volunteers to lead as you guide them on the following
+1.Taking top soil and sub soils samples separately (2 volunteers each).
+2. Collecting and attaching of information that should
+accompany the soil samples and packaging soil samples (2
+volunteers)
+ Random Site Sampling– works for uniform fields which
+have little differences
+ Benchmark Site Sampling–recommended for fields with
+more variability e.g., pot holes, hills, etc.
+Figure 9 Random sampling of sites
+Regardless of the sampling technique, in order to get reliable
+results, a clean soil sample which should be a representation of the entire field or part of the field
+to be planted and managed should be collected and submitted for analysis.
+5.2 Procedure for Samplingand Packaging
+Step 1 -Preparation of field
+ Randomly select 3 sampling sites per acre of land and mark with wooden pegs.
+ Remove trash from the sampling sites selected.
+Step 2 -Auguring and compositing for top soil
+ Dig out 20 cms depth of soil using panga or augur tool
+ Place in a bucket and remove debris
+ Repeat procedure in other sites selected and place in same bucket
+ Mix the soil samples uniformly to form a composite
+ Package ½ kg of the composite soil sample and label properly as
+top soil and farmer name
+Figure 10 Mixing soil
+Step 3 -Auguring and compositing for sub soils
+samples
+ Dig out the sub soil 20-50 cms depth
+ Repeat procedure as above
+ Label as sub soil and name of farmer
+36 | Pa g e
+
+--- Page 37 ---
+Step 4 -Packaging
+ Package the soil sample into a carton ready for sending to the
+testing laboratory
+ Include the filled in data sheet in the package
+ Address the package to the laboratory and send
+5.3 Documentation and record keeping
+The soil samples should be accompanied by the following information
+which makes up the soil samples records form
+Figure 11 Interpreting
+soil testing results to
+Soil Samples Record Form farmers
+1. Date……………………………………………..............................................................................
+2. Samplers name ………………………………….............................................................................
+3. Ward ………………………………………….................................................................................
+4. Zone ………………………………………….................................................................................
+5. Village ………………………………………...................................................................................
+6. Name of demonstration site …………………………………………........................................
+7. Name of the depth of the soil – (top or sub soil) ……………………………….......................
+8. Depth in centimeters………………………….................................................................................
+9. Recent history on use of the site
+ Crop/s grown last season ……………………….............................................................……
+ Yields achieved last season from the crops at site, ………………………….......................
+ Fertilizer used and the amounts ……………………................................................................
+ Manure used and amounts …………………………................................................................
+ Reason for the sampling……………………………………………………………........
+ The crop the farmer wants to grow next season )
+6. Soil Testing Laboratory Results Interpretation
+Ask the farmers if they know of soil testing service providers and include the following
+ Kenya Agricultural & Livestock Research Organization (KALRO) Tigoni
+ SoilCares Ltd
+ Crop Nutrition Laboratory Services Ltd
+37 | Pa g e
+
+--- Page 38 ---
+Leads a discussion on whether the soil testing and analysis was important and if so how it is beneficial to the
+potato farmers as entrepreneur. Ask them whether they undertake the soil sampling and analysis?
+7. Interpretation of Soil Analysis Results
+Having interpreted the results of the previous soil sample in the office, lead in making recommendation on
+• Type and quantity of fertilizer to provide the nutrient required
+• The amount of lime required
+• Manure required
+• Foliar spray to supply micro nutrients
+You may use the table below or present to them as a handout if time does not allow to go
+through it
+Soil Tests Results Interpretation Chart
+Nutrient Recommendation Remedy action
+Nitrogen (N) Deficient-apply nitrogen Use inorganic fertilizers at planting.
+Top dressing with nitrogen has not been observed to
+increase yields
+Phosphorus Deficient? A warm, moist and well aerated soil at a pH of 6.5
+(P) optimizes the release of this element. If recommended
+apply inorganic P containing fertilizer
+drain the farm and use lime if PH is less than 6.5
+Potassium (K) Optimal levels Apply potassium e.g. Murate of Potash (MOP) or foliar
+spray high potassium content foliar sprays
+Calcium (Ca) Less than optimal Liming is necessary.
+Gypsum (Calcium Sulphate) may be used.
+Magnesium Low Liming is required use dolomite lime
+(Mg) Otherwise when lime is not required Epsom salt
+(Magnesium Sulphate) is used.
+Sulphur (S) Low Apply gypsum and Potassium Sulphate
+Compost or manure
+Ph Below 5.2 (acidic) Apply agricultural lime like Magmax
+Availability of nitrogen,
+phosphorus, and potassium
+is reduced
+There are usually low
+amounts of Calcium and
+Magnesium in the soil
+Ph High 7.0 (alkaline) Use acidifying fertilizers like DAP
+38 | Pa g e
+
+--- Page 39 ---
+Having interpreted the results of the previous soil sample in the office, lead in making
+recommendation on:-
+ Type and quantity of fertilizer to provide the nutrient required
+ The amount of lime required
+ Manure required
+ Foliar spray to supply micro nutrients
+SESSION 2: OTHER PRACTICES FOR IMPROVING NUTRIENT SUPPLY
+TO POTATOES (2 hours)
+1. ClimateSetting
+Welcome the farmers to the session of the day and ask them what their expectations are. Align their expectations
+with the following learning outcomes
+Learning outcome
+The outcomes of this session are have knowledge and share experiences in practices that improve potato nutrients
+availability for increased returns to the farmers.
+The key practices that improve potato nutrient uptake are presented here below
+2. Presentations
+a) Composting
+Present on good quality manure in relation to potato farming and in particular on field hygiene, recycling of disease
+like scab and bacterial wilt.
+Figure 12 Avoid use manure
+from livestock that fed on
+potato family crop residuals
+39 | Pa g e
+
+--- Page 40 ---
+Facilitate a discussion on characteristics of good quality manure for potatoes that should
+ Not made from livestock fed with potato family residue-it may lead to spread of bacterial
+wilt
+ Not made from compost with residue from potato family
+ Un decomposed manure causes black leg and black scurf diseases that are seroius for potato
+farming
+ Free from potato pest and diseases
+b) Placing and using manure
+Engage the farmers in a discussion on manure application by asking them how they apply manure and then
+demonstrate on how it is done –
+Steps involved in composting
+manure
+1. Place the compost pit in
+a shaded place or under a tree.
+2. Dig the pit. It should be
+1.5 m wide and 0.5m - 1m deep.
+3. Loosen the soil at the
+bottom of the pit (30 cm deep
+loose soil). Pour water over the
+soil.
+Figure 13 Testing a composting heap 4. Start piling ingredients
+into the pit:
+5. First layer: Put 30 cm of rough material at the bottom layer,e.g. maize stalks.
+6. Second layer: Put 15 cm of dry grass.
+7. Third layer: Put 15 cm of green leaves from, e.g. high protein, legumes, trees, shrubs.
+8. Fourth layer: Put 10 cm of animal/bird waste.
+9. Fifth layer: Sprinkle topsoil and if possible, wood ashes.
+10. Water the compost before repeating the same process three times.
+11. Place a stick in the compost in an angle of 45 degrees to check if the pile is too dry or
+too wet.
+12. Cover the compost with topsoil and grass to avoid evapotranspiration.
+13. Keep the compost for 21 days before applying it into the field.
+40 | Pa g e
+
+--- Page 41 ---
+14. Ensure the manure is well prepared and ready for use by ‘feeling’ with your hands. It
+should feel like ‘cotton’, crumbles easily and when dry it’s ‘floury’.
+What Nutrients are derived from FYM?
+FYM is used as an organic fertilizer, which if well
+prepared acts as an organic source of nutrients
+containing N, P and K as well as Fe, Mn, B, Mo, Co,
+Al, Cr and Pb. Application rate of manure is 5-10
+tons/ha or 2-4 tons/acre.
+Figure 14 well composed manure
+After preparing or composting manure use it as follows
+ Spread manure on farm before furrow preparation.
+ Then incorporate into the soil during harrowing and furrow preparation or
+ Applying manure in furrows and mix with soil or fertilizers
+c) Use of lime
+How to apply lime:
+ The soil acidity that triggers the use of lime in your farm should be of a pH of 4.5 or
+below.
+ Lime is applied after the soil is ploughed or tilled well.
+ Apply 1 week before planting, or during planting
+ Apply 2 or 3 tonnes of lime to one acre of land.
+ Repeat every 2 to 5 years depending on the acidity levels in the soil
+d) Use of foliar sprayed nutrients
+Foliar nutrition increases potato tuber bulking, Potato tuber bulking can be maximized by
+optimizing crop nutrition to maintain tuber growth rates throughout the important bulking
+stage. Dry soils can restrict magnesium uptake; therefore, a foliar spray can be very effective.
+e) Crop rotation
+41 | Pa g e
+
+--- Page 42 ---
+Rotating crops that require different nutrients in different amounts assists in optimizing nutrient
+use by potatoes. This will be covered in the next modules in details
+f) Using green manure
+Adding a green manure to potato act primarily as a soil amendment and nutrient
+source for subsequent crops, in a rotation can increase nitrogen availability in the potato crops,
+improve yield and tuber quality, and improve the soil's physical properties and suppress soil
+borne potato diseases.
+g) Proper use of commercial fertilizers
+Ask the farmers on their experience with commercial fertilizers. Engage them in a discussion on fertilizer
+application procedure.
+The procedure is
+ After applying manure, place the required amount of fertilizer in the same furrows
+ Mix the manure and fertilizer
+ Cover slightly with soil ready for placing seeds
+Applying fertilizer evenly
+Present these simple instructions on applying fertilizer evenly on a piece of land
+1) Divide the land or furrow into 4 quarters
+2) Divide available fertilizer into 4 equal portions
+3) Allocate each quarter portion of fertilizer to each quarter of furrow
+4) Apply each portion of fertilizer to the allocated portion of furrows and cover with some
+soil awaiting seed placement
+Emphasize that this ensures even distribution of the fertilizer in the field
+Figure 15 Farm with drainage channels
+42 | Pa g e
+
+--- Page 43 ---
+MODULE 3: PLANTING POTATOES (6 hours 15 minutes)
+3.1 INTRODUCTION ( 15 minutes)
+a) Problem Statement
+Farmers do not know relationship between land size, crops spacing and optimal amount of input
+needed. They underestimate on inputs and hence get lower yield. Low plant density reduces
+subsequent yields. On the other hand, poor spacing, exposure of tubers to pests and pathogens
+due to poor seed cover affects yields and increase costs of production. Farmers have inadequate
+skills in inputs measurement and application using local containers. Farm also require good
+management like weeding and soil and water conservation.
+b) Learning Outcomes
+This session aims at demonstrating on establishment of a healthy potato farm. By the end of the
+session the farmer should have;
+ Identified good quality potato seed e.g. seed size, health, number of sprouts,damage,
+weight, uniformity of size
+ Estimated the seed requirements using available seed rates and spacing
+ Adopt the right placing , spacing and coverage of seeds
+c) Materaials and resources needed
+ Seed samples of different sizes and different number of sprouts
+ Information on good quality seed samples , good quality manure, placing seeds and
+covering
+ Flip charts ‘and felt pens
+d) Module duration
+The module should take 4 to 6 hours
+e) Methods of presentation
+Group exercise, brainstorming, sharing demonstration and discussion
+43 | Pa g e
+
+--- Page 44 ---
+3.2FACILITATORS GUIDE ON PLANTING POTATOES
+SESSION 1: CROP ROTATION (2 hours)
+Topic 1. Development of potato crop rotation plan for scouting demonstration plot
+Climate Setting
+Introduce the concept of crop rotation.
+Ask the farmers to mention how they rotate their crops? which crops do they rotate and why
+Ask the farmers to state the benefits and importance of crop rotation
+Learning Outcome
+by the end of this session farmers should develop individual farm rotation plans with soil fertility management
+and integrated disease and pests management considerations in place
+Presentations on Crop Rotation
+Crop rotation is an exercise for improving nutrients use by plants so that in case one crop is a light feeder and
+has shallow roots its rotated with heavy feeders and deep rotted crops so as to use
+Further crops which fix nitrogen in the soil may not use all of it and whatever is left will be used by those that
+do not fix nitrogen
+Examples of crops that fix nitrogen –beans, peas, desmodium
+Examples of crops that do not fix nitrogen- maize, carrots, potatoes, wheat, cabbages
+Design of a Crop Rotation Plan
+The designing is by first done by
+• Dividing the farm into plots
+• Identifying the suitable crops for the area
+• Classifying into heavy and light feeders/deep and shallow rooted crops
+• Recognising what the farmers household needs for food and nutrition security
+• Recognising the cash needs of the family
+• The rainfall patterns
+Group Exercise; Designing A Rotation Plan For Nutrients Use Optimization
+Ask the group to design the crop rotation plan for their farms and explain the factors that you consider during
+the design of rotational plan.
+1. Rotate potatoes with maize, beans or cabbages or leave farrow for at least 3 seasons
+2. Do not intercrop potato with any other crop
+44 | Pa g e
+
+--- Page 45 ---
+Present a crop rotation plan for 4 plots 5 seasons as presented in below.
+Figure 16Afour plot six season rotational plan
+Present a seven season rotation plan as hand outyou can also distribute the same poster
+45 | Pa g e
+
+--- Page 46 ---
+Figure 17 A 7 season rotational plan
+Inform them that the use of crop rotation planning will also be covered in details in pest and disease management
+SESSION 2: LAND PREPARATION(2 hours)
+Land preparation is very important in potato production since it directly affects conditions for
+emergence and plant establishment, and therefore affects the quantity and quality of tubers.
+46 | Pa g e
+
+--- Page 47 ---
+Land preparation involves the following
+Present the process land preparation and benefits as below
+a) Vegetation clearing
+When and how is vegetation clearing done?
+• When and how is ploughing done?
+• When is harrowing done?
+• Vegetation clearing – slash bushes and weeds,
+remove and destroy volunteer potato plants
+Figure 18 Slashing
+b) Ploughing
+Ploughing should be done at least 3 weeks before planting, during the dry
+seasonusing animal drawn or tractor drawn disk to a depth of 20-
+30cm.For virgin land plough twice while land already cultivated
+needs one ploughing.
+Figure 19 Tractor ploughing
+c) Harrowing
+After 2 to 3 weeks, harrow to cut the ploughed soils into loose soil. Harrow to a depth of 20cm
+in order to incorporate the crop debris which breaks down into humus.Harrowing – done one
+week after ploughing to allow better soil working
+conditions. Carry out at least two harrowing with the last
+one being just before preparing of furrows so as to destroy
+young weeds
+• Levelling – to provide a level surface for equal surface
+water distribution.
+• If adequate amounts of manure are vailable spread on
+the farm before harrowing.
+• After 2 to 3 weeks, harrow the cut ploughed soils into Figure 20: Establishing
+furrows
+loose soil.
+47 | Pa g e
+
+--- Page 48 ---
+• Harrow to a depth of 20cm in order to incorporate the crop debris which breaks down into
+humus.
+d) Seed bed preparation
+Once land preparation is complete,
+ Make furrows or beds that are 25cm deep
+ Space furrows at 75cm apart. Tuber to tuber spacing depends on the tuber size and variety.
+e) Applying manures and fertilizers
+Apply the amount of fertilizer required on the furrows and mix properly with soil to avoid
+scorching of sprouts.Different fertilizer companies formulate different fertilizers for potato crop.
+Fertilizers used for planting potato are;
+1. DAP (Di -Ammonium Phosphate)
+2. NPK (17:17:17; 20:20:20; 23:23:0)
+3. Blended NPK (14:28:14+Te, NPK 18:0:21+Te)
+4. Single Superphosphates (SSP)
+5. Triple superphosphates (TSP
+SESSION 3: PLANTING(2 hours)
+Welcome the farmers to the topic of the day and ask them what their expectations and note down the expectations
+are. Start the session by asking the farmers where they source seeds and what characteristics they look for in a seed.
+Note these down and ask them what challenges they face
+Materials required
+• Seed samples of different sizes and different number of sprouts
+• Information on good quality seed samples , good quality manure, placing seeds
+and covering
+• Flip charts ‘and felt pens
+Learning Outcome
+The outcomes of this learning site field establishment topic are that farmers will have
+f) Identified good quality potato seed e.g. seed size, health, number of sprouts ,damage ,
+weight , uniformity of size
+g) Estimated the seed requirements using available seed rates and spacing
+h) Adopted the right placing , spacing and coverage of seeds
+48 | Pa g e
+
+--- Page 49 ---
+Characteristics of a Good Quality Seed
+Lead the farmers discuss challenges in sourcing quality seed by initiating a discussion on quality seed potatoes, how
+does a good quality seed potato look like?
+Distribute samples of seed potatoes and facilitate discussions on what are the characteristics of a good seed potato
+Plenary Discussion
+Pose a question “what are the good quality of a potato seed” Allow the farmers mention and list them on a flip
+chart
+Present that good quality seed potato should be
+• Right variety for the market
+• Physiologically mature at the time of planting
+• Free from external damages
+• Have 5 to 6 sprouts
+• Of uniform medium size
+• From a healthy mother plant
+• Have a fresh and not wrinkled skin
+Figure 20: The Best Potato Seed
+has many eyes
+Calculating amount of seeds required
+In plenary and preferably on flip chart, lead the farmers in discussing on
+• The recommended spacing for potato production75cm x 30cm
+• How many tubers do you require for every acre of land?
+Conclude the discussions with a question “How can a farmer determine the amount of seeds required?”
+To maximize production, there is need to have the right plant density in the farm. When the
+spacing is 75cm between furrow/ridges and 30 cm between tubers, 18,000 tubers will be
+required for an acre or 44,444 tubers per hectare. Seed tubers which are physiologically young
+may have only a single sprout, to achieve more ‘eyes’ it is recommend knocking off the apical
+sprout and store for 10 to 14 days for more lateral sprouts to form. Each seed should have at
+least 3 sprouts for good plant density.
+Using Table 5 a farmer can calculate the amount of seed required. A 50kg bag of large potato
+tubers (size II and III) contain less seeds than 50kg bag of smaller size tuber (size I). Thus
+larger seed sizes are more expensive but have the potential to yield more. It is recommended to
+use medium size seed (size II).
+49 | Pa g e
+
+--- Page 50 ---
+Class of seed Average tuber Average tuber Number of 50kg bags of
+diameter size (mm) weight (grams ) seeds needed per acre
+1 (Small) 25-35 39-45 14-16
+2 (Medium) 35-45 50-57 18-20
+3 (Large) 45-55 60-73 24-26
+Placing seeds and covering
+Facilitate a discussion and demonstration on placing and covering the potato seed. Present that to we place seed
+tubers on the furrow or ridges with the sprouts facing upwards. Space between the tubers should be 30cm or one
+foot. This is approximately the space between the ankle and the toe of an adult. Once the tuber has been placed
+correctly, cover with soil to height of 15cm for drills and 10cm for ridges.
+Demonstrate and then let them continue practicing
+• How the seeds are placed in the in the furrow
+• The spacing of potato seeds along the furrows?
+• The depth of soil cover
+50 | Pa g e
+
+--- Page 51 ---
+MODULE 4: PROTECTING POTATO SEEDLINGS FROM WEEDS,
+PESTS AND DISEASES (10 hours 15 minutes)
+4.1 INTRODUCTION (15 minutes)
+Issue at Hand
+Differentiating disease symptoms from signs of nutrient deficiencies is at times difficulty for
+practitioners. Pests and diseases pose threats where farmers resort to pesticides for management
+despite availability of IPM approaches. Availability of quality clean seeds is an issue affecting
+productivity. Cost of inputs like pesticides, labour is increasing. Land size is declining challenging
+crop rotation
+There is therefore need to understand the field practices and integrated pest management (IPM)
+that will lead to reduced costs in pests and disease management through use of pesticides and
+reduced crop losses from pest. This should enhance productivity for a market led potato
+production system
+Learning Outcome
+This session aims at guiding farmers in improving quality and yield of ware and seed potato
+through field management practices. By the end of session the farmers should have
+ An understanding of the use the scouting method to make decisions on management
+of potatoes
+ Made decisions on when hilling should be done and why
+Materials and Resources Needed in Preparation of Session
+1. Information on
+ How to undertake scouting
+ Field management practices (weeding, hilling, integrated pest and disease management)
+ Foliar spray application of nutrients
+2. Flip charts, feltpens, scouting sheet guidelines and Action plan
+51 | Pa g e
+
+--- Page 52 ---
+Module duration
+The session should take 8 to 10 hours. These guidelines are useful for the trainer during the
+vegetative period of potatoes which spans over 8 weeks
+Methods
+The methods to be used are
+i) Group exercise - scouting
+j) Brain storming –what is this what is that concept
+k) Sharing
+l) Decision on action and recommendation
+4.2 FACILITATORS TOPICS GUIDEON PROTECTING POTATOES
+FROM PESTS, DISEASES AND WEEDS
+SESSION 1: SCOUTING TOOL(2 hours)
+Climate setting
+Welcome the Farmers to the activity of the day. Asks participants tostate what their expectations are for the day
+Then present the outcomes of this field management practice topic as to
+1. Understand the need for scouting to make decisions on management of potatoes
+2. Make decisions on when hilling should be done
+3. Initiated the process of positive seed selection
+Introduction to potato scouting
+Guide the potato farmers in the process of scouting highlighting the benefits behind it on decision making in field management
+practice. Using the following steps make the farmers appreciate about the steps and benefits of the exercise as
+a) Learning by observation and recording
+b) Analysing by discussions
+c) Making decisions on what needs to be done as good agricultural practice
+Give a Presentation on potato scouting
+Scouting is a way of understanding through observation and discussion the relationship between the
+potato crop and the weather, pests, disease causing organisms among other environmental factors.
+Farmers and facilitator will learn by discovering. It will assist improve decision making. The farmers
+present their observations from the field for critic in a larger group for consensus building on the best way
+forward based on observations and analysis. Decision we make at the group level can also be
+implemented on members’ farms. As farmers discuss they also share their experiences and knowledge.
+Present the steps in scouting as follows
+52 | Pa g e
+
+--- Page 53 ---
+Steps to be taken in scouting
+1) Observations in the field
+2) Recording observations in note books using the guidelines ,
+3) Filling in note book format ,
+4) Presentation ,
+5) Discussions using “what is this, what is that format “making recommendations and action
+planning
+Figure 21 The steps in scouting
+Inform the farmers that the relevant information to be observed in the field will be used to make decision on when is necessary
+to carry agronomic practices like
+a. Control of pests and diseases
+b. Spraying foliar feeds in case of nutrient deficiency
+c. Hilling
+d. Selecting mother plants
+e. Controlling weeds and volunteer crops
+“What is this? What is that concept”?
+53 | Pa g e
+
+--- Page 54 ---
+Present the “What is this? What is that?” concept. This concept is used during data collection at the farm.
+ A discovery based learning in which questions are used to answer questions.
+ It leads the farmer to the answer by asking questions.
+ As the questions are being asked, analysis is being done.
+Using the following example farmers pick on an insect and presents it for discussion. As the facilitator ask the following
+questions
+ Where did you find it?
+ What was it doing?
+ Were there many of them?
+ Have you seen it before?
+ What do you think it is?
+Ask the farmers to pick another object of interest from the potato field (e.g. weeds, diseased plants parts , deformed plant
+part, discolored plant parts) and one of them repeats the questions until a conclusion and recommendation is made on the
+subject
+Scouting exercise
+Prepare and lead the farmers in the first step in scouting. Ensure that the information collection guideline is available before
+proceeding to the field. They should also have note books for filling in observations guided by information collection guideline.
+Steps in field observation
+ Divide the farmer group into sub groups depending on the number
+ Ask them to go to the potato field, carry out systematic observation. After each observation they
+discuss through “what is this, what is that “.
+ Each group collects the relevant data on one note book and goes back to the session for
+processing and presentation of the information.
+After taking observations ask them to go back to the session
+Scouting information processing , presentation and discussions on observations and
+conclusions and recommendations
+Facilitate the filling in of information collected into the flip chart and analyzing the same to make conclusions
+Scouting tool
+Ask the sub groups to enter the information into the scouting format. Each sub group then presents its
+report to the larger group for discussion on making conclusions andway forward or recommendations
+Scouting tool
+Name of the group………………………………… Sub group……………………………………
+Scouting No………………………………………. Date…………………………………………
+54 | Pa g e
+
+--- Page 55 ---
+ThSrtouudghy qeunetsetriopnr iasned… a…nsw…er …ses…sion… gu…ide… th…e fa…rm…ers… in… de…cid ing on the following which the secretary should record for use in
+recGape nofe trhae ln ienxfto sremssioant ion Agro ecological data
+• VarWiehtya…t s…hal…l b…e t…he… ke…y t…op…ic …in …the… n…ext… se…ssiAovne rage leave length…………………………………
+• FerTtihliez edra utes eadn…d t…im…e f…or… th…e n…ex…t s…ess…ion… …Average plant height………………………………….
+• PanWtinhgat d sahtael…l b…e t…he… sp…ec…ial …top…ic… an…d w…h…o w…il l b Ne tuhme bgeure sotf stems……………………………………
+Plant age…………………………………… Number of leaves…………………………………….
+Weather……………………………………Time of observation…………………………………
+Insect pest seen Natural enemy seen
+1.………………………… 1 . … … ……………………………..
+2.………………………… 2.…………………………………..
+3.………………………… 3 . … … ……………………………..
+4………………………… 4 … ………………………………...
+Figure 22 Scouting tool
+Inform them that this exercise shall be carried each day there is a session until the potato are ready for harvesting
+List the recommendation in a flip chart for the chair person to follow up.
+Observation Recommendation
+Insect pests types and number
+Natural enemies type and number
+Disease symptoms % affected
+Weeds type and spread
+Volunteer crops types and spread
+Nutrients deficiency signs
+Stage of flowering –guide in selection of
+mother plant
+Health appearance of related mother plants
+Figure 23 Summary recommendation sheet
+Ask for comments on the scouting system and its benefits
+55 | Pa g e
+
+--- Page 56 ---
+SESSION 2: STEPS IN PROTECTING THE POTATO CROP FROM WEEDS
+–WEEDING, HILLING AND ROUGING (3 hours)
+Weeding and rouging
+Weeds compete with seed potatoes crops for nutrients. They may also harbour pests and
+diseases that affect potatoes. As soon as the crop emerges, weed control is important to avoid
+weeds competing with the young potato plants. Undesirable plants in a seed potato field need to
+be removed to ensure high quality standard of the harvested tubers. Undesirable plants include
+plants infected by seed borne diseases (viruses or bacterial diseases) and off-types. Off-types are
+plants in the seed crop field which don’t conform to the variety being grown. Volunteers are
+plants grown from tubers left in the soil from a previous potato crop in that field. Volunteers are
+often infected with diseases like those caused by viruses that can infect the new seed crop. They
+may also be from another variety than the variety that is being grown. Growing season to ensure
+purity of the desired variety as well as high health standard of the seed crop. In cases where there
+are weeds which may serve as sources of diseases, they too have to be removed.
+Equally important are hygienic measures to prevent spread of diseases. Tools and protective gear
+used in seed crops should be disinfected and only used at the seed crop field in a particular field
+and not in other crops.
+Removal of undesirable plants during growth in the field is called rouging. During rouging
+undesirable plants are removed together with any newly formed tubers, placed in a polythene
+bag, taken away from the field and disposed safely either by burying in a deep pit or burning.
+Rouging is done throughout to;
+ Monitor weeds as they emerge
+ Remove by rouging the weeds using hands
+ Use hand hoes and jembes to remove weeds taking care not to injure the tubers for small
+holder farms
+ For large scale farmers use mechanised methods like tractors
+ Where this is not possible seek advice on best herbicides
+ Ridging can also be carried out as weeding is done
+Caution –weeds are more vigorous during the wet season, tools may spread diseases in
+the farm hence need for field hygiene
+56 | Pa g e
+
+--- Page 57 ---
+First weeding
+m) Weeds steal food and water that potato plants need to grow
+n) Weeds need to be removed as they germinate
+o) First weeding is done 2nd to 3rd week after emergence (4th week after planting)
+p) As you weed, heap the soil along the ridges’ –this is called hilling and it covers the roots
+and tubers more allowing moisture to be conserved
+RIDGING /HILLING/EARTHING
+Ridging or Earthing Up
+A potato plant produces tubers after crop
+establishment and this process is triggered by cool
+and dark conditions. As tubers enlarge, they require
+complete dark conditions to avoid greening. High
+loose soil volume is necessary to allow tuber
+expansion without hindrance. Therefore, loose soil
+Figure 24: Earthing Design
+should be raised by earthing up as the plant grows.
+Earthing up improves the tuber positions on the plant and improves the quality of tubers
+produced besides protecting the crop from getting infested with Potato Tuber Moth (PTM).
+Good earthing up ensures sufficient environment for root development and promotes uptake of
+water and nutrients required for plant growth and tuber production. It also keeps the tubers cool
+and minimizes tuber deformities.
+Poor ridging leads to a high proportion of green tubers as well as to exposure of stolon tips
+which instead of forming tubers give rise to secondary, non-productive stems. .
+Figure 25the correct depth in ridging
+57 | Pa g e
+
+--- Page 58 ---
+Guidelines andMethods of Earthing Up or Hilling
+ During weeding or when crop is 20cm high use hand held tools like plain jembe to scoop
+and to heap the soil along on the inter rows space on the potato stems.
+ Heap the rows such that he final ridge should be about 25 cm high from the ground
+ Repeat the practice 2-3 weeks later if the crop canopy has not covered the inter row space.
+ (If conditions allow, do the last hilling 2 weeks after the second hilling.)
+Note - Earthing up should be avoided when the soil is too wet to minimize soil compaction and
+spread of fungal diseases like the late blight.
+SESSION 3: INTEGRATED DISEASES MANAGEMENT (3 hours)
+During the scouting, diseases may have been observed
+which will need management and protection of the
+Scouting and monitoring
+crop from damage
+Daily farm visits is necessary to
+help access pest and disease
+levels and identify the most 3.1 Objectives of the Session
+critical period for intervention.
+For diseases, scouting for This session aims at guiding farmers in improving quality
+symptoms is not advisable as
+and yield of ware and potato through integrated field
+this may be too late especially
+for fungal foliar diseases e.g. late management practices.
+blight. Therefore ensure that
+your crop is always protected The learning outcome is that by the end of this session the
+throughout the growing period
+farmers should be able to manage diseases through an
+with a fungicide.
+integrated system which involves;
+ Scouting for the kind of diseases that may an issue
+ Making decisions on what the disease is and options available in managemnet
+ Manage diseases through an integrated system
+Field observation exercise
+Prepare and lead the farmers in the first step in scouting. Ensure that the scouting tool information collection guideline is
+available to each sub group before proceeding to the field. They should also have note books for filling in observations guided
+58 | Pa g e
+
+--- Page 59 ---
+by information collection guideline.
+ The sub group each visit their plot and carries out systematic observation.
+ After each observation they discuss through “what is this, what is that “and put down the answer.
+ Each group collects the relevant data on one note book and goes back to the session for processing and presentation of
+the information.
+After taking observations ask them to go back to the session for discussions
+59 | Pa g e
+
+--- Page 60 ---
+3.2 Disease Management
+3.2.1 Fungal Diseases
+Physical Symptoms of a Disease Name of The Symptom Management
+Disease
+Local: Grey spots on the  The use of tolerant varieties (if
+English: Late lower tips or edges available)
+blight of young leaves  Routine observations
+and spread quickly
+(scouting for early signs), and
+Scientific: to cover the other
+ Developing management
+unhealthy leaves if
+techniques based on these
+conditions remain
+observations.
+favorable.
+ Use of appropriate fungicides
+Local: Dry brown spots,  Use of resistant/tolerant
+English: Early usually bound by varieties.
+blight the leaves’ ribs.  Removing sources of infection
+The spots enlarge
+by using healthy seed,
+Scientific and join together
+destroying contaminated
+to form big
+plants and strict crop rotation
+concentric/circular
+which helps to eliminate
+rings.
+inoculum in the soil.
+ Balanced use of fertilizer Use
+of appropriate fungicides
+Local: Black scurf forms  Use certified seed which has
+English: spots which are sprouted well
+Black scurf/ dry and sunken on  Do not plant in soils that are
+stem canker the stem which cold (<7oC) or wet. Soils for
+Scientific: become big and
+potato growing should have
+Rhizoctonia join together
+proper drainage to prevent
+spp forming dead
+water logging
+tissue areas
+ Crop rotation program of 1 to
+A whitish mold
+5 seasons
+forms on stems
+ After dehaulming, wait for
+two to three weeks for tuber
+skin to harden; harvest the
+tubers immediately after two
+weeks to keep off tuber
+infection
+60 | Pa g e
+
+--- Page 61 ---
+Local: In storage, the Use healthy, certified seed for
+spots/lesions planting.
+English:
+develop on the
+Fusarium Crop rotation of 1 to 7 seasons to
+skin as small
+Dry rot eliminate the disease from the soil.
+brown areas which
+are dry and
+Dehaulm the crop to ensure good
+spongy.
+skin development and ensure
+minimal bruising to the tubers
+when harvesting or grading.
+Promote wound healing after
+harvesting and transport to store
+by providing adequate ventilation
+and maintaining temperatures of
+15 to 20 °C with relative humidity
+of 90 to 95 % for 14 to 21 days.
+Field and store sanitation: clean
+and disinfect all tools and
+equipment for handling potato
+tubers.
+61 | Pa g e
+
+--- Page 62 ---
+3.2.2 Bacterial diseases
+Physical symptoms of a disease Name of the Symptom Management
+Disease
+Local: Plants begin to wilt,  Selecting land that is free of
+starting from the bacterial wilt for potato
+English:
+tips of the leaves or production and planting
+Bacterial wilt
+where the stems potatoes in soils free from
+branch out, and bacterial wilt.
+Scientific:
+spreads to all parts
+Ralstonia
+of the plant even  Using healthy or certified seed
+solanacearum
+when soil moisture that is not infected with
+is sufficient bacterial wilt.
+ Rotating potato crops with
+other non-solanaceous crops.
+Good practice is to rotate
+potatoes with corn or sweet
+potato or leaving the land
+fallow. In fields with serious
+infections, it is best to plant
+non-host plants for more than
+2 years, as agents of bacterial
+wilt cannot survive in the
+ground without host for that
+amount of time.
+ Rogueing of all diseased plants
+with mother tuber and any
+newly-formed tubers. Also
+remove the soil of the hill of
+the infected plant.
+ Removing infected plant debris
+and tubers and burying them in
+a deep pit. Clearing weeds away
+before planting, timely weeding
+during plant growth and at
+harvesting time.
+ Using composted organic
+fertilizer not infected with
+bacterial wilt. Always take
+manure samples for testing
+before application.
+62 | Pa g e
+
+--- Page 63 ---
+ Using healthy seed not
+Local: Plants begin to turn
+contaminated with the disease
+yellow while other
+or certified seed.
+English:
+plants are healthy.
+ Crop rotation program of 1 to
+Blackleg or
+Black spots which
+7 seasons because the
+soft rot
+are soft and slimy
+bacterium persists in the soil
+develop on the
+Scientific: for long.
+stem in the field.
+Erwinia spp  Avoid planting in wet or
+flooded fields. Improving
+drainage systems to allow water
+to flow in and out of the field
+more easily.
+ Destroying sources of the
+disease, particularly infected
+plants by burying in a pit which
+is 6 feet deep or burning.
+ Avoiding damage to tubers
+when weeding, hilling up, at
+harvesting and during
+transporting harvested
+produce. In addition, chitting
+of seed tubers should be done
+to develop strong sprouts that
+will not break off during
+handling and planting. Break
+off points become entry points
+for the bacteria.
+ Harvesting in dry weather
+conditions. Drying of tubers or
+exposing the tubers to warm
+dry conditions may prevent
+further rotting of the tuber
+through formation of wound
+periderm forming bacterial
+hard/pit rots.
+ Sanitation of the field for the
+whole season, the store and all
+equipment for handling seed
+tubers such as trays, machinery
+and tools.
+63 | Pa g e
+
+--- Page 64 ---
+Local: Common scab  Avoid planting in fields with
+affects potato intense practice of liming.
+English: Potato
+tubers. Damaged
+Common scab tubers have rough,  Use certified and healthy seed.
+cracked skins, with
+Scientific:
+scab-like spots.  Apply irrigation at time of
+Streptomyces spp
+Severe infections tuber set (initiation).
+leave potato skins
+ Rotate potatoes with other
+covered with rough
+non-host crops, such as
+black welts.
+cabbage
+Local: The leaves turn  Use of healthy, certified seed.
+pale yellow and
+English: lower leaves start  Observe field sanitation. All
+Bacterial ring
+mottling. The leaf infected plant remains should
+rot
+margins roll be burned or buried in a 6 feet
+upwards and cull deep pit.
+Scientific:
+inwards. Eventually
+Clavibactermi
+the tissues die  Crop rotation with non-
+chiganensis
+forming necrotic solanaceous crops such as
+areas. When the maize, cabbage, fodder grasses
+tuber is cut across, or leaving the land fallow.
+necrotic areas are
+ Clean and disinfect tools,
+seen along the
+machinery, handling
+vascular tissues
+containers, walls of storage
+areas with sodium
+hypochlorite.
+64 | Pa g e
+
+--- Page 65 ---
+3.2.3 Viral Diseases
+Physical symptoms of a disease Name of the Symptom Management
+Disease
+English: Leaves curl,  Use of certified seed for
+Potato leaf tighten and turn planting
+roll virus pale green. If you  Rogueing diseased plants (and
+Scientific: press them they
+removing any newly formed
+Myzuspersicae feel brittle and
+tubers of those plants) starting
+fragile. In
+as early as symptoms are visible.
+advanced
+ Monitoring traps. Place 6 yellow
+infections, plants
+water traps per acre for
+become stunted
+monitoring the aphid
+while leaves and
+populations.
+stems stand
+ Use of registered insecticides at
+upright/erect
+the recommended rates to kill
+virus vectors (mainly aphids)
+English: Leaf surfaces  Use of healthy, certified seed.
+Potato virus become uneven  Rogueing of diseased plants
+Y and brittle, leaves
+during active growth as well as
+shrink and their
+removing any newly formed
+ribs turn yellow.
+tubers of those plants.
+In mild
+infections, plants
+often show no
+signs of disease at
+all. PVY is
+mostly
+transmitted by
+aphids which act
+as vectors in
+spreading the
+disease from one
+field to another
+65 | Pa g e
+
+--- Page 66 ---
+English: Patterns of light  Use of certified or healthy seed
+Potato virus and dark green
+ Do not cut seed potatoes
+X on leaflets with
+the lighter small
+:  Rogueing of diseased plants and
+irregular blotches
+removing any newly formed
+being between
+tubers of those plants
+the veins may be
+seen on leaves.  Field and store hygiene and
+Mosaic design on sanitation
+leaves with
+ Restricted movements in fields
+advanced
+suspected to have infection
+infections leading
+to streaks and
+ Clean and disinfect machinery
+leaf mottling
+and clothing before entering
+seed crop
+English: Potato virus S  Use of healthy, certified seed
+Potato virus (PVS) induces no
+ Do not cut seed potatoes
+S conspicuous
+symptoms in
+ rogueing of diseased plants (in
+many potato
+case symptoms are visible) and
+cultivars.
+removing any newly formed
+However,
+tubers of those plants
+symptoms like
+rugosity of leaf  Field and store hygiene should
+surfaces occur in be observed
+susceptible
+ Restricted movement from
+cultivars.
+infected to uninfected fields
+66 | Pa g e
+
+--- Page 67 ---
+English: Mild mottling of  Use of healthy, certified seed
+Potato virus leaves but the
+ Rogueing of diseased plants and
+A mottling appears
+any newly formed tubers of
+on veins with the
+those plants
+leaves looking
+shiny
+ Early harvesting of seed crop
+ Application of mineral oils to
+prevent virus transmission by
+aphids.
+3.3 Integrated Pests management
+The key pests of potatoes in Kenya include potato aphids,
+cutworms, potato tuber moth and nematodes.
+Scouting and monitoring
+Daily farm visits is
+In case after scouting the pests were identified use the following
+necessary to help access
+pest levels and identify the tips to develop the integrated pest management practices that
+most critical period for
+includes nutrition, crop rotation, use of traps, moisture
+intervention.
+conservation and nutrients supply
+67 | Pa g e
+
+--- Page 68 ---
+Physical symptoms of a pest Name of The Symptom Management
+Pest
+Local:Ume Are pear shaped  Use of healthy, certified
+insects with soft bodies seed
+English:
+barely 2mm long? They
+Aphids
+ Deploy predators such as
+are sucking pests as
+ladybird, lace wigs and
+they pierce the plant
+fall midge
+tissues and suck the
+cell sap, infecting the
+ Spray with recommended
+plant with viruses at
+pest control products as
+the same time
+soon as pest is spotted
+alternated with systemic
+insecticides
+English: Potato Potato tuber moths  After harvesting, sort out
+Tuber moth affect both tubers and the tubers that are already
+foliage. Larvae eat their damaged and discard by
+Scientific:
+way inside tubers either burning or burying in a
+Phthorimaeaoperc
+in the field or in the deep pit.
+ulella
+store. However, severe
+ Using healthy seed
+infestation generally
+tubers– Affected tubers
+occurs in storage
+with eggs, larvae or pupae
+still inside them can
+become the source of
+infestation in the
+following crop
+ Crop rotation with non-
+host (non-solanaceaous)
+plants
+ Planting at recommended
+depth (20-25cm deep)
+68 | Pa g e
+
+--- Page 69 ---
+ Proper ‘earthing’ up or
+hilling to cover the tubers
+to prevent them from
+being infested through
+adults laying eggs in the
+tubers
+ Maintenance of soil
+moisture at field capacity
+at harvesting
+ Farm and store hygiene
+should be observed
+ Application of plants rich
+in essential oils such as
+Eucalyptus or
+Lantanacamara leaves
+which will repel the pest
+ Rogueing volunteer
+plants during early
+growth stage in the seed
+crop and around.
+ Harvesting as soon as
+dehaulming is done to
+reduce chances of
+infestation
+ Using sex pheromones –
+sex pheromones are
+useful for monitoring
+population development
+of the moths as early
+indicator. Cutting the
+69 | Pa g e
+
+--- Page 70 ---
+foliage at 80 days after
+planting can prevent
+larvae on the foliage from
+moving into the tubers.
+ Use of pyrethroid
+insecticides to destroy the
+pest
+Local:kigunyu During dry spells the  Scouting the seed crop to
+gia tirini caterpillars cut the check for foliage damage
+emerging shoots at or or dead stems
+English:
+under the ground level.
+Cutworms
+ Early weeding of seed
+Foliage with holes is a
+crop and rogueing of
+characteristic symptom
+Scientific:
+volunteer plants
+of the caterpillar larvae
+Agrotisipsilon
+feeding on them.
+ Planting at recommended
+depth to avoid exposed
+tubers
+ Hilling and earthing up to
+cover exposed tubers
+ Chemical control by
+spraying with contact or
+systemic insecticides at
+the recommended rates
+on product labels
+70 | Pa g e
+
+--- Page 71 ---
+English: Potato Potato cyst nematodes  Crop rotation
+cyst do not cause
+ Resistant varieties
+nematodes immediate above-
+ground symptoms.
+ Bio-fumigation
+First symptom is poor
+growth of plants in one
+or more spots in the
+field. These spots
+enlarge each year that
+potatoes are planted in
+the same field, since
+cysts remain in the soil
+for a long time.
+SESSION 4: SAFE AND EFFECTIVE USE OF PESTICIDES (2 hours)
+Start by advising the farmers that most pesticides will have an adverse effect if they enter the body.
+Ask a question on the route in which the chemical enter in the body
+Using a flip chart list them as they mention
+Mention main routes of absorption are through the respiratory tract (inhalation), through the
+skin (dermal absorption) and through the digestive tract (ingestion).
+Personal Protective Equipment (PPEs)
+Respirators and face shields that protect nose, mouth and eyes, hand gloves, gum boots, overall/
+aprons
+71 | Pa g e
+
+--- Page 72 ---
+Figure 26 Design of a plan on safe use of pesticides
+72 | Pa g e
+
+--- Page 73 ---
+MODULE 5: HARVESTING, HANDLING, STORAGE AND
+MARKETING OF WARE POTATO AT FARM LEVEL (6 hours 15
+minutes)
+5.1 INTRODUCTION (15 minutes)
+ Untimely lifting , poor handling and poor storage of potato tubers leads to infestation
+with potato tuber moth or infection with disease causing pathogens and tuber damage
+ Potatoes are bulky and highly perishable (easily deteriorate in quality), if not handled
+properly after harvesting leading to between 20-45 per cent post harvest losses.
+ If adequate plans have not been made for preservation, farmers will dispose-off what
+they produce immediately after harvesting reducing incomes and affecting future
+production plans.
+a) Problem statement
+ Potatoes are bulky and highly perishable post harvest loses of between 20-45 per cent.
+ Farmers sell immediately after crop is mature reduced incomes
+ Marketing costs for individual farmers entering the market cannot be covered by extra
+income from selling at market
+Market middle men and women dictate the prices of potatoes as a group. Farmers are
+disadvantaged and have no bargaining power. Furthermore farmers don’t like being involved in
+marketing but sell immediately after harvesting since they are unable to store for longer periods
+fearing that when everyone harvests the price will drop
+b) Learning outcomes
+This session aims at providing knowledge and skills in harvesting quality ware potato. By the end
+of the session the farmers should be able to
+1. Harvest potato tubers ensuring minimal damage
+2. Package ,transport , sort, grade and store ware potato
+3. Review marketing plan prepared earlier
+c) Materaials and resources needed
+ Hoe/fork jembes, Sacks
+ Samples different sizes of ware potato
+ Flip charts and felt pens
+73 | Pa g e
+
+--- Page 74 ---
+d) Module duration
+The session should take at least 6 hours
+e) Methods of presentation
+Demonstration, discussion, question and answers
+5.2 FACILITATORS GUIDE ON SAFE USE OF PESTICIDES
+SESSION 1 HARVESTING (2 hours)
+Topic 1:review
+Welcome the farmers to the topic of the day and asks them what are their expectations
+The outcomes of this session is to ensure farmers have knowledge in
+ Harvest potato tubers ensuring minimal damage
+ Transport , sort and grade and store ware potato
+Topic2: Removal of upper part of potato crop in the field
+1. slashing
+Lead a demonstration on,how, why and when the potato tuber is prepared for harvesting
+What is done, how, and why and when
+Inquire how they prepare potato tuber plants harvesting
+Discuss that in order to harden the tuber skin, there is need to break the stem of the plant above
+the ground in order to stop growth. This allows the crop to die back naturally. Harvesting later
+after the plants have dried. When the stem is cut the skins of the tubers harden. The hardened
+skins protect the tuber from germs and damage during harvesting. The process of hardening
+involves
+ Two weeks before harvesting -slashing the part of the plant above the ground level
+ After slashing the plants, leave the potatoes tubers in the ground for two weeks.
+74 | Pa g e
+
+--- Page 75 ---
+2. Dehaulming
+Dehaulming is the use of hand tools or uprooting the entire stems at the ground by pressing
+around the plant and pulling the stems with the other hand. Alternatively, the foliage is cut at soil
+level and removed out of the field. After dehaulming the
+tubers are left in the ground for 2 weeks to harden the skin
+before harvesting. When the field is large spraying with non-
+selective herbicides (for example Paraquat) is done to kill the
+foliage and the tubers are left in the soil for 2 - 3 weeks for the
+skin to harden.
+Figure 27: Dehaulmed potato field
+Topic 3: Harvesting and collection of the ware tubers
+Lead the farmers in understanding the process of harvesting the potato tuber. The facilitator asks the farmers on
+how they lift the potato tubers when harvesting
+Figure 29 Harvesting by lifting
+Figure 28 Harvesting by machinery
+Discuss and present the steps in harvesting as
+q) Hand pulling or lift the tubers 1-2 weeks after slashing off the shoot
+r) Leaving them on the ground for 3hours for the soil on the tubers to fall off. This soil could spread diseases
+or pests in the stores later
+s) Using sticks or jembes expose /dig out any tuber that could be stuck in the ground along the ridges
+t) A mechanized harvester can also be used.
+Lead a discussion that harvesting is best when
+u) The plants have reached maturity
+v) Soil is dry since the potatoes remain
+clean
+w) There are clouds to reduce exposure
+to direct sunlight for too long
+The skins have hardened
+75 | Pa g e
+
+--- Page 76 ---
+Figure 30: Harvesting potatoes using hand tools
+SESSION 2. POST HARVEST HANDLING(2 hours)
+Guide the farmers in carrying out the process of packaging,transport, sorting, grading of ware potato
+1.Packaging and transporting
+If the potato farm is far from the store or homestead, there will be need for packaging and
+transport from the field.
+ Package seeds in bags of not than 50 kgs making sure they are not bruised and are easy to
+carryPackaging seed potato in 50 kgs bags
+ Transport in available facilities to the store
+Ask the potato farmers whether they do sorting and grading their tuber seeds before storage. The facilitator allows
+them to discuss on how they do it
+Ask the potato farmers whether they do sorting and grading their ware potato before storage. The facilitator allows
+them to discuss on how they do it
+2.Present the process of sorting and grading as
+Preparing storage for ware potato as sorting and grading commence.
+Sorting is done by separating damaged and undamaged tubers and classifying them according to
+sizes.
+Figure 31 Sorting ware potato
+The separation helps in ware potato marketing
+The poor quality tubers (rotting, rotten, and those damaged by pests) should be moved far away
+from the storage room and burn them
+Ask the farmers how sorting and grading assists them in marketing their ware potato
+76 | Pa g e
+
+--- Page 77 ---
+Topic 2 .Store preparation and storing
+Facilitate the farmers understand storage and management of ware potato
+Ask the potato farmers to explain how they store their ware potato and what challenges they face when storing?
+Figure 32 Placing potatoes on shelves
+Ask them “how can we store the ware potato in such a way we minimize the challenges mentioned?
+Pick one challenge at a time and discuss how to address it in storage
+Present a discussion on storage conditions
+Present that good storage conditions should be cool and dry so as to
+ Reduce deterioration through natural process of starch breakdown
+ Reduce storage pest infestation and damage
+ Reduce storage loses through rotting
+Lead a discussion on good storage methods
+Figure 33 Ware potato under storage
+Good storage
+ Fumigate the stores with insecticide to kill tuber moth pest
+ Transfer and place seeds from crates into shelves
+ Spread on shelves in a well ventilated room and turn ounce in a day
+Storage and distribution
+77 | Pa g e
+
+--- Page 78 ---
+ Where more than one variety or seed sizes are stored, it is important to mark individual
+bags or crates for ease of tracking.
+ Details of storage need also to be recorded in the office on when the seed entered the
+store, variety, seed size, unit of weight, number of bags and any remarks.
+Inform the farmers such information is important when seed is moving out of store to the purchasers as well as for
+other purposes like computation of profitability.
+Topic 6. Review of Session
+ What shall be the key thing you have learned in today session?
+ did you see the importance of market assessment?
+ What else do you want covered ?
+SESSION 3 MARKETING AT GROUP LEVEL (2 hours)
+Session Outcomes
+This session aims at assisting farmers make decisions of when and where to sell their produce.
+By the end of session the farmer should be able to
+a) Become a good potato business entrepreneur
+b) Manage of ware potato after harvesting at farm and group levels
+c) Prepare and execute a group marketing plan
+Topic 1. Climate setting
+Welcome the farmers to the topic and of the day and asks them what are their expectations
+The outcomes of this handling and marketing session of quality ware potato topic are to
+enable the farmers
+ Become a good potato business entrepreneur
+ Improve management of ware potato after harvesting
+ Prepare and execute a group marketing plan
+78 | Pa g e
+
+--- Page 79 ---
+Topic 2.Decision making on when and where to sell ware potato
+Ask the farmers whether they have developed a marketing plan for the group. If they have let one of them
+present it on flip chart or assist them do so
+Allow discussions on the marketing plan. Key points to be emphasized are that the farmers should sell the
+potato when prices are high in the market
+Figure 35 Transport and
+Figure 34 Display for retail
+packaging
+Topic 3.How to become a successful potato business entrepreneur
+Lead the potato farmers on a discussion on how to become a successful potato business entrepreneur. This is
+through the following discussions
+To become a successful potato entrepreneur one need to
+ Plan for production –business planning
+ Keep necessary records for calculating returns
+ Record money out and money in and use this to calculate returns and make decisions
+ Record man days spent on each potato activity
+ Plan expenditure and income from sales
+ Money spent on labour
+ Plan house hold expenditure in terms of farm activities , children education and health for the entire
+year
+ Start or enhance your savings habits from the income from potatoes
+ Pay debts and dues immediately after sale of produce
+As a reminder on potato value chain ask the following questions
+ What have you learned?
+ What will you change in your potato farming next season?
+ After this training what will you do to become a potato business entrepreneur in
+practice?
+ What do you need to succeed and do good potato business?
+79 | Pa g e
+
+--- Page 80 ---
+Topic 4. Marketing plans
+Ask the farmers referring to the action plans prepared after a market assessment
+When is the right time to sell your ware potatoes?
+These can be done when
+ Prices are high
+ When there are not too many potato in the market
+Brainstorm and come up with
+ Description of the target market for the potatoes
+ Customer profile
+ Competitor profile. Who are the other competitors that I have to be aware of?
+For the farmers to get the best price for their potato, advise them to
+ Organize the selling as a farmer group
+ Have contracts with potato buyers and sell as a gro
+Topic 5.Review of the days learning
+Lead the farmers in reviewing the key learning point about this session by asking
+ What new things did you learn from this session?
+ What are some of the problem and issues that you have become more aware of
+infield management?
+ What questions do you still have about today’s topic?
+Thank you for joining us in this session
+80 | Pa g e
+
+--- Page 81 ---
+REFERENCES
+ Boersig Mic et al (1988) Hydroponic System For Production Of Seed Tubers, American PotatoJournals
+65
+ Gildemacher, P.R., Paul, D., Baker, I. Kaguongo, W., Woldegiorgis, G., Wagoire, W.W.,
+Wakahiu, M., Leeuwis, C. &Struik, P. C., (2009).A description of seed potato systems in Kenya,
+Uganda and Ethiopia. Potato Research 86: 373- 382.
+ GIZ (2017) TOT Training Manual for Good Agricultural Practices, Facilitation and Business Skills in
+Potato Production, Master Trainers Manual Nairobi Kenya
+ GIZ (2017). TOT Manual for Good Agricultural Practices, Facilitation And Business Skills In Potato
+Production, Participants Hand Outs Nairobi Kenya
+ GOK (2015). Draft Root and Tuber Crops Policy, Ministry of Agriculture, Livestock and Fisheries
+Nairobi Kenya.
+ GOK (2012) Seeds and Plant Variety Act, CAP 326 of 2012, Nairobi, Kenya.
+ GOK (2018) Draft Seed Potato Value Chain Action Plan 2019-2021
+ KEPHIS (2016) Seed Potato Production and Certification Guidelines Nairobi Kenya
+ Lung’aho C., B. Lemaga, M. Nyongesa, P. Gilemacher, P. Kinyae, P. Demo and J. Kabira,
+(2007).Commercial seed potato production in eastern and central Africa, Nairobi, Kenya.
+ Machangi, J. M, (2013). Brief on the Potato Subsector in Kenya.State Department of Agriculture, Crops
+Directorate.Kilimo house, Nairobi, Kenya.
+ Mbiri D., E. Schulte-Geldermann, V. Otazu, R. Kakuhenzire, P. Demo & S. Schulz
+(2015).An Alternative Technology for Pre Basic Seed Potato Production –Sand Hydroponics (CIP)
+ Muthoni J, Mbiyu M, Kabira JN (2011). Up-Scaling Production Of Certifiedpotato Seed Tubers In
+Kenya: Potential Of Aeroponics Technology. J.Hortic. For., 3:238-243African Journal of
+Agricultural Research. 13. 366-378
+ Muthoni, J., Mbiyu, M., C.Lung’aho.,S.Otieno., and P. Pwaipwai. (2017). Performance of two
+potato cultivars derived from In vitro plant lets, mini-tubers and stem cuttings using Aeroponics Technique.
+International Journal of Horticulture, 7: 246-49
+ NPCK (2017) Potato Variety Catalogue 2017 Eagle Creations Nairobi Kenya
+ NCPK (2018) Farmer Trainers Guide for Potato Value Chain Targeting Women and the Youth
+ NPCK (2015) A Guide To Potato Production in Kenya
+ NPCK (2018) Potato Production Handbook, a Guide for Farmers and Trainers
+ Otazu.V(2010) Manual on Quality Seed Production Using AeroponicsCIP Peru Chile.
+81 | Pa g e
+
+--- Page 82 ---
+ Oyoo J, Hennessy, M. and Phelan S., (2016).Diseases and Physiological Disorders of Potatoes in
+Ireland.A Potato Factsheet.Teagasc.www.teagasc.ie.
+ Ritter, E., B. Angulo, P. Riga, C. Herran, J. Relloso and M. San Jose, 2001. Comparison of
+hydroponic and aeroponic cultivation systems for the production of potato minitubers. Potato Res., 44: 127-
+135.
+ Singh, R. P., (1999). Development of the molecular methods for potato virus and viroid detection and
+prevention. Genome 42: 592 – 604.
+ Struik,P.C.andS.G.Wiersema,(1999). Seed Potato Technology, Wageningen Press, Wageningen.
+The Netherlands.
+ Valkonen, J. P. T., (2007). Viruses: Economical losses and biotechnological potential. In: Potato Biology
+and Biotechnology. Elsevier Academic Press. San Diego. CA. 619-641 pp
+ Wangai, A. &Lelgut, D., (2001).Status of potato viruses in Africa. In: Hughes, J. d’A. &Odu, B. O.
+(eds). Plant virology in sub-Saharan Africa (Proceedings of a conference organized by IITA, June
+4-8 2001, Ibadan, Nigeria). 458- 465 pp.
+ Wachira K, Nganga N, Muthoka N, Muthami F, Maingi G (2010) Seed Potato Subsector
+masterplan for Kenya 2009-2014. Seed potato sudy sponsored by GTZ-PSDA, USAID, CIPandGOK
+82 | Pa g e
