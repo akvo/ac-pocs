@@ -96,12 +96,13 @@ def _base_weather():
         "relative_humidity_pct": 60, "thi_value": 63,
         "wind_speed_kmh": 8, "wind_gust_kmh": 12,
         "cloud_cover_pct": 30, "qpf_today_mm": 0,
-        "cumulative_rain_72h_mm": 0, "cumulative_rain_7d_mm": 0,
-        "consecutive_dry_days": 3, "consecutive_wet_days": 0,
+        "cumulative_rain_24h_mm": 0, "cumulative_rain_72h_mm": 0, "cumulative_rain_7d_mm": 0,
+        "consecutive_dry_days": 3, "consecutive_wet_days": 0, "consecutive_dry_hours": 72,
         "hours_since_last_rain": 72, "soil_temp_estimate_c": 20,
         "rain_probability_today_pct": 10, "rain_probability_next_6h_pct": 5,
         "rain_probability_next_12h_pct": 10,
-        "is_daytime": True, "month": 7,
+        "is_daytime": True, "is_early_morning_or_late_evening": False,
+        "month": 7, "hour": 10,
     }
 
 def test_heat_stress_fires_at_thi_72():
