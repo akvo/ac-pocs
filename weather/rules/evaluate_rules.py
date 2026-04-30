@@ -52,7 +52,8 @@ def get_calendar_context(calendar: dict, month: int, variety: str = "Hass") -> d
     growth_stage = phenology.get(variety, "unknown")
 
     # All management actions due this month
-    mgmt = month_data.get("management", {})
+    # Bug 1 fix: dairy calendar uses "management_tasks" key, not "management"
+    mgmt = month_data.get("management") or month_data.get("management_tasks", {})
     management_due = []
     for activity, details in mgmt.items():
         if details.get("priority") in ("critical", "high"):
@@ -60,6 +61,7 @@ def get_calendar_context(calendar: dict, month: int, variety: str = "Hass") -> d
                 "activity": activity,
                 "priority": details["priority"],
                 "action": details["action"],
+                "scenarios": details.get("scenarios", {}),   # Bug 3 fix: thread scenarios through
             })
 
     return {
@@ -69,6 +71,7 @@ def get_calendar_context(calendar: dict, month: int, variety: str = "Hass") -> d
         "management_due": management_due,
         "disease_risk": month_data.get("disease_risk", {}),
         "pest_risk": month_data.get("pest_risk", {}),
+        "parasite_risk": month_data.get("parasite_risk", {}),  # Bug 2 fix: pass parasite_risk through
         "phenology_all": phenology,
     }
 
@@ -266,175 +269,153 @@ def generate_calendar_rules(calendar_ctx: dict, weather: dict) -> list[dict]:
             })
 
         elif activity == "vaccination":
+            scenarios = task.get("scenarios", {})
             if rain < 2:
+                s = scenarios.get("suitable", {})
                 rules.append({
                     "id": f"CAL-{activity.upper()}",
                     "category": "CALENDAR_MANAGEMENT",
-                    "name": "Calendar: Vaccination due — suitable conditions today",
+                    "name": f"Calendar: {s.get('name', 'Vaccination due')}",
                     "priority": priority,
-                    "risk": "none — dry conditions reduce post-injection site infection",
-                    "actions": [action, "Record all animals vaccinated with date and batch number"],
+                    "risk": s.get("risk", ""),
+                    "actions": [action] + s.get("extra_actions", []),
                     "source": "crop_calendar",
                 })
             else:
+                s = scenarios.get("blocked", {})
                 rules.append({
                     "id": f"CAL-{activity.upper()}-WAIT",
                     "category": "CALENDAR_MANAGEMENT",
-                    "name": "Calendar: Vaccination due — wait for dry day",
+                    "name": f"Calendar: {s.get('name', 'Vaccination due — wait for dry day')}",
                     "priority": "informational",
-                    "risk": "Wet conditions increase post-injection infection risk",
-                    "actions": [action, "Wait for dry conditions before vaccinating"],
+                    "risk": s.get("risk", ""),
+                    "actions": [action] + s.get("extra_actions", []),
                     "source": "crop_calendar",
                 })
 
         elif activity == "deworming":
+            s = task.get("scenarios", {}).get("always", {})
             rules.append({
                 "id": f"CAL-{activity.upper()}",
                 "category": "CALENDAR_MANAGEMENT",
-                "name": "Calendar: Strategic deworming due this month",
+                "name": f"Calendar: {s.get('name', 'Strategic deworming due')}",
                 "priority": priority,
-                "risk": "Internal parasites peak after rains — treat before worm load builds",
-                "actions": [
-                    action,
-                    "Weigh animals first — dose by bodyweight, not estimate",
-                    "Record product name, dose, and animals treated",
-                ],
+                "risk": s.get("risk", ""),
+                "actions": [action] + s.get("extra_actions", []),
                 "source": "crop_calendar",
             })
 
         elif activity == "acaricide_spraying":
             wind = weather.get("wind_speed_kmh", 0)
+            scenarios = task.get("scenarios", {})
             if rain < 2 and wind < 15:
+                s = scenarios.get("suitable", {})
                 rules.append({
                     "id": f"CAL-{activity.upper()}",
                     "category": "CALENDAR_MANAGEMENT",
-                    "name": "Calendar: Acaricide treatment due — good window today",
+                    "name": f"Calendar: {s.get('name', 'Acaricide treatment due')}",
                     "priority": priority,
-                    "risk": "none — dry, calm conditions for acaricide application",
-                    "actions": [
-                        action,
-                        "Ensure full body coverage including ears, tail base, and udder",
-                        "Rotate acaricide class every 3 months to prevent tick resistance",
-                    ],
+                    "risk": s.get("risk", ""),
+                    "actions": [action] + s.get("extra_actions", []),
                     "source": "crop_calendar",
                 })
             else:
+                s = scenarios.get("blocked", {})
                 rules.append({
                     "id": f"CAL-{activity.upper()}-WAIT",
                     "category": "CALENDAR_MANAGEMENT",
-                    "name": "Calendar: Acaricide treatment due — wait for dry, calm day",
+                    "name": f"Calendar: {s.get('name', 'Acaricide treatment due — wait for dry, calm day')}",
                     "priority": "informational",
-                    "risk": "Rain washes off acaricide; wind causes drift and missed coverage",
-                    "actions": [action, f"Today: {rain}mm rain, {wind}km/h wind — delay until conditions improve"],
+                    "risk": s.get("risk", ""),
+                    "actions": [action] + s.get("extra_actions", []),
                     "source": "crop_calendar",
                 })
 
         elif activity == "breeding_ai":
             thi = weather.get("thi_value", 65)
+            scenarios = task.get("scenarios", {})
             if thi >= 78:
+                s = scenarios.get("heat_warning", {})
                 rules.append({
                     "id": f"CAL-{activity.upper()}-HEAT",
                     "category": "CALENDAR_MANAGEMENT",
-                    "name": "Calendar: AI breeding window — heat stress reducing conception risk",
+                    "name": f"Calendar: {s.get('name', 'AI window — heat stress warning')}",
                     "priority": "high",
-                    "risk": f"THI {thi} (≥78) — conception rates drop 20–30% under severe heat stress",
-                    "actions": [
-                        action,
-                        "If possible, schedule AI for early morning when THI is lowest",
-                        "Ensure shade and cool water to reduce cow stress before insemination",
-                    ],
+                    "risk": s.get("risk", ""),
+                    "actions": [action] + s.get("extra_actions", []),
                     "source": "crop_calendar",
                 })
             else:
+                s = scenarios.get("suitable", {})
                 rules.append({
                     "id": f"CAL-{activity.upper()}",
                     "category": "CALENDAR_MANAGEMENT",
-                    "name": "Calendar: AI breeding window — conditions suitable",
+                    "name": f"Calendar: {s.get('name', 'AI window — conditions suitable')}",
                     "priority": priority,
-                    "risk": "none — THI within acceptable range for AI",
-                    "actions": [
-                        action,
-                        "Check for standing heat 2–3 times daily (morning, midday, evening)",
-                        "Inseminate 12–18 hours after standing heat is first observed",
-                    ],
+                    "risk": s.get("risk", ""),
+                    "actions": [action] + s.get("extra_actions", []),
                     "source": "crop_calendar",
                 })
 
         elif activity == "drying_off":
+            s = task.get("scenarios", {}).get("always", {})
             rules.append({
                 "id": f"CAL-{activity.upper()}",
                 "category": "CALENDAR_MANAGEMENT",
-                "name": "Calendar: Dry-off period — cows due for drying off this month",
+                "name": f"Calendar: {s.get('name', 'Dry-off period')}",
                 "priority": priority,
-                "risk": "Inadequate dry period reduces next lactation yield and raises mastitis risk",
-                "actions": [
-                    action,
-                    "Infuse dry cow therapy (DCT) antibiotic tubes at dry-off",
-                    "Check udder daily for first 2 weeks after dry-off for mastitis signs",
-                    "Reduce feed to low-energy ration to support milk let-down cessation",
-                ],
+                "risk": s.get("risk", ""),
+                "actions": [action] + s.get("extra_actions", []),
                 "source": "crop_calendar",
             })
 
         elif activity == "housing_maintenance":
+            scenarios = task.get("scenarios", {})
             if rain > 0:
+                s = scenarios.get("urgent", {})
                 rules.append({
                     "id": f"CAL-{activity.upper()}-URGENT",
                     "category": "CALENDAR_MANAGEMENT",
-                    "name": "Calendar: Housing maintenance — wet conditions increase urgency",
+                    "name": f"Calendar: {s.get('name', 'Housing maintenance — urgent')}",
                     "priority": "high",
-                    "risk": "Wet, dirty housing is the leading driver of mastitis and respiratory disease in dairy",
-                    "actions": [
-                        action,
-                        "Fix drainage channels before rains continue — standing water must not pool in stalls",
-                        "Add dry bedding (sawdust or dry grass) over wet floor",
-                        "Check roof for leaks and repair",
-                    ],
+                    "risk": s.get("risk", ""),
+                    "actions": [action] + s.get("extra_actions", []),
                     "source": "crop_calendar",
                 })
             else:
+                s = scenarios.get("routine", {})
                 rules.append({
                     "id": f"CAL-{activity.upper()}",
                     "category": "CALENDAR_MANAGEMENT",
-                    "name": "Calendar: Housing maintenance — schedule now before rains",
+                    "name": f"Calendar: {s.get('name', 'Housing maintenance — schedule now')}",
                     "priority": priority,
-                    "risk": "none — proactive maintenance while conditions are dry",
-                    "actions": [
-                        action,
-                        "Check and clear drainage channels",
-                        "Inspect roof, repair before short rains begin",
-                        "Top up bedding depth to 10–15cm",
-                    ],
+                    "risk": s.get("risk", ""),
+                    "actions": [action] + s.get("extra_actions", []),
                     "source": "crop_calendar",
                 })
 
         elif activity == "forage_planting":
+            scenarios = task.get("scenarios", {})
             if rain > 2:
+                s = scenarios.get("suitable", {})
                 rules.append({
                     "id": f"CAL-{activity.upper()}",
                     "category": "CALENDAR_MANAGEMENT",
-                    "name": "Calendar: Forage planting window — rain providing good establishment",
+                    "name": f"Calendar: {s.get('name', 'Forage planting window')}",
                     "priority": priority,
-                    "risk": "none — rain-assisted planting conditions",
-                    "actions": [
-                        action,
-                        "Plant Napier grass cuttings or seed Boma Rhodes/Brachiaria while soil is moist",
-                        "Apply basal fertiliser (DSP) at planting into moist soil",
-                    ],
+                    "risk": s.get("risk", ""),
+                    "actions": [action] + s.get("extra_actions", []),
                     "source": "crop_calendar",
                 })
             else:
+                s = scenarios.get("blocked", {})
                 rules.append({
                     "id": f"CAL-{activity.upper()}-WAIT",
                     "category": "CALENDAR_MANAGEMENT",
-                    "name": "Calendar: Forage planting window — prepare land, plant on first rain",
+                    "name": f"Calendar: {s.get('name', 'Forage planting — prepare now')}",
                     "priority": "informational",
-                    "risk": "Planting into dry soil causes poor germination and establishment failure",
-                    "actions": [
-                        action,
-                        "Prepare land and source planting material now",
-                        "Plant within 3 days of first significant rain (>5mm)",
-                    ],
+                    "risk": s.get("risk", ""),
+                    "actions": [action] + s.get("extra_actions", []),
                     "source": "crop_calendar",
                 })
 

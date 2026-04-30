@@ -32,15 +32,60 @@
       "management_tasks": {
         "housing_maintenance": {
           "priority": "critical",
-          "action": "Repair and clean housing during dry season — fix leaking roofs, broken drainage, and rotting floors before the long rains arrive. Ensure bedding is dry to prevent mastitis."
+          "action": "Repair and clean housing during dry season — fix leaking roofs, broken drainage, and rotting floors before the long rains arrive. Ensure bedding is dry to prevent mastitis.",
+          "scenarios": {
+            "urgent": {
+              "name": "Housing maintenance — wet conditions increase urgency",
+              "risk": "Wet, dirty housing is the main cause of mastitis and respiratory disease in dairy cattle",
+              "extra_actions": [
+                "Fix drainage channels before rains continue — standing water must not pool in stalls",
+                "Add dry bedding (sawdust or dry grass) over wet floor",
+                "Check roof for leaks and repair immediately"
+              ]
+            },
+            "routine": {
+              "name": "Housing maintenance — schedule now before rains",
+              "extra_actions": [
+                "Check and clear all drainage channels",
+                "Inspect roof and repair before next rains",
+                "Top up bedding depth to 10–15 cm"
+              ]
+            }
+          }
         },
         "vaccination": {
           "priority": "high",
-          "action": "Administer FMD booster vaccination (first of two annual doses). Record animals vaccinated and due dates for the September dose."
+          "action": "Administer FMD booster vaccination (first of two annual doses). Record animals vaccinated and due dates for the September dose.",
+          "scenarios": {
+            "suitable": {
+              "name": "Vaccination due — dry conditions, good to proceed",
+              "extra_actions": [
+                "Record all animals vaccinated with date, batch number, and next due date"
+              ]
+            },
+            "blocked": {
+              "name": "Vaccination due — wait for a dry day",
+              "risk": "Wet conditions increase the risk of infection at the injection site",
+              "extra_actions": [
+                "Wait for dry conditions before vaccinating",
+                "Record the postponement and reschedule within the same week"
+              ]
+            }
+          }
         },
         "deworming": {
           "priority": "high",
-          "action": "Strategic deworming at start of short dry season. Use broad-spectrum anthelmintic (e.g. albendazole or ivermectin). Rotate drug class annually to reduce resistance."
+          "action": "Strategic deworming at start of short dry season. Use broad-spectrum anthelmintic (e.g. albendazole or ivermectin). Rotate drug class annually to reduce resistance.",
+          "scenarios": {
+            "always": {
+              "name": "Strategic deworming due this month",
+              "risk": "Internal parasites peak after rains — treat now before worm burden builds",
+              "extra_actions": [
+                "Weigh animals first — dose by bodyweight, not estimate",
+                "Record product name, dose, and all animals treated"
+              ]
+            }
+          }
         },
         "supplementary_feeding": {
           "priority": "high",
@@ -48,7 +93,24 @@
         },
         "acaricide_spraying": {
           "priority": "medium",
-          "action": "Fortnightly tick control programme during the dry season. Rotate acaricide class (e.g. amidine, synthetic pyrethroid) to manage resistance."
+          "action": "Fortnightly tick control programme during the dry season. Rotate acaricide class (e.g. amidine, synthetic pyrethroid) to manage resistance.",
+          "scenarios": {
+            "suitable": {
+              "name": "Acaricide treatment due — good conditions to spray today",
+              "extra_actions": [
+                "Ensure full body coverage — ears, tail base, udder, and groin",
+                "Rotate acaricide type every 3 months to prevent tick resistance"
+              ]
+            },
+            "blocked": {
+              "name": "Acaricide treatment due — wait for dry, calm conditions",
+              "risk": "Rain washes acaricide off before it works; wind causes drift and missed coverage",
+              "extra_actions": [
+                "Wait for a dry morning with low wind before spraying",
+                "Hand-remove any engorged ticks from sensitive areas (teats, ears) as a temporary measure"
+              ]
+            }
+          }
         },
         "body_condition_scoring": {
           "priority": "medium",
@@ -82,11 +144,44 @@
         },
         "vaccination": {
           "priority": "high",
-          "action": "Administer Blackquarter (BQ) and Haemorrhagic Septicaemia (HS) annual vaccination. Conduct brucellosis check/certification — important for milk safety and herd certification programmes."
+          "action": "Administer Blackquarter (BQ) and Haemorrhagic Septicaemia (HS) annual vaccination. Conduct brucellosis check/certification — important for milk safety and herd certification programmes.",
+          "scenarios": {
+            "suitable": {
+              "name": "Vaccination due — dry conditions, good to proceed",
+              "extra_actions": [
+                "Record all animals vaccinated with date, batch number, and next due date"
+              ]
+            },
+            "blocked": {
+              "name": "Vaccination due — wait for a dry day",
+              "risk": "Wet conditions increase the risk of infection at the injection site",
+              "extra_actions": [
+                "Wait for dry conditions before vaccinating",
+                "Record the postponement and reschedule within the same week"
+              ]
+            }
+          }
         },
         "acaricide_spraying": {
           "priority": "medium",
-          "action": "Continue fortnightly tick control. Inspect udder and groin for tick burdens in pre-calving cows — high tick loads can cause stress during late pregnancy."
+          "action": "Continue fortnightly tick control. Inspect udder and groin for tick burdens in pre-calving cows — high tick loads can cause stress during late pregnancy.",
+          "scenarios": {
+            "suitable": {
+              "name": "Acaricide treatment due — good conditions to spray today",
+              "extra_actions": [
+                "Ensure full body coverage — ears, tail base, udder, and groin",
+                "Rotate acaricide type every 3 months to prevent tick resistance"
+              ]
+            },
+            "blocked": {
+              "name": "Acaricide treatment due — wait for dry, calm conditions",
+              "risk": "Rain washes acaricide off before it works; wind causes drift and missed coverage",
+              "extra_actions": [
+                "Wait for a dry morning with low wind before spraying",
+                "Hand-remove any engorged ticks from sensitive areas (teats, ears) as a temporary measure"
+              ]
+            }
+          }
         },
         "water_access": {
           "priority": "medium",
@@ -116,7 +211,24 @@
         },
         "acaricide_spraying": {
           "priority": "critical",
-          "action": "Switch to weekly acaricide spraying as long rains begin — tick activity surges with rising humidity and vegetation. Pay special attention to calves, which have lower tick immunity."
+          "action": "Switch to weekly acaricide spraying as long rains begin — tick activity surges with rising humidity and vegetation. Pay special attention to calves, which have lower tick immunity.",
+          "scenarios": {
+            "suitable": {
+              "name": "Acaricide treatment due — good conditions to spray today",
+              "extra_actions": [
+                "Ensure full body coverage — ears, tail base, udder, and groin",
+                "Rotate acaricide type every 3 months to prevent tick resistance"
+              ]
+            },
+            "blocked": {
+              "name": "Acaricide treatment due — wait for dry, calm conditions",
+              "risk": "Rain washes acaricide off before it works; wind causes drift and missed coverage",
+              "extra_actions": [
+                "Wait for a dry morning with low wind before spraying",
+                "Hand-remove any engorged ticks from sensitive areas (teats, ears) as a temporary measure"
+              ]
+            }
+          }
         },
         "mastitis_monitoring": {
           "priority": "high",
@@ -150,7 +262,24 @@
       "management_tasks": {
         "acaricide_spraying": {
           "priority": "critical",
-          "action": "Maintain weekly acaricide programme. April is peak tick season — failure to spray increases East Coast Fever (ECF), Anaplasmosis, and Babesiosis risk dramatically. Check calves daily for tick burdens, especially around the ears and groin."
+          "action": "Maintain weekly acaricide programme. April is peak tick season — failure to spray increases East Coast Fever (ECF), Anaplasmosis, and Babesiosis risk dramatically. Check calves daily for tick burdens, especially around the ears and groin.",
+          "scenarios": {
+            "suitable": {
+              "name": "Acaricide treatment due — good conditions to spray today",
+              "extra_actions": [
+                "Ensure full body coverage — ears, tail base, udder, and groin",
+                "Rotate acaricide type every 3 months to prevent tick resistance"
+              ]
+            },
+            "blocked": {
+              "name": "Acaricide treatment due — wait for dry, calm conditions",
+              "risk": "Rain washes acaricide off before it works; wind causes drift and missed coverage",
+              "extra_actions": [
+                "Wait for a dry morning with low wind before spraying",
+                "Hand-remove any engorged ticks from sensitive areas (teats, ears) as a temporary measure"
+              ]
+            }
+          }
         },
         "mastitis_monitoring": {
           "priority": "critical",
@@ -188,11 +317,38 @@
       "management_tasks": {
         "acaricide_spraying": {
           "priority": "critical",
-          "action": "Continue weekly acaricide spraying through end of long rains. As rains taper, tick populations peak before the dry-season decline — do not reduce frequency prematurely."
+          "action": "Continue weekly acaricide spraying through end of long rains. As rains taper, tick populations peak before the dry-season decline — do not reduce frequency prematurely.",
+          "scenarios": {
+            "suitable": {
+              "name": "Acaricide treatment due — good conditions to spray today",
+              "extra_actions": [
+                "Ensure full body coverage — ears, tail base, udder, and groin",
+                "Rotate acaricide type every 3 months to prevent tick resistance"
+              ]
+            },
+            "blocked": {
+              "name": "Acaricide treatment due — wait for dry, calm conditions",
+              "risk": "Rain washes acaricide off before it works; wind causes drift and missed coverage",
+              "extra_actions": [
+                "Wait for a dry morning with low wind before spraying",
+                "Hand-remove any engorged ticks from sensitive areas (teats, ears) as a temporary measure"
+              ]
+            }
+          }
         },
         "deworming": {
           "priority": "high",
-          "action": "Strategic post-long-rains deworming. Pasture larval burden peaks after wet season — treat all lactating cows, dry cows, and calves. Use anthelmintic class not used in January dose."
+          "action": "Strategic post-long-rains deworming. Pasture larval burden peaks after wet season — treat all lactating cows, dry cows, and calves. Use anthelmintic class not used in January dose.",
+          "scenarios": {
+            "always": {
+              "name": "Strategic deworming due this month",
+              "risk": "Internal parasites peak after rains — treat now before worm burden builds",
+              "extra_actions": [
+                "Weigh animals first — dose by bodyweight, not estimate",
+                "Record product name, dose, and all animals treated"
+              ]
+            }
+          }
         },
         "silage_making": {
           "priority": "high",
@@ -226,11 +382,45 @@
       "management_tasks": {
         "breeding_ai": {
           "priority": "critical",
-          "action": "Priority AI breeding month for cows that calved in February–March and are now 50–80 days post-calving (optimal conception window). Detect oestrus twice daily (morning and evening). Call AI technician within 6–12 hours of confirmed standing oestrus. Target 365-day calving interval."
+          "action": "Priority AI breeding month for cows that calved in February–March and are now 50–80 days post-calving (optimal conception window). Detect oestrus twice daily (morning and evening). Call AI technician within 6–12 hours of confirmed standing oestrus. Target 365-day calving interval.",
+          "scenarios": {
+            "suitable": {
+              "name": "Artificial insemination (AI) window — conditions suitable",
+              "extra_actions": [
+                "Check for standing heat 2–3 times daily (morning, midday, evening)",
+                "Call the AI technician 12–18 hours after standing heat is first observed"
+              ]
+            },
+            "heat_warning": {
+              "name": "AI window — heat stress is reducing chances of pregnancy",
+              "risk": "Extreme heat — chances of pregnancy drop 20–30% under severe heat stress",
+              "extra_actions": [
+                "Schedule insemination for early morning when temperatures are lowest",
+                "Ensure shade and cool water before insemination to reduce cow stress"
+              ]
+            }
+          }
         },
         "acaricide_spraying": {
           "priority": "high",
-          "action": "Reduce to fortnightly as dry season reduces tick activity. Do not stop entirely — monitor tick burdens weekly and spray immediately if ticks found in numbers."
+          "action": "Reduce to fortnightly as dry season reduces tick activity. Do not stop entirely — monitor tick burdens weekly and spray immediately if ticks found in numbers.",
+          "scenarios": {
+            "suitable": {
+              "name": "Acaricide treatment due — good conditions to spray today",
+              "extra_actions": [
+                "Ensure full body coverage — ears, tail base, udder, and groin",
+                "Rotate acaricide type every 3 months to prevent tick resistance"
+              ]
+            },
+            "blocked": {
+              "name": "Acaricide treatment due — wait for dry, calm conditions",
+              "risk": "Rain washes acaricide off before it works; wind causes drift and missed coverage",
+              "extra_actions": [
+                "Wait for a dry morning with low wind before spraying",
+                "Hand-remove any engorged ticks from sensitive areas (teats, ears) as a temporary measure"
+              ]
+            }
+          }
         },
         "forage_conservation": {
           "priority": "high",
@@ -264,7 +454,24 @@
       "management_tasks": {
         "breeding_ai": {
           "priority": "critical",
-          "action": "Continue AI programme for cows not yet confirmed pregnant. For late calvers (March–April), this is the optimal AI window. Maintain accurate oestrus detection records. If cow fails to conceive after 3 AI attempts, arrange veterinary examination."
+          "action": "Continue AI programme for cows not yet confirmed pregnant. For late calvers (March–April), this is the optimal AI window. Maintain accurate oestrus detection records. If cow fails to conceive after 3 AI attempts, arrange veterinary examination.",
+          "scenarios": {
+            "suitable": {
+              "name": "Artificial insemination (AI) window — conditions suitable",
+              "extra_actions": [
+                "Check for standing heat 2–3 times daily (morning, midday, evening)",
+                "Call the AI technician 12–18 hours after standing heat is first observed"
+              ]
+            },
+            "heat_warning": {
+              "name": "AI window — heat stress is reducing chances of pregnancy",
+              "risk": "Extreme heat — chances of pregnancy drop 20–30% under severe heat stress",
+              "extra_actions": [
+                "Schedule insemination for early morning when temperatures are lowest",
+                "Ensure shade and cool water before insemination to reduce cow stress"
+              ]
+            }
+          }
         },
         "forage_conservation": {
           "priority": "critical",
@@ -280,7 +487,24 @@
         },
         "acaricide_spraying": {
           "priority": "medium",
-          "action": "Fortnightly tick control. Tick pressure is medium during dry season but do not abandon the programme — disease-carrying ticks are present year-round."
+          "action": "Fortnightly tick control. Tick pressure is medium during dry season but do not abandon the programme — disease-carrying ticks are present year-round.",
+          "scenarios": {
+            "suitable": {
+              "name": "Acaricide treatment due — good conditions to spray today",
+              "extra_actions": [
+                "Ensure full body coverage — ears, tail base, udder, and groin",
+                "Rotate acaricide type every 3 months to prevent tick resistance"
+              ]
+            },
+            "blocked": {
+              "name": "Acaricide treatment due — wait for dry, calm conditions",
+              "risk": "Rain washes acaricide off before it works; wind causes drift and missed coverage",
+              "extra_actions": [
+                "Wait for a dry morning with low wind before spraying",
+                "Hand-remove any engorged ticks from sensitive areas (teats, ears) as a temporary measure"
+              ]
+            }
+          }
         }
       },
       "disease_risk": {
@@ -318,7 +542,24 @@
         },
         "acaricide_spraying": {
           "priority": "medium",
-          "action": "Maintain fortnightly tick spraying programme. As short rains approach in October, tick populations will surge again — a robust programme now prevents re-infestation."
+          "action": "Maintain fortnightly tick spraying programme. As short rains approach in October, tick populations will surge again — a robust programme now prevents re-infestation.",
+          "scenarios": {
+            "suitable": {
+              "name": "Acaricide treatment due — good conditions to spray today",
+              "extra_actions": [
+                "Ensure full body coverage — ears, tail base, udder, and groin",
+                "Rotate acaricide type every 3 months to prevent tick resistance"
+              ]
+            },
+            "blocked": {
+              "name": "Acaricide treatment due — wait for dry, calm conditions",
+              "risk": "Rain washes acaricide off before it works; wind causes drift and missed coverage",
+              "extra_actions": [
+                "Wait for a dry morning with low wind before spraying",
+                "Hand-remove any engorged ticks from sensitive areas (teats, ears) as a temporary measure"
+              ]
+            }
+          }
         }
       },
       "disease_risk": {
@@ -340,19 +581,88 @@
       "management_tasks": {
         "forage_planting": {
           "priority": "high",
-          "action": "Plant fast-establishing fodder crops ahead of short rains — Boma Rhodes grass, Brachiaria (Mulato II), Sudan grass, and fodder cowpea. Sow in prepared seedbeds. Napier splits can be planted now for establishment before rains."
+          "action": "Plant fast-establishing fodder crops ahead of short rains — Boma Rhodes grass, Brachiaria (Mulato II), Sudan grass, and fodder cowpea. Sow in prepared seedbeds. Napier splits can be planted now for establishment before rains.",
+          "scenarios": {
+            "suitable": {
+              "name": "Forage planting window — rain providing good conditions",
+              "extra_actions": [
+                "Plant Napier grass cuttings or seed Boma Rhodes/Brachiaria while soil is moist",
+                "Apply basal fertiliser (DSP) at planting into moist soil"
+              ]
+            },
+            "blocked": {
+              "name": "Forage planting window — prepare land now, plant on first rain",
+              "risk": "Planting into dry soil causes poor germination and establishment failure",
+              "extra_actions": [
+                "Prepare land and source planting material now",
+                "Plant within 3 days of first significant rain (above 5 mm)"
+              ]
+            }
+          }
         },
         "vaccination": {
           "priority": "high",
-          "action": "Annual FMD vaccination — second dose of the year. Record all animals vaccinated. Timing before the short rains (October) is strategic as animal movement increases disease spread risk."
+          "action": "Annual FMD vaccination — second dose of the year. Record all animals vaccinated. Timing before the short rains (October) is strategic as animal movement increases disease spread risk.",
+          "scenarios": {
+            "suitable": {
+              "name": "Vaccination due — dry conditions, good to proceed",
+              "extra_actions": [
+                "Record all animals vaccinated with date, batch number, and next due date"
+              ]
+            },
+            "blocked": {
+              "name": "Vaccination due — wait for a dry day",
+              "risk": "Wet conditions increase the risk of infection at the injection site",
+              "extra_actions": [
+                "Wait for dry conditions before vaccinating",
+                "Record the postponement and reschedule within the same week"
+              ]
+            }
+          }
         },
         "housing_maintenance": {
           "priority": "high",
-          "action": "Pre-rains housing inspection and maintenance. Repair all roof leaks, drainage channels, and floor drainage before October rains arrive. Replace bedding material — accumulated dry-season bedding must be composted."
+          "action": "Pre-rains housing inspection and maintenance. Repair all roof leaks, drainage channels, and floor drainage before October rains arrive. Replace bedding material — accumulated dry-season bedding must be composted.",
+          "scenarios": {
+            "urgent": {
+              "name": "Housing maintenance — wet conditions increase urgency",
+              "risk": "Wet, dirty housing is the main cause of mastitis and respiratory disease in dairy cattle",
+              "extra_actions": [
+                "Fix drainage channels before rains continue — standing water must not pool in stalls",
+                "Add dry bedding (sawdust or dry grass) over wet floor",
+                "Check roof for leaks and repair immediately"
+              ]
+            },
+            "routine": {
+              "name": "Housing maintenance — schedule now before rains",
+              "extra_actions": [
+                "Check and clear all drainage channels",
+                "Inspect roof and repair before next rains",
+                "Top up bedding depth to 10–15 cm"
+              ]
+            }
+          }
         },
         "acaricide_spraying": {
           "priority": "medium",
-          "action": "Fortnightly acaricide application continues. September is the last month of lower tick pressure — prepare stocks of acaricide for the weekly programme starting in October."
+          "action": "Fortnightly acaricide application continues. September is the last month of lower tick pressure — prepare stocks of acaricide for the weekly programme starting in October.",
+          "scenarios": {
+            "suitable": {
+              "name": "Acaricide treatment due — good conditions to spray today",
+              "extra_actions": [
+                "Ensure full body coverage — ears, tail base, udder, and groin",
+                "Rotate acaricide type every 3 months to prevent tick resistance"
+              ]
+            },
+            "blocked": {
+              "name": "Acaricide treatment due — wait for dry, calm conditions",
+              "risk": "Rain washes acaricide off before it works; wind causes drift and missed coverage",
+              "extra_actions": [
+                "Wait for a dry morning with low wind before spraying",
+                "Hand-remove any engorged ticks from sensitive areas (teats, ears) as a temporary measure"
+              ]
+            }
+          }
         },
         "dry_off_planning": {
           "priority": "medium",
@@ -378,15 +688,60 @@
       "management_tasks": {
         "drying_off": {
           "priority": "critical",
-          "action": "Implement dry-off for cows completing 305-day lactation. At final milking, infuse ALL four quarters with Dry Cow Therapy (DCT) antibiotic tubes (e.g. cloxacillin or amoxicillin long-acting). Apply teat sealant after DCT infusion. Move dried-off cows to separate, clean dry-cow group."
+          "action": "Implement dry-off for cows completing 305-day lactation. At final milking, infuse ALL four quarters with Dry Cow Therapy (DCT) antibiotic tubes (e.g. cloxacillin or amoxicillin long-acting). Apply teat sealant after DCT infusion. Move dried-off cows to separate, clean dry-cow group.",
+          "scenarios": {
+            "always": {
+              "name": "Dry-off period — cows due for drying off this month",
+              "risk": "An inadequate dry period reduces next lactation yield and raises mastitis risk",
+              "extra_actions": [
+                "Infuse dry cow therapy (DCT) antibiotic tubes into all four quarters at dry-off",
+                "Check udder daily for the first 2 weeks after dry-off for swelling or heat",
+                "Reduce feed to a low-energy ration to help milk production stop gradually"
+              ]
+            }
+          }
         },
         "acaricide_spraying": {
           "priority": "critical",
-          "action": "Switch back to weekly acaricide spraying as short rains begin — tick populations surge. October–November is second peak tick season. Ensure all animals are sprayed, including recently dried-off cows and young stock."
+          "action": "Switch back to weekly acaricide spraying as short rains begin — tick populations surge. October–November is second peak tick season. Ensure all animals are sprayed, including recently dried-off cows and young stock.",
+          "scenarios": {
+            "suitable": {
+              "name": "Acaricide treatment due — good conditions to spray today",
+              "extra_actions": [
+                "Ensure full body coverage — ears, tail base, udder, and groin",
+                "Rotate acaricide type every 3 months to prevent tick resistance"
+              ]
+            },
+            "blocked": {
+              "name": "Acaricide treatment due — wait for dry, calm conditions",
+              "risk": "Rain washes acaricide off before it works; wind causes drift and missed coverage",
+              "extra_actions": [
+                "Wait for a dry morning with low wind before spraying",
+                "Hand-remove any engorged ticks from sensitive areas (teats, ears) as a temporary measure"
+              ]
+            }
+          }
         },
         "forage_planting": {
           "priority": "high",
-          "action": "SHORT RAINS PLANTING WINDOW — plant Napier grass splits, Brachiaria, fodder legumes (Desmodium, Leucaena), and fodder maize for silage. Establish now to have forage ready for the next dry season."
+          "action": "SHORT RAINS PLANTING WINDOW — plant Napier grass splits, Brachiaria, fodder legumes (Desmodium, Leucaena), and fodder maize for silage. Establish now to have forage ready for the next dry season.",
+          "scenarios": {
+            "suitable": {
+              "name": "Forage planting window — rain providing good conditions",
+              "extra_actions": [
+                "Plant Napier grass cuttings or seed Boma Rhodes/Brachiaria while soil is moist",
+                "Apply basal fertiliser (DSP) at planting into moist soil"
+              ]
+            },
+            "blocked": {
+              "name": "Forage planting window — prepare land now, plant on first rain",
+              "risk": "Planting into dry soil causes poor germination and establishment failure",
+              "extra_actions": [
+                "Prepare land and source planting material now",
+                "Plant within 3 days of first significant rain (above 5 mm)"
+              ]
+            }
+          }
         },
         "mastitis_surveillance": {
           "priority": "high",
@@ -420,11 +775,38 @@
         },
         "acaricide_spraying": {
           "priority": "critical",
-          "action": "Maintain weekly acaricide spraying through peak short-rains tick season. Monitor for acaricide resistance — if ticks survive 48 hours post-spray, switch to a different chemical class. East Coast Fever is the most economically damaging tick-borne disease in Kenya."
+          "action": "Maintain weekly acaricide spraying through peak short-rains tick season. Monitor for acaricide resistance — if ticks survive 48 hours post-spray, switch to a different chemical class. East Coast Fever is the most economically damaging tick-borne disease in Kenya.",
+          "scenarios": {
+            "suitable": {
+              "name": "Acaricide treatment due — good conditions to spray today",
+              "extra_actions": [
+                "Ensure full body coverage — ears, tail base, udder, and groin",
+                "Rotate acaricide type every 3 months to prevent tick resistance"
+              ]
+            },
+            "blocked": {
+              "name": "Acaricide treatment due — wait for dry, calm conditions",
+              "risk": "Rain washes acaricide off before it works; wind causes drift and missed coverage",
+              "extra_actions": [
+                "Wait for a dry morning with low wind before spraying",
+                "Hand-remove any engorged ticks from sensitive areas (teats, ears) as a temporary measure"
+              ]
+            }
+          }
         },
         "deworming": {
           "priority": "high",
-          "action": "Post-short-rains strategic deworming (third annual dose). Treat all categories: lactating cows, dry cows, and calves. High pasture larval burden after October–November rains. Use a third anthelmintic class if possible."
+          "action": "Post-short-rains strategic deworming (third annual dose). Treat all categories: lactating cows, dry cows, and calves. High pasture larval burden after October–November rains. Use a third anthelmintic class if possible.",
+          "scenarios": {
+            "always": {
+              "name": "Strategic deworming due this month",
+              "risk": "Internal parasites peak after rains — treat now before worm burden builds",
+              "extra_actions": [
+                "Weigh animals first — dose by bodyweight, not estimate",
+                "Record product name, dose, and all animals treated"
+              ]
+            }
+          }
         },
         "forage_assessment": {
           "priority": "medium",
@@ -454,11 +836,46 @@
       "management_tasks": {
         "housing_maintenance": {
           "priority": "high",
-          "action": "End-of-year housing inspection and deep clean. Compost manure heaps. Fix all drainage and floor issues identified during the wet season. Prepare the farm record system — review production records, breeding records, and health treatments for the year."
+          "action": "End-of-year housing inspection and deep clean. Compost manure heaps. Fix all drainage and floor issues identified during the wet season. Prepare the farm record system — review production records, breeding records, and health treatments for the year.",
+          "scenarios": {
+            "urgent": {
+              "name": "Housing maintenance — wet conditions increase urgency",
+              "risk": "Wet, dirty housing is the main cause of mastitis and respiratory disease in dairy cattle",
+              "extra_actions": [
+                "Fix drainage channels before rains continue — standing water must not pool in stalls",
+                "Add dry bedding (sawdust or dry grass) over wet floor",
+                "Check roof for leaks and repair immediately"
+              ]
+            },
+            "routine": {
+              "name": "Housing maintenance — schedule now before rains",
+              "extra_actions": [
+                "Check and clear all drainage channels",
+                "Inspect roof and repair before next rains",
+                "Top up bedding depth to 10–15 cm"
+              ]
+            }
+          }
         },
         "vaccination": {
           "priority": "high",
-          "action": "Annual vaccination review — confirm all animals received FMD (twice), BQ/HS (once), and any leptospirosis or lumpy skin disease vaccines recommended locally. Plan vaccination calendar for the coming year."
+          "action": "Annual vaccination review — confirm all animals received FMD (twice), BQ/HS (once), and any leptospirosis or lumpy skin disease vaccines recommended locally. Plan vaccination calendar for the coming year.",
+          "scenarios": {
+            "suitable": {
+              "name": "Vaccination due — dry conditions, good to proceed",
+              "extra_actions": [
+                "Record all animals vaccinated with date, batch number, and next due date"
+              ]
+            },
+            "blocked": {
+              "name": "Vaccination due — wait for a dry day",
+              "risk": "Wet conditions increase the risk of infection at the injection site",
+              "extra_actions": [
+                "Wait for dry conditions before vaccinating",
+                "Record the postponement and reschedule within the same week"
+              ]
+            }
+          }
         },
         "body_condition_scoring": {
           "priority": "high",
@@ -466,7 +883,24 @@
         },
         "acaricide_spraying": {
           "priority": "medium",
-          "action": "Short rains tapering in December. Weekly spraying continues while vegetation remains lush. Switch to fortnightly in late December as conditions dry. Stock adequate acaricide for the January–February programme."
+          "action": "Short rains tapering in December. Weekly spraying continues while vegetation remains lush. Switch to fortnightly in late December as conditions dry. Stock adequate acaricide for the January–February programme.",
+          "scenarios": {
+            "suitable": {
+              "name": "Acaricide treatment due — good conditions to spray today",
+              "extra_actions": [
+                "Ensure full body coverage — ears, tail base, udder, and groin",
+                "Rotate acaricide type every 3 months to prevent tick resistance"
+              ]
+            },
+            "blocked": {
+              "name": "Acaricide treatment due — wait for dry, calm conditions",
+              "risk": "Rain washes acaricide off before it works; wind causes drift and missed coverage",
+              "extra_actions": [
+                "Wait for a dry morning with low wind before spraying",
+                "Hand-remove any engorged ticks from sensitive areas (teats, ears) as a temporary measure"
+              ]
+            }
+          }
         },
         "herd_records": {
           "priority": "medium",

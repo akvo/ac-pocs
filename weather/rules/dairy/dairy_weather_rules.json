@@ -46,7 +46,7 @@
           "all"
         ]
       },
-      "risk": "THI 72\u201377 causes mild heat stress in dairy cows. Milk production drops 5\u201310%. Cows show increased respiration and reduced feed intake.",
+      "risk": "This hot, humid weather is causing heat stress in your cows. Milk production drops 5\u201310%. Cows breathe faster and eat less.",
       "priority": "high",
       "actions": [
         "Provide at least 4 sq m of shade per cow \u2014 check existing shade structures",
@@ -83,14 +83,14 @@
           "all"
         ]
       },
-      "risk": "THI \u2265 78 is severe heat stress. Milk production drops 15\u201325%. Conception rates fall 20\u201330%. Risk of hyperthermia and heat exhaustion in high-yielding cows.",
+      "risk": "Today's extreme heat and humidity is causing severe heat stress. Milk production drops 15\u201325%. Chances of pregnancy at insemination fall 20\u201330%. High-yielding cows are at risk of heat exhaustion.",
       "priority": "critical",
       "actions": [
         "Emergency cooling: move cows to shade immediately \u2014 do not leave in open paddock",
         "Wet cows with cool water and use fans if available \u2014 focus on flank and udder",
         "Provide cool, clean water continuously \u2014 100+ L/cow available at all times",
         "Feed only during coolest hours (4\u20137 am and after 7 pm) \u2014 remove stale feed",
-        "Delay any AI or breeding procedures \u2014 conception rate severely compromised",
+        "Delay artificial insemination (AI) or breeding \u2014 chances of pregnancy are very low in this heat",
         "Expect milk yield loss of 15\u201325% \u2014 adjust farm income projections",
         "Watch for any cow standing apart, panting excessively, or off feed \u2014 call vet if rectal temp > 40\u00b0C"
       ],
@@ -131,7 +131,7 @@
           "all"
         ]
       },
-      "risk": "THI \u2265 78 during June\u2013August (long dry season) is the highest-risk heat stress period. Forage is also scarce, compounding nutritional and heat stress simultaneously.",
+      "risk": "Extreme heat during June\u2013August is the highest-risk period for your cows. Pasture is also scarce at this time, so cows face both heat and poor nutrition together.",
       "priority": "critical",
       "actions": [
         "Emergency cooling measures \u2014 shade, water wetting, fans if available",
@@ -217,7 +217,7 @@
         "Ensure maximum airflow \u2014 fans essential in this condition, open all housing sides",
         "Provide 100+ L/cow/day cool water \u2014 change water in troughs twice daily if possible",
         "Delay AI, embryo transfers, and any stressful procedures",
-        "Watch all cows closely \u2014 this condition can rapidly progress to fatal hyperthermia",
+        "Watch all cows closely \u2014 this condition can rapidly become fatal overheating",
         "If rectal temperature > 40.5\u00b0C: call veterinarian immediately and apply continuous cooling"
       ],
       "preventive_actions": [
@@ -298,13 +298,13 @@
           "all"
         ]
       },
-      "risk": "THI \u2265 78 in May\u2013July coincides with the start of Kenya's long dry season. Pasture declines rapidly, worsening nutritional stress alongside heat stress.",
+      "risk": "Extreme heat in May\u2013July coincides with the start of Kenya's long dry season. Pasture declines rapidly, so cows face poor nutrition on top of heat stress.",
       "priority": "critical",
       "actions": [
         "Activate silage and hay reserves immediately \u2014 do not wait until pasture is exhausted",
         "Emergency cooling: shade, wetting, fans if available",
         "Provide 100+ L/cow/day cool water",
-        "Delay AI and breeding \u2014 conception rates severely reduced at THI \u2265 78",
+        "Delay artificial insemination (AI) and breeding \u2014 chances of pregnancy drop sharply in extreme heat",
         "Increase dairy meal to compensate: (milk kg \u2212 5) \u00f7 2 = kg meal/day",
         "Monitor all cows daily for signs of heat exhaustion \u2014 prioritise high-yielders and freshly calved cows"
       ],
@@ -376,7 +376,7 @@
           "all"
         ]
       },
-      "risk": "Wet, humid conditions cause muddy housing, dirty udders, and moisture accumulation in teat orifices \u2014 the classic mastitis entry route. Streptococcus, Staphylococcus, and E. coli infections all peak in wet conditions.",
+      "risk": "Wet, humid conditions cause muddy housing, dirty udders, and moisture at the teat tip \u2014 the main way mastitis bacteria enter the udder. Infection risk is highest in wet conditions.",
       "priority": "high",
       "actions": [
         "Check all housing drainage \u2014 standing water must not pool in stalls",
@@ -387,7 +387,7 @@
       ],
       "preventive_actions": [
         "Ensure drainage channels are cleared before each rainy season",
-        "Apply dry cow therapy (DCT) at dry-off \u2014 reduces subclinical mastitis risk in next lactation",
+        "Apply dry cow therapy (DCT) antibiotic tubes at dry-off \u2014 this protects the udder during the dry period and reduces hidden mastitis infections in the next lactation",
         "Maintain teat scoring records to identify high-risk animals"
       ],
       "sources": [
@@ -499,18 +499,18 @@
           "late_lactation"
         ]
       },
-      "risk": "October\u2013November short rains coincide with the drying-off period for cows that calved in Jan\u2013Feb. Wet conditions at dry-off dramatically increase subclinical mastitis risk in the subsequent lactation.",
+      "risk": "October\u2013November short rains coincide with the drying-off period for cows that calved in January\u2013February. Wet conditions at dry-off dramatically increase the risk of hidden mastitis infections that surface in the next lactation.",
       "priority": "critical",
       "actions": [
         "Apply dry cow therapy (DCT) antibiotic tubes at dry-off \u2014 mandatory in wet conditions",
-        "Apply teat sealant after DCT tube to physically block teat orifice",
+        "Apply teat sealant after DCT tube to block the teat opening and keep bacteria out",
         "Inspect udder daily for first 2 weeks after dry-off \u2014 look for swelling, heat, or discharge",
         "Keep dry cows in dry, well-bedded housing \u2014 not wet paddock",
         "Maintain pre-dip and post-dip at last milking before dry-off"
       ],
       "preventive_actions": [
         "Schedule dry-off timing to avoid peak rainy season where possible",
-        "Maintain mastitis records to identify which cows need intramammary treatment at dry-off"
+        "Maintain mastitis records to identify which cows need antibiotic udder treatment at dry-off"
       ],
       "sources": [
         "Dairy Farmers Handbook, 9th ed. 2025, Ch. 7"
@@ -545,7 +545,7 @@
           "all"
         ]
       },
-      "risk": "Cool moist conditions (15\u201325\u00b0C at RH > 85%) are optimal for Streptococcus agalactiae and Streptococcus uberis \u2014 the most common environmental mastitis pathogens in Kenya.",
+      "risk": "Cool moist conditions are ideal for the bacteria that most commonly cause mastitis in Kenyan dairy herds. Teat skin also softens in humidity, making it easier for bacteria to enter.",
       "priority": "high",
       "actions": [
         "Maintain strict pre-dip and post-dip at every milking \u2014 do not skip in this weather",
@@ -623,15 +623,15 @@
           "all"
         ]
       },
-      "risk": "A temperature drop > 8\u00b0C within 24 hours is a major trigger for Bovine Respiratory Disease (BRD) \u2014 especially in calves. Draughts combined with cold stress cause rapid onset pneumonia.",
+      "risk": "A sudden temperature drop is a major trigger for respiratory disease (coughing and pneumonia), especially in calves. Draughts combined with cold stress cause pneumonia within 24\u201348 hours.",
       "priority": "critical",
       "actions": [
         "Check all calves immediately \u2014 respiratory disease kills calves within 24\u201348 hours if untreated",
         "Close all draughts in calf housing \u2014 use sacks, boards, or tarpaulin",
         "Add extra dry bedding in calf pens \u2014 calves must be able to nest in bedding",
         "Monitor adult cows for coughing or nasal discharge \u2014 call vet if multiple cows affected",
-        "Separate any sick calves immediately \u2014 BRD spreads rapidly in cold, wet conditions",
-        "Check temperature of calves under 3 months \u2014 rectal temp < 38\u00b0C indicates hypothermia"
+        "Separate any sick calves immediately \u2014 respiratory disease spreads rapidly in cold, wet conditions",
+        "Check temperature of calves under 3 months \u2014 rectal temp below 38\u00b0C means the calf is dangerously cold"
       ],
       "preventive_actions": [
         "Vaccinate calves for IBR and PI-3 before cold season",
@@ -668,7 +668,7 @@
           "pre_calving"
         ]
       },
-      "risk": "Cold wind at night (below 12\u00b0C with wind above 15 km/h) creates dangerous wind chill for calves. Calves under 2 weeks old are at high risk of hypothermia and pneumonia.",
+      "risk": "Cold wind at night (below 12\u00b0C with wind above 15 km/h) creates dangerous wind chill for calves. Calves under 2 weeks old are at high risk of dangerous chilling and pneumonia.",
       "priority": "high",
       "actions": [
         "Check calf pens for wind penetration \u2014 block draughts at calf level with boards or sacking",
@@ -750,7 +750,7 @@
           "pre_calving"
         ]
       },
-      "risk": "Temperatures below 10\u00b0C require calves to divert energy from growth to thermoregulation. Milk intake increases but growth rates drop. Pneumonia risk is elevated for all calves under 3 months.",
+      "risk": "Temperatures below 10\u00b0C require calves to use energy to keep warm instead of growing. Milk intake increases but growth rates drop. Pneumonia risk is elevated for all calves under 3 months.",
       "priority": "medium",
       "actions": [
         "Check all calves for early respiratory signs: cough, snotty nose, dullness, off feed",
@@ -831,7 +831,7 @@
           "all"
         ]
       },
-      "risk": "Driving rain at high wind speed drenches animals and creates rapid heat loss. This combination is a classic BRD trigger, especially for younger and freshly calved animals.",
+      "risk": "Driving rain at high wind speed drenches animals and causes rapid heat loss. This is a leading cause of respiratory disease and pneumonia, especially in calves and freshly calved cows.",
       "priority": "high",
       "actions": [
         "Bring calves under 3 months old inside immediately",
@@ -877,7 +877,7 @@
           "all"
         ]
       },
-      "risk": "Rain followed by warm temperatures triggers tick egg hatching and larval emergence. East Coast Fever (ECF/Theileria), Anaplasmosis, and Babesiosis all peak 2\u20134 weeks after wet, warm conditions.",
+      "risk": "Rain followed by warm temperatures triggers tick egg hatching and new tick emergence. East Coast Fever (ECF), tick fever, and redwater disease all peak 2\u20134 weeks after wet, warm conditions.",
       "priority": "critical",
       "actions": [
         "Spray all cattle with acaricide within 48 hours \u2014 do not delay",
@@ -920,7 +920,7 @@
           "all"
         ]
       },
-      "risk": "More than 5 consecutive wet days at temperatures above 15\u00b0C creates ideal conditions for tick larvae, tsetse fly, and stable fly populations. Trypanosomiasis risk also elevated in tsetse-affected areas.",
+      "risk": "More than 5 consecutive wet days at temperatures above 15\u00b0C creates ideal conditions for ticks, tsetse flies, and stable flies. Sleeping sickness (spread by tsetse flies) risk is also elevated in some areas.",
       "priority": "critical",
       "actions": [
         "Increase acaricide spraying frequency to every 5\u20137 days during extended wet, warm period",
@@ -966,13 +966,13 @@
           "all"
         ]
       },
-      "risk": "Very heavy rain (>30 mm in 72h) at optimal tick development temperatures (20\u201330\u00b0C) causes mass tick hatching and questing. This is the highest-risk single event for ECF and anaplasmosis outbreaks.",
+      "risk": "Very heavy rain (>30 mm in 72h) at warm temperatures (20\u201330\u00b0C) causes mass tick hatching and emergence. This is the single highest-risk event for East Coast Fever and tick fever outbreaks.",
       "priority": "critical",
       "actions": [
         "Spray all cattle with acaricide today \u2014 this is the most critical prophylactic window",
         "Inspect all animals for tick attachment \u2014 check all body regions including inside ears",
         "Alert neighbouring farmers \u2014 coordinated acaricide treatment in a community reduces reinfestation",
-        "Watch for ECF signs 2\u20133 weeks from now: swollen parotid lymph node, lacrimation, high fever",
+        "Watch for East Coast Fever signs 2\u20133 weeks from now: swollen lymph node under the ear, watery eyes, high fever",
         "If ECF vaccination has not been done this season: contact vet for emergency ITM vaccination"
       ],
       "preventive_actions": [
@@ -1017,7 +1017,7 @@
           "all"
         ]
       },
-      "risk": "March\u2013May long rains at warm temperatures are the primary tick season in Kenya. ECF, anaplasmosis, and babesiosis outbreaks peak during and after this period.",
+      "risk": "March\u2013May long rains at warm temperatures are the main tick season in Kenya. East Coast Fever, tick fever, and redwater disease outbreaks peak during and after this period.",
       "priority": "high",
       "actions": [
         "Increase acaricide spraying to at least every 7 days during March\u2013May",
@@ -1066,7 +1066,7 @@
           "all"
         ]
       },
-      "risk": "October\u2013November short rains with warm temperatures constitute the second annual tick season. Animals that survived the long rains may have reduced immunity \u2014 reinfestation is dangerous.",
+      "risk": "October\u2013November short rains with warm temperatures are the second tick season of the year. Animals may be tired from the long rains \u2014 a second heavy tick challenge can be very dangerous.",
       "priority": "high",
       "actions": [
         "Resume weekly acaricide spraying from October 1",
@@ -1077,7 +1077,7 @@
       ],
       "preventive_actions": [
         "Book ECF booster vaccinations before October if recommended by vet",
-        "Clear paddock vegetation before short rains to reduce tick questing habitat"
+        "Clear paddock vegetation before short rains to reduce tick hiding places"
       ],
       "sources": [
         "Dairy Farmers Handbook, 9th ed. 2025, Ch. 9"
@@ -1107,7 +1107,7 @@
           "all"
         ]
       },
-      "risk": "After more than 14 days without rain, the first significant rainfall triggers synchronised tick questing (host-seeking). Tick populations that survived drought emerge simultaneously \u2014 very high exposure risk.",
+      "risk": "After more than 14 days without rain, the first significant rainfall triggers ticks to emerge all at once and actively search for animals to attach to. Very high exposure risk in the hours after first rain.",
       "priority": "high",
       "actions": [
         "Apply acaricide spray within 24 hours of first significant rain after dry spell",
@@ -1163,7 +1163,7 @@
           "all"
         ]
       },
-      "risk": "Warm temperatures with high humidity during the rainy months create optimal conditions for both ticks and biting flies (stable fly, horn fly). Combined vector pressure increases disease transmission risk.",
+      "risk": "Warm temperatures with high humidity during the rainy months create ideal conditions for ticks and biting flies. The combined pressure of ticks and flies increases the risk of disease in your herd.",
       "priority": "medium",
       "actions": [
         "Inspect all animals for tick load at least every 3 days during this period",
@@ -1199,7 +1199,7 @@
           "all"
         ]
       },
-      "risk": "More than 50 mm in 7 days saturates the soil and creates widespread ideal tick and fly breeding habitat across the farm. Pastures will remain tick-infested for weeks after rain stops.",
+      "risk": "More than 50mm of rain in 7 days creates widespread tick and fly breeding conditions across the farm. Pastures will remain heavily tick-infested for weeks after rain stops.",
       "priority": "medium",
       "actions": [
         "Maintain weekly acaricide spraying \u2014 do not reduce frequency even if individual tick burden looks low",
@@ -1209,7 +1209,7 @@
       ],
       "preventive_actions": [
         "Paddock rotation: avoid returning cattle to same paddock within 3 weeks during wet season",
-        "Slash and clear vegetation after heavy rains \u2014 reduces tick questing sites"
+        "Slash and clear vegetation after heavy rains \u2014 reduces tick hiding places"
       ],
       "sources": [
         "Dairy Farmers Handbook, 9th ed. 2025, Ch. 9"
@@ -1319,13 +1319,13 @@
       "actions": [
         "Conduct strategic deworming this month \u2014 end of rainy season is the optimal treatment window",
         "Use faecal egg count (FEC) to select which animals to treat \u2014 do not blanket-treat unless warranted",
-        "Weigh all cattle and dose accurately by bodyweight \u2014 under-dosing promotes anthelmintic resistance",
-        "Rotate to a different anthelmintic class if the same drug was used last time",
-        "Include liver fluke (Fasciola hepatica) treatment if the farm has wet, low-lying areas"
+        "Weigh all cattle and dose accurately by bodyweight \u2014 under-dosing allows worms to survive and become resistant to treatment",
+        "Rotate to a different type of deworming drug if the same product was used last time — using the same drug repeatedly allows worms to develop resistance",
+        "Include liver fluke treatment if the farm has wet, low-lying areas"
       ],
       "preventive_actions": [
         "Keep deworming records \u2014 date, product, dose, animals treated, and FEC results",
-        "Control liver fluke (Fasciola) by draining wet areas and treating with triclabendazole"
+        "Control liver fluke by draining wet areas and treating with triclabendazole"
       ],
       "sources": [
         "Dairy Farmers Handbook, 9th ed. 2025, Ch. 10",
@@ -1361,7 +1361,7 @@
           "all"
         ]
       },
-      "risk": "More than 7 consecutive wet days at 18\u201328\u00b0C creates ideal conditions for Lymnaea snails \u2014 the intermediate host of Fasciola hepatica (liver fluke). Fluke infection follows 6\u20138 weeks after snail activity.",
+      "risk": "More than 7 consecutive wet days at 18\u201328\u00b0C creates ideal conditions for the water snails that carry liver fluke. Liver fluke infection in cattle follows 6\u20138 weeks after snail numbers peak.",
       "priority": "medium",
       "actions": [
         "Restrict access to wet, low-lying paddocks and around water bodies where snails breed",
@@ -1471,7 +1471,7 @@
           "all"
         ]
       },
-      "risk": "Heat-stressed cows reduce dry matter intake by 10\u201325% while energy requirements increase due to panting. This nutritional gap directly reduces milk yield and fertility.",
+      "risk": "Heat-stressed cows eat 10\u201325% less feed than normal while their energy needs increase because of panting. This gap directly reduces milk yield and chances of pregnancy.",
       "priority": "medium",
       "actions": [
         "Increase energy density of ration \u2014 add bypass fat or concentrate if available",
@@ -1559,7 +1559,7 @@
       ],
       "preventive_actions": [
         "Plan grazing rotation before rains arrive \u2014 map paddock rest periods in advance",
-        "Keep anti-bloat drench (poloxalene) on hand for first grazing of lush pastures"
+        "Keep anti-bloat drench on hand for first grazing of lush pastures — ask your agrovet for a poloxalene product"
       ],
       "sources": [
         "Feeding Manual, ILRI/SDP/KDDP, 2007",
@@ -1585,7 +1585,7 @@
           "all"
         ]
       },
-      "risk": "Temperatures below 12\u00b0C increase maintenance energy requirements in cattle. Cows divert energy from milk production to thermoregulation unless ration is increased.",
+      "risk": "Temperatures below 12\u00b0C increase energy needs in cattle. Cows use energy to keep warm instead of producing milk, unless the ration is increased.",
       "priority": "medium",
       "actions": [
         "Increase dairy meal ration by 0.5\u20131 kg/cow/day during cold nights (below 12\u00b0C)",
@@ -1621,7 +1621,7 @@
           "all"
         ]
       },
-      "risk": "At THI \u2265 72, dairy cows increase water intake by up to 30 L/day above normal. Inadequate water supply during heat stress rapidly leads to dehydration, reduced milk, and increased rectal temperature.",
+      "risk": "In hot, humid weather, dairy cows drink up to 30 litres more per day than normal. Not enough water during heat stress quickly leads to dehydration, reduced milk, and worsening heat exhaustion.",
       "priority": "high",
       "actions": [
         "Increase water supply by at least 30 L/cow/day above baseline (total 90\u2013120 L/cow/day)",
@@ -1658,14 +1658,14 @@
           "all"
         ]
       },
-      "risk": "At THI \u2265 78, cows require 100+ L/cow/day of water. Inadequate supply within hours leads to severe dehydration, hyperthermia, and potentially fatal heat exhaustion in high-yielding cows.",
+      "risk": "In extreme heat, cows need 100 litres or more of water per day. Without enough water, severe dehydration and dangerous overheating can develop within hours \u2014 this can be fatal for high-yielding cows.",
       "priority": "critical",
       "actions": [
         "Ensure 100+ L of cool water per cow per day is available at all times",
         "Change water in troughs twice daily to maintain cool temperature (target < 20\u00b0C)",
         "Provide multiple water access points \u2014 dominant cows block subordinates at single troughs",
         "Use water to wet/cool cows directly if available \u2014 wetting reduces rectal temperature faster than drinking",
-        "Monitor all cows for dehydration signs: dry muzzle, skin tenting, sunken eyes \u2014 call vet if present"
+        "Monitor all cows for dehydration: dry nose, pinch the skin on the neck \u2014 if it does not spring back quickly the cow is dehydrated; sunken eyes. Call vet if you see these signs."
       ],
       "preventive_actions": [
         "Install supplementary water storage (tanks) with capacity for 3+ days' peak demand",
@@ -1776,14 +1776,14 @@
           "peak_lactation"
         ]
       },
-      "risk": "THI \u2265 78 during June\u2013August reduces conception rate at AI by 20\u201330%. Oocyte quality is compromised 3\u20134 weeks before visible heat stress. AI performed in these conditions will have poor results.",
+      "risk": "Extreme heat during June\u2013August reduces conception rate at insemination by 20\u201330%. Egg quality and chances of pregnancy are already reduced 3\u20134 weeks before heat stress becomes visible. Insemination performed now will have poor results.",
       "priority": "critical",
       "actions": [
         "Delay AI until September when temperatures moderate \u2014 conception rates recover quickly after heat breaks",
-        "If AI cannot be delayed: perform at earliest morning opportunity (4\u20135 am) when THI is at daily minimum",
+        "If insemination cannot be delayed: perform at earliest morning opportunity (4\u20135 am) when heat is at its lowest",
         "Provide shade and cool water 48 hours before and after AI to minimise heat stress at insemination",
         "Detect heat 3 times daily (morning, noon, evening) \u2014 heat expression is reduced in stressed cows",
-        "Consider progesterone CIDR synchronisation to overcome suppressed heat expression"
+        "Ask your vet about hormone treatment (CIDR) to help detect heat when cows are not showing clear signs"
       ],
       "preventive_actions": [
         "Plan AI calendar to target insemination in cooler months \u2014 calving in March\u2013April optimises production",
@@ -1821,15 +1821,15 @@
           "pre_calving"
         ]
       },
-      "risk": "February\u2013March calving season with nights below 10\u00b0C creates high hypothermia risk for newborn calves. A newborn calf that cannot thermoregulate within 2 hours of birth is at high risk of death.",
+      "risk": "February\u2013March calving season with nights below 10\u00b0C creates high risk of dangerous chilling for newborn calves. A newborn calf that cannot get warm within 2 hours of birth is at high risk of death.",
       "priority": "critical",
       "actions": [
         "Check all heavily pregnant cows at night \u2014 calves born in cold conditions need immediate attention",
         "Dry newborn calves with a towel immediately after birth \u2014 wet calves chill within minutes",
         "Bring newborn calves indoors or into a sheltered, bedded pen immediately after birth",
-        "Feed 2 L of colostrum within 30 minutes of birth \u2014 colostrum provides calories for thermoregulation",
+        "Feed 2 L of colostrum within 30 minutes of birth \u2014 colostrum provides energy and warmth to the calf",
         "Check rectal temperature of newborn: below 37\u00b0C requires emergency warming (warm water bath or heat lamp)",
-        "Monitor dam closely for retained placenta or metritis in cold conditions"
+        "Monitor the mother closely for retained afterbirth (placenta not passed within 12 hours) or womb infection (foul smell, discharge) in cold conditions"
       ],
       "preventive_actions": [
         "Prepare warm, dry calving pen before February \u2014 dry bedding and windproof",
@@ -1873,7 +1873,7 @@
           "pre_calving"
         ]
       },
-      "risk": "Cold wet conditions during calving season are the most dangerous combination for newborn calf survival. A wet calf in rain at 12\u00b0C can become hypothermic within 15 minutes of birth.",
+      "risk": "Cold wet conditions during calving season are the most dangerous combination for newborn calf survival. A wet calf in rain at 12\u00b0C can become dangerously cold within 15 minutes of birth.",
       "priority": "critical",
       "actions": [
         "Move all heavily pregnant cows into the calving pen NOW \u2014 do not leave in wet paddock",
@@ -1920,7 +1920,7 @@
           "peak_lactation"
         ]
       },
-      "risk": "THI 72\u201377 during June\u2013August reduces conception rate at AI by 10\u201315%. Heat stress also suppresses behavioural oestrus, making heat detection harder.",
+      "risk": "This heat during June\u2013August reduces conception rate at insemination by 10\u201315%. Heat stress also reduces visible signs of heat (standing heat), making it harder to know when to inseminate.",
       "priority": "high",
       "actions": [
         "Detect heat at minimum 3 times daily \u2014 morning (5 am), midday, and evening (6 pm)",

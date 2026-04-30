@@ -4,14 +4,16 @@
 
 `evaluate_rules.py` already supports multiple crops via the `crop` parameter in `load_rules()` and `load_calendar()`. The core evaluation logic (`evaluate_rule_conditions`, `evaluate_condition`, `filter_rules_by_growth_stage`, `prioritize_and_resolve`) is fully generic and requires **no changes**.
 
-Dairy requires 4 targeted additions:
+Dairy requires 4 targeted additions plus 2 bug fixes:
 
 | # | What | Where | Why |
 |---|------|--------|-----|
 | 1 | THI derived field | `parse_weather_data()` | Dairy heat stress rules use THI, not raw temperature |
 | 2 | Dairy stage tags | `enrich_with_calendar()` | Stage-to-tag mapping is hardcoded to avocado stages |
-| 3 | Dairy activity handlers | `generate_calendar_rules()` | Dairy calendar tasks need weather-gated logic |
+| 3 | Dairy activity handlers (scenario-driven) | `generate_calendar_rules()` | Advisory text lives in calendar JSON `scenarios` blocks; Python holds only weather-gate logic |
 | 4 | `parasite_risk` support | `generate_calendar_rules()` | Dairy uses `parasite_risk`, not `pest_risk` |
+| B1 | `management_tasks` key fix | `get_calendar_context()` | Dairy calendar uses `"management_tasks"`, not `"management"` — no management rules were generated |
+| B2 | `parasite_risk` pass-through fix | `get_calendar_context()` | `parasite_risk` was never returned by `get_calendar_context()`, so the parasite alert block always got `{}` |
 
 ---
 
@@ -88,200 +90,58 @@ Dairy weather rules will use `applies_to_stages` values from the table above, e.
 
 ---
 
-## Change 3 — Dairy Activity Handlers
+## Change 3 — Dairy Activity Handlers (scenario-driven)
 
 **File:** `evaluate_rules.py`  
 **Function:** `generate_calendar_rules()`  
-**Where:** Insert as new `elif` blocks before the final `else` block (currently at line 253)
+**Where:** Insert as new `elif` blocks before the final `else` block
 
-The dairy herd calendar uses these activity keys in `management_tasks`. Each needs weather-gated logic:
+**Design principle:** Advisory text (names, risk descriptions, extra actions) lives in the calendar JSON `scenarios` blocks. Python contains only the weather-gate logic (the `if/else` branching on `rain`, `wind`, `thi`). This means advisory copy can be edited in the JSON without touching Python.
 
-| Activity key | Weather gate | Effect |
+The `scenarios` field is threaded through from the JSON via `get_calendar_context()` (see Bug fixes B1 and B2 above, which also add `scenarios` to each `management_due` entry).
+
+| Activity key | Weather gate | Scenarios used |
 |---|---|---|
-| `vaccination` | Dry day preferred | Post-injection infection risk in wet |
-| `deworming` | No gate — always fire | Strategic timing; note dosing requirement |
-| `acaricide_spraying` | No rain, wind < 15 km/h | Product wash-off/drift |
-| `breeding_ai` | THI check | Conception rate drops at THI ≥ 78 |
-| `drying_off` | No gate — always fire | Dry cow therapy reminder |
-| `housing_maintenance` | Rain increases urgency | Wet housing drives mastitis |
-| `forage_planting` | Rain > 2mm preferred | Dry-soil establishment failure |
+| `vaccination` | `rain < 2` | `suitable` / `blocked` |
+| `deworming` | No gate — always fire | `always` |
+| `acaricide_spraying` | `rain < 2` and `wind < 15 km/h` | `suitable` / `blocked` |
+| `breeding_ai` | `thi >= 78` | `suitable` / `heat_warning` |
+| `drying_off` | No gate — always fire | `always` |
+| `housing_maintenance` | `rain > 0` | `urgent` / `routine` |
+| `forage_planting` | `rain > 2` | `suitable` / `blocked` |
 
-Add these `elif` blocks:
+Each handler follows the same pattern: read the relevant `scenarios` sub-dict from `task.get("scenarios", {})`, apply the weather gate, then build the rule from `.get("name")`, `.get("risk")`, and `.get("extra_actions")`. No advisory strings appear in Python.
+
+Example (`vaccination`):
 
 ```python
 elif activity == "vaccination":
+    scenarios = task.get("scenarios", {})
     if rain < 2:
+        s = scenarios.get("suitable", {})
         rules.append({
             "id": f"CAL-{activity.upper()}",
             "category": "CALENDAR_MANAGEMENT",
-            "name": "Calendar: Vaccination due — suitable conditions today",
+            "name": f"Calendar: {s.get('name', 'Vaccination due')}",
             "priority": priority,
-            "risk": "none — dry conditions reduce post-injection site infection",
-            "actions": [action, "Record all animals vaccinated with date and batch number"],
+            "risk": s.get("risk", ""),
+            "actions": [action] + s.get("extra_actions", []),
             "source": "crop_calendar",
         })
     else:
+        s = scenarios.get("blocked", {})
         rules.append({
             "id": f"CAL-{activity.upper()}-WAIT",
             "category": "CALENDAR_MANAGEMENT",
-            "name": "Calendar: Vaccination due — wait for dry day",
+            "name": f"Calendar: {s.get('name', 'Vaccination due — wait for dry day')}",
             "priority": "informational",
-            "risk": "Wet conditions increase post-injection infection risk",
-            "actions": [action, "Wait for dry conditions before vaccinating"],
-            "source": "crop_calendar",
-        })
-
-elif activity == "deworming":
-    rules.append({
-        "id": f"CAL-{activity.upper()}",
-        "category": "CALENDAR_MANAGEMENT",
-        "name": "Calendar: Strategic deworming due this month",
-        "priority": priority,
-        "risk": "Internal parasites peak after rains — treat before worm load builds",
-        "actions": [
-            action,
-            "Weigh animals first — dose by bodyweight, not estimate",
-            "Record product name, dose, and animals treated",
-        ],
-        "source": "crop_calendar",
-    })
-
-elif activity == "acaricide_spraying":
-    wind = weather.get("wind_speed_kmh", 0)
-    if rain < 2 and wind < 15:
-        rules.append({
-            "id": f"CAL-{activity.upper()}",
-            "category": "CALENDAR_MANAGEMENT",
-            "name": "Calendar: Acaricide treatment due — good window today",
-            "priority": priority,
-            "risk": "none — dry, calm conditions for acaricide application",
-            "actions": [
-                action,
-                "Ensure full body coverage including ears, tail base, and udder",
-                "Rotate acaricide class every 3 months to prevent tick resistance",
-            ],
-            "source": "crop_calendar",
-        })
-    else:
-        rules.append({
-            "id": f"CAL-{activity.upper()}-WAIT",
-            "category": "CALENDAR_MANAGEMENT",
-            "name": "Calendar: Acaricide treatment due — wait for dry, calm day",
-            "priority": "informational",
-            "risk": "Rain washes off acaricide; wind causes drift and missed coverage",
-            "actions": [action, f"Today: {rain}mm rain, {wind}km/h wind — delay until conditions improve"],
-            "source": "crop_calendar",
-        })
-
-elif activity == "breeding_ai":
-    thi = weather.get("thi_value", 65)
-    if thi >= 78:
-        rules.append({
-            "id": f"CAL-{activity.upper()}-HEAT",
-            "category": "CALENDAR_MANAGEMENT",
-            "name": "Calendar: AI breeding window — heat stress reducing conception risk",
-            "priority": "high",
-            "risk": f"THI {thi} (≥78) — conception rates drop 20–30% under severe heat stress",
-            "actions": [
-                action,
-                "If possible, schedule AI for early morning when THI is lowest",
-                "Ensure shade and cool water to reduce cow stress before insemination",
-            ],
-            "source": "crop_calendar",
-        })
-    else:
-        rules.append({
-            "id": f"CAL-{activity.upper()}",
-            "category": "CALENDAR_MANAGEMENT",
-            "name": "Calendar: AI breeding window — conditions suitable",
-            "priority": priority,
-            "risk": "none — THI within acceptable range for AI",
-            "actions": [
-                action,
-                "Check for standing heat 2–3 times daily (morning, midday, evening)",
-                "Inseminate 12–18 hours after standing heat is first observed",
-            ],
-            "source": "crop_calendar",
-        })
-
-elif activity == "drying_off":
-    rules.append({
-        "id": f"CAL-{activity.upper()}",
-        "category": "CALENDAR_MANAGEMENT",
-        "name": "Calendar: Dry-off period — cows due for drying off this month",
-        "priority": priority,
-        "risk": "Inadequate dry period reduces next lactation yield and raises mastitis risk",
-        "actions": [
-            action,
-            "Infuse dry cow therapy (DCT) antibiotic tubes at dry-off",
-            "Check udder daily for first 2 weeks after dry-off for mastitis signs",
-            "Reduce feed to low-energy ration to support milk let-down cessation",
-        ],
-        "source": "crop_calendar",
-    })
-
-elif activity == "housing_maintenance":
-    if rain > 0:
-        rules.append({
-            "id": f"CAL-{activity.upper()}-URGENT",
-            "category": "CALENDAR_MANAGEMENT",
-            "name": "Calendar: Housing maintenance — wet conditions increase urgency",
-            "priority": "high",
-            "risk": "Wet, dirty housing is the leading driver of mastitis and respiratory disease in dairy",
-            "actions": [
-                action,
-                "Fix drainage channels before rains continue — standing water must not pool in stalls",
-                "Add dry bedding (sawdust or dry grass) over wet floor",
-                "Check roof for leaks and repair",
-            ],
-            "source": "crop_calendar",
-        })
-    else:
-        rules.append({
-            "id": f"CAL-{activity.upper()}",
-            "category": "CALENDAR_MANAGEMENT",
-            "name": "Calendar: Housing maintenance — schedule now before rains",
-            "priority": priority,
-            "risk": "none — proactive maintenance while conditions are dry",
-            "actions": [
-                action,
-                "Check and clear drainage channels",
-                "Inspect roof, repair before short rains begin",
-                "Top up bedding depth to 10–15cm",
-            ],
-            "source": "crop_calendar",
-        })
-
-elif activity == "forage_planting":
-    if rain > 2:
-        rules.append({
-            "id": f"CAL-{activity.upper()}",
-            "category": "CALENDAR_MANAGEMENT",
-            "name": "Calendar: Forage planting window — rain providing good establishment",
-            "priority": priority,
-            "risk": "none — rain-assisted planting conditions",
-            "actions": [
-                action,
-                "Plant Napier grass cuttings or seed Boma Rhodes/Brachiaria while soil is moist",
-                "Apply basal fertiliser (DSP) at planting into moist soil",
-            ],
-            "source": "crop_calendar",
-        })
-    else:
-        rules.append({
-            "id": f"CAL-{activity.upper()}-WAIT",
-            "category": "CALENDAR_MANAGEMENT",
-            "name": "Calendar: Forage planting window — prepare land, plant on first rain",
-            "priority": "informational",
-            "risk": "Planting into dry soil causes poor germination and establishment failure",
-            "actions": [
-                action,
-                "Prepare land and source planting material now",
-                "Plant within 3 days of first significant rain (>5mm)",
-            ],
+            "risk": s.get("risk", ""),
+            "actions": [action] + s.get("extra_actions", []),
             "source": "crop_calendar",
         })
 ```
+
+The remaining 6 handlers follow the same pattern. See `evaluate_rules.py` for the full implementation.
 
 ---
 
@@ -421,7 +281,11 @@ These files are generic and require no modification:
 |---|---|---|
 | `parse_weather_data` | Add THI block | +5 |
 | `enrich_with_calendar` | Add dairy stage tags | +12 |
-| `generate_calendar_rules` | Add 7 dairy activity handlers | +90 |
+| `get_calendar_context` | Bug B1: support `management_tasks` key alongside `management` | +1 |
+| `get_calendar_context` | Bug B2: add `parasite_risk` to return dict | +1 |
+| `get_calendar_context` | Design: thread `scenarios` into `management_due` entries | +1 |
+| `generate_calendar_rules` | Replace 7 hardcoded dairy handlers with scenario-driven versions | ~0 net (rewrote ~90 lines) |
 | `generate_calendar_rules` | Add `parasite_risk` alert block | +15 |
 | `generate_calendar_rules` | Fix hardcoded avocado disease alert text | −1 / +1 |
-| **Total** | | **~120 lines** |
+| `dairy_crop_calendar.json` | Add `scenarios` blocks to all 7 activity types across 12 months | +~300 |
+| **Total** | | **~335 lines** |
