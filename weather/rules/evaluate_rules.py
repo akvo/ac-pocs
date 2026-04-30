@@ -98,6 +98,21 @@ def enrich_with_calendar(weather: dict, calendar_ctx: dict) -> dict:
         stage_tags.update(["vegetative", "vegetative_flush"])
     if "young" in stage or "transplant" in stage:
         stage_tags.update(["young_trees_1_3yr", "newly_transplanted"])
+    # Dairy stage tags — sit alongside avocado mappings without conflict
+    if "calving" in stage:
+        stage_tags.add("calving_season")
+    if "peak_lactation" in stage:
+        stage_tags.add("peak_lactation")
+    if "breeding" in stage:
+        stage_tags.add("breeding_season")
+    if "late_lactation" in stage:
+        stage_tags.add("late_lactation")
+    if "drying_off" in stage:
+        stage_tags.update(["late_lactation", "drying_off"])
+    if "dry_period" in stage:
+        stage_tags.add("dry_period")
+    if "pre_calving" in stage:
+        stage_tags.update(["dry_period", "pre_calving"])
     weather["_active_stages"] = stage_tags
 
     # Inject disease/pest risk levels so rules could key off them
@@ -250,6 +265,179 @@ def generate_calendar_rules(calendar_ctx: dict, weather: dict) -> list[dict]:
                 "source": "crop_calendar",
             })
 
+        elif activity == "vaccination":
+            if rain < 2:
+                rules.append({
+                    "id": f"CAL-{activity.upper()}",
+                    "category": "CALENDAR_MANAGEMENT",
+                    "name": "Calendar: Vaccination due — suitable conditions today",
+                    "priority": priority,
+                    "risk": "none — dry conditions reduce post-injection site infection",
+                    "actions": [action, "Record all animals vaccinated with date and batch number"],
+                    "source": "crop_calendar",
+                })
+            else:
+                rules.append({
+                    "id": f"CAL-{activity.upper()}-WAIT",
+                    "category": "CALENDAR_MANAGEMENT",
+                    "name": "Calendar: Vaccination due — wait for dry day",
+                    "priority": "informational",
+                    "risk": "Wet conditions increase post-injection infection risk",
+                    "actions": [action, "Wait for dry conditions before vaccinating"],
+                    "source": "crop_calendar",
+                })
+
+        elif activity == "deworming":
+            rules.append({
+                "id": f"CAL-{activity.upper()}",
+                "category": "CALENDAR_MANAGEMENT",
+                "name": "Calendar: Strategic deworming due this month",
+                "priority": priority,
+                "risk": "Internal parasites peak after rains — treat before worm load builds",
+                "actions": [
+                    action,
+                    "Weigh animals first — dose by bodyweight, not estimate",
+                    "Record product name, dose, and animals treated",
+                ],
+                "source": "crop_calendar",
+            })
+
+        elif activity == "acaricide_spraying":
+            wind = weather.get("wind_speed_kmh", 0)
+            if rain < 2 and wind < 15:
+                rules.append({
+                    "id": f"CAL-{activity.upper()}",
+                    "category": "CALENDAR_MANAGEMENT",
+                    "name": "Calendar: Acaricide treatment due — good window today",
+                    "priority": priority,
+                    "risk": "none — dry, calm conditions for acaricide application",
+                    "actions": [
+                        action,
+                        "Ensure full body coverage including ears, tail base, and udder",
+                        "Rotate acaricide class every 3 months to prevent tick resistance",
+                    ],
+                    "source": "crop_calendar",
+                })
+            else:
+                rules.append({
+                    "id": f"CAL-{activity.upper()}-WAIT",
+                    "category": "CALENDAR_MANAGEMENT",
+                    "name": "Calendar: Acaricide treatment due — wait for dry, calm day",
+                    "priority": "informational",
+                    "risk": "Rain washes off acaricide; wind causes drift and missed coverage",
+                    "actions": [action, f"Today: {rain}mm rain, {wind}km/h wind — delay until conditions improve"],
+                    "source": "crop_calendar",
+                })
+
+        elif activity == "breeding_ai":
+            thi = weather.get("thi_value", 65)
+            if thi >= 78:
+                rules.append({
+                    "id": f"CAL-{activity.upper()}-HEAT",
+                    "category": "CALENDAR_MANAGEMENT",
+                    "name": "Calendar: AI breeding window — heat stress reducing conception risk",
+                    "priority": "high",
+                    "risk": f"THI {thi} (≥78) — conception rates drop 20–30% under severe heat stress",
+                    "actions": [
+                        action,
+                        "If possible, schedule AI for early morning when THI is lowest",
+                        "Ensure shade and cool water to reduce cow stress before insemination",
+                    ],
+                    "source": "crop_calendar",
+                })
+            else:
+                rules.append({
+                    "id": f"CAL-{activity.upper()}",
+                    "category": "CALENDAR_MANAGEMENT",
+                    "name": "Calendar: AI breeding window — conditions suitable",
+                    "priority": priority,
+                    "risk": "none — THI within acceptable range for AI",
+                    "actions": [
+                        action,
+                        "Check for standing heat 2–3 times daily (morning, midday, evening)",
+                        "Inseminate 12–18 hours after standing heat is first observed",
+                    ],
+                    "source": "crop_calendar",
+                })
+
+        elif activity == "drying_off":
+            rules.append({
+                "id": f"CAL-{activity.upper()}",
+                "category": "CALENDAR_MANAGEMENT",
+                "name": "Calendar: Dry-off period — cows due for drying off this month",
+                "priority": priority,
+                "risk": "Inadequate dry period reduces next lactation yield and raises mastitis risk",
+                "actions": [
+                    action,
+                    "Infuse dry cow therapy (DCT) antibiotic tubes at dry-off",
+                    "Check udder daily for first 2 weeks after dry-off for mastitis signs",
+                    "Reduce feed to low-energy ration to support milk let-down cessation",
+                ],
+                "source": "crop_calendar",
+            })
+
+        elif activity == "housing_maintenance":
+            if rain > 0:
+                rules.append({
+                    "id": f"CAL-{activity.upper()}-URGENT",
+                    "category": "CALENDAR_MANAGEMENT",
+                    "name": "Calendar: Housing maintenance — wet conditions increase urgency",
+                    "priority": "high",
+                    "risk": "Wet, dirty housing is the leading driver of mastitis and respiratory disease in dairy",
+                    "actions": [
+                        action,
+                        "Fix drainage channels before rains continue — standing water must not pool in stalls",
+                        "Add dry bedding (sawdust or dry grass) over wet floor",
+                        "Check roof for leaks and repair",
+                    ],
+                    "source": "crop_calendar",
+                })
+            else:
+                rules.append({
+                    "id": f"CAL-{activity.upper()}",
+                    "category": "CALENDAR_MANAGEMENT",
+                    "name": "Calendar: Housing maintenance — schedule now before rains",
+                    "priority": priority,
+                    "risk": "none — proactive maintenance while conditions are dry",
+                    "actions": [
+                        action,
+                        "Check and clear drainage channels",
+                        "Inspect roof, repair before short rains begin",
+                        "Top up bedding depth to 10–15cm",
+                    ],
+                    "source": "crop_calendar",
+                })
+
+        elif activity == "forage_planting":
+            if rain > 2:
+                rules.append({
+                    "id": f"CAL-{activity.upper()}",
+                    "category": "CALENDAR_MANAGEMENT",
+                    "name": "Calendar: Forage planting window — rain providing good establishment",
+                    "priority": priority,
+                    "risk": "none — rain-assisted planting conditions",
+                    "actions": [
+                        action,
+                        "Plant Napier grass cuttings or seed Boma Rhodes/Brachiaria while soil is moist",
+                        "Apply basal fertiliser (DSP) at planting into moist soil",
+                    ],
+                    "source": "crop_calendar",
+                })
+            else:
+                rules.append({
+                    "id": f"CAL-{activity.upper()}-WAIT",
+                    "category": "CALENDAR_MANAGEMENT",
+                    "name": "Calendar: Forage planting window — prepare land, plant on first rain",
+                    "priority": "informational",
+                    "risk": "Planting into dry soil causes poor germination and establishment failure",
+                    "actions": [
+                        action,
+                        "Prepare land and source planting material now",
+                        "Plant within 3 days of first significant rain (>5mm)",
+                    ],
+                    "source": "crop_calendar",
+                })
+
         else:
             # Generic calendar task
             rules.append({
@@ -274,7 +462,7 @@ def generate_calendar_rules(calendar_ctx: dict, weather: dict) -> list[dict]:
             "risk": f"Seasonal risk is HIGH for: {', '.join(high_risk_diseases)}",
             "actions": [
                 f"Monitor closely for {', '.join(high_risk_diseases)} symptoms",
-                "Ensure fungicide program is current (copper every 14 days in wet weather)",
+                "Ensure current prevention program is active for flagged diseases",
             ],
             "source": "crop_calendar",
         })
@@ -291,6 +479,24 @@ def generate_calendar_rules(calendar_ctx: dict, weather: dict) -> list[dict]:
             "actions": [
                 f"Increase scouting frequency for {', '.join(high_risk_pests)}",
                 "Check traps and replace lures if older than 4 weeks",
+            ],
+            "source": "crop_calendar",
+        })
+
+    # Dairy parasite risk (ticks, worms) — uses parasite_risk key, not pest_risk
+    parasite_risk = calendar_ctx.get("parasite_risk", {})
+    high_risk_parasites = [p for p, level in parasite_risk.items() if level in ("high", "very_high")]
+    if high_risk_parasites:
+        rules.append({
+            "id": "CAL-PARASITE-ALERT",
+            "category": "CALENDAR_MANAGEMENT",
+            "name": "Calendar: Elevated parasite risk this month",
+            "priority": "high" if any(parasite_risk[p] == "very_high" for p in high_risk_parasites) else "medium",
+            "risk": f"Seasonal parasite pressure elevated for: {', '.join(high_risk_parasites)}",
+            "actions": [
+                f"Increase monitoring frequency for {', '.join(high_risk_parasites)}",
+                "Check animals for tick attachment sites (ears, tail, udder, groin)",
+                "Assess faecal egg count before strategic deworming if possible",
             ],
             "source": "crop_calendar",
         })
@@ -367,6 +573,14 @@ def parse_weather_data(raw: dict) -> dict:
     # Soil temperature proxy
     if parsed.get("temperature_c") is not None:
         parsed["soil_temp_estimate_c"] = parsed["temperature_c"] - 2
+
+    # THI (Temperature-Humidity Index) — used by dairy heat stress rules
+    # Formula: THI = 0.8 × T + (RH / 100) × (T − 14.4) + 46.4
+    # Thresholds: <72 comfortable, 72–78 mild stress, ≥78 severe stress
+    if parsed.get("temperature_c") is not None and parsed.get("relative_humidity_pct") is not None:
+        t = parsed["temperature_c"]
+        rh = parsed["relative_humidity_pct"]
+        parsed["thi_value"] = round(0.8 * t + (rh / 100) * (t - 14.4) + 46.4, 1)
 
     # Rain probability estimate from current conditions
     if qpf > 5:
